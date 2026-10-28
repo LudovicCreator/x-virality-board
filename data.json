@@ -1,419 +1,377 @@
 {
- "title": "Daily X narrative digest - 2026-10-26",
- "date": "2026-10-26",
- "timezone": "Europe/Paris",
- "updated": "2026-10-27T11:19:51+01:00",
- "brand_title": "LudovicCreator X Virality Score",
- "brand_handle": "@LudovicCreator",
- "hits": [
-  {
-   "handle": "@EHuanglu",
-   "name": "el.cine",
-   "url": "https://x.com/EHuanglu/status/2114679577738162359",
-   "status_url": "https://x.com/EHuanglu/status/2114679577738162359",
-   "text": "they still saying AI film has no taste https://t.co/RJCVfWtLnm",
-   "original_en": "they still saying AI film has no taste https://t.co/RJCVfWtLnm",
-   "views": 51352,
-   "likes": 481,
-   "reposts": 34,
-   "bookmarks": 136,
-   "created_at": "2026-10-26T11:24:34.000Z",
-   "highlight": true,
-   "self_quote": false,
-   "draft_en": "People keep telling me AI film has no taste. Taste is a choice you make in every frame, not a feature of the tool. Here is one of my AI VFX shots, judge for yourself.",
-   "draft_keywords": [
-    "AI film",
-    "AI VFX",
-    "taste"
-   ],
-   "video_tip": "10-15s cinematic sequence, one strong art-directed palette, slow camera move, no text overlays; let the craft speak, open on the most composed frame."
-  },
-  {
-   "handle": "@minchoi",
-   "name": "Min Choi",
-   "url": "https://x.com/minchoi/status/2114558144202379422",
-   "status_url": "https://x.com/minchoi/status/2114558144202379422",
-   "text": "Humanoid robots are getting wild.\n\nA droid butler from an ex-Boston Dynamics roboticist. A bodyguard bot that lifts a car. A G1 that climbs ladders.\n\n10 wild examples.\n\nBookmark this.",
-   "original_en": "Humanoid robots are getting wild.\n\nA droid butler from an ex-Boston Dynamics roboticist. A bodyguard bot that lifts a car. A G1 that climbs ladders.\n\n10 wild examples.\n\nBookmark this.",
-   "views": 22981,
-   "likes": 109,
-   "reposts": 11,
-   "bookmarks": 55,
-   "created_at": "2026-10-26T03:22:02.000Z",
-   "highlight": true,
-   "self_quote": false
-  },
-  {
-   "handle": "@AIWarper",
-   "name": "A.I.Warper",
-   "url": "https://x.com/AIWarper/status/2114736275794366467",
-   "status_url": "https://x.com/AIWarper/status/2114736275794366467",
-   "text": "Kling 4.0 (Edit Video) vs Seedance 2.5 (omni edit)\n\nI think I prefer the overall quality of SD 2.5, but I never could get the tattoos removed from the hands.\n\nKling is also significantly cheaper.\n\nMORE BELOW 🧵\n\nSource: Samy Elbanna 🐐 https://t.co/IYwqJc7SHz",
-   "original_en": "Kling 4.0 (Edit Video) vs Seedance 2.5 (omni edit)\n\nI think I prefer the overall quality of SD 2.5, but I never could get the tattoos removed from the hands.\n\nKling is also significantly cheaper.\n\nMORE BELOW 🧵\n\nSource: Samy Elbanna 🐐 https://t.co/IYwqJc7SHz",
-   "views": 21656,
-   "likes": 274,
-   "reposts": 22,
-   "bookmarks": 228,
-   "created_at": "2026-10-26T15:09:52.000Z",
-   "highlight": true,
-   "self_quote": false,
-   "draft_en": "Kling 4.0 edit vs Seedance 2.5 omni edit, same source clip. Seedance looks cleaner overall, Kling costs a lot less. Which one wins for your workflow? Breakdown in the thread.",
-   "draft_keywords": [
-    "Kling 4.0",
-    "Seedance 2.5",
-    "video edit"
-   ],
-   "video_tip": "Side-by-side split screen of the same source clip through both models, labels on each half, 8-12s; thread with one frame per difference."
-  },
-  {
-   "handle": "@minchoi",
-   "name": "Min Choi",
-   "url": "https://x.com/minchoi/status/2114799296285667487",
-   "status_url": "https://x.com/minchoi/status/2114799296285667487",
-   "text": "Holy smokes...\n\nOpenAI just dropped GPT-6.1 Terra.\n\nGPT-6 Astra-level computer use at 1/10 the token price.\n\n3x faster than Astra + Sol 🤯 https://t.co/gtGmdnJvGk https://t.co/duXDffbyww",
-   "original_en": "Holy smokes...\n\nOpenAI just dropped GPT-6.1 Terra.\n\nGPT-6 Astra-level computer use at 1/10 the token price.\n\n3x faster than Astra + Sol 🤯 https://t.co/gtGmdnJvGk https://t.co/duXDffbyww",
-   "views": 20863,
-   "likes": 106,
-   "reposts": 6,
-   "bookmarks": 32,
-   "created_at": "2026-10-26T19:20:17.000Z",
-   "highlight": true,
-   "self_quote": false
-  },
-  {
-   "handle": "@minchoi",
-   "name": "Min Choi",
-   "url": "https://x.com/minchoi/status/2114740978128941505",
-   "status_url": "https://x.com/minchoi/status/2114740978128941505",
-   "text": "Anthropic's S-1 SEC filing is out for IPO.\n\nThe numbers are insane.\n\n• $16.3B revenue in H1 2026, up 1,300%\n• 11,900+ customers paying $100K+, up from ~950\n• ~900% net revenue retention\n• Positive operating cash flow: +$3.9B\n• \"$80.7B loss\" is mostly accounting: $72.4B is https://t.co/RzyNBHBakn https://t.co/9fdxbGgcm2",
-   "original_en": "Anthropic's S-1 SEC filing is out for IPO.\n\nThe numbers are insane.\n\n• $16.3B revenue in H1 2026, up 1,300%\n• 11,900+ customers paying $100K+, up from ~950\n• ~900% net revenue retention\n• Positive operating cash flow: +$3.9B\n• \"$80.7B loss\" is mostly accounting: $72.4B is https://t.co/RzyNBHBakn https://t.co/9fdxbGgcm2",
-   "views": 11088,
-   "likes": 62,
-   "reposts": 6,
-   "bookmarks": 10,
-   "created_at": "2026-10-26T15:28:33.000Z",
-   "highlight": true,
-   "self_quote": false
-  },
-  {
-   "handle": "@EHuanglu",
-   "name": "el.cine",
-   "url": "https://x.com/EHuanglu/status/2114791012946333777",
-   "status_url": "https://x.com/EHuanglu/status/2114791012946333777",
-   "text": "wow.. blender is now inside chatgpt, you can do 3D modelling and animation by talk with it https://t.co/AZkVweZcfZ https://t.co/3kfe4JvilX",
-   "original_en": "wow.. blender is now inside chatgpt, you can do 3D modelling and animation by talk with it https://t.co/AZkVweZcfZ https://t.co/3kfe4JvilX",
-   "views": 10020,
-   "likes": 144,
-   "reposts": 16,
-   "bookmarks": 97,
-   "created_at": "2026-10-26T18:47:23.000Z",
-   "highlight": true,
-   "self_quote": false,
-   "draft_en": "Blender now runs inside ChatGPT. You describe the scene, it models and animates. For AI VFX people this changes how fast a 3D blockout can happen.",
-   "draft_keywords": [
-    "Blender",
-    "ChatGPT",
-    "3D",
-    "AI VFX"
-   ],
-   "video_tip": "Screen capture: prompt typed on the left, 3D blockout appearing on the right, then your rendered VFX shot built on it; 15s."
-  },
-  {
-   "handle": "@AIWarper",
-   "name": "A.I.Warper",
-   "url": "https://x.com/AIWarper/status/2114531085426303447",
-   "status_url": "https://x.com/AIWarper/status/2114531085426303447",
-   "text": "Currently testing Kling 4.0 vs Wan 3.0 vs Seedance 2.5 for video-2-video.\n\nWill share comparisons tomorrow but spoiler... Kling 4.0 (edit video) feels better than Seedance in tese early tests\n\nI'm sure Higgsfield are prepping their \"GeNGitSu Lite 1.5\" endpoint as we speak",
-   "original_en": "Currently testing Kling 4.0 vs Wan 3.0 vs Seedance 2.5 for video-2-video.\n\nWill share comparisons tomorrow but spoiler... Kling 4.0 (edit video) feels better than Seedance in tese early tests\n\nI'm sure Higgsfield are prepping their \"GeNGitSu Lite 1.5\" endpoint as we speak",
-   "views": 9783,
-   "likes": 147,
-   "reposts": 2,
-   "bookmarks": 46,
-   "created_at": "2026-10-26T01:34:31.000Z",
-   "highlight": false,
-   "self_quote": false,
-   "draft_en": "Running Kling 4.0, Wan 3.0 and Seedance 2.5 through the same video-to-video test right now. Early read: Kling edit is ahead. Full comparison drops tomorrow.",
-   "draft_keywords": [
-    "Kling 4.0",
-    "Wan 3.0",
-    "Seedance 2.5",
-    "video-to-video"
-   ],
-   "video_tip": "Teaser: 3-way grid of the same frame from each model, blurred labels, 6s loop; promise the full comparison next day."
-  },
-  {
-   "handle": "@minchoi",
-   "name": "Min Choi",
-   "url": "https://x.com/minchoi/status/2114826714023067991",
-   "status_url": "https://x.com/minchoi/status/2114826714023067991",
-   "text": "So Claude Sonnet 5.5 is better... https://t.co/SGwcxMrgji https://t.co/HQOsCQRNdH",
-   "original_en": "So Claude Sonnet 5.5 is better... https://t.co/SGwcxMrgji https://t.co/HQOsCQRNdH",
-   "views": 9596,
-   "likes": 55,
-   "reposts": 1,
-   "bookmarks": 10,
-   "created_at": "2026-10-26T21:09:14.000Z",
-   "highlight": false,
-   "self_quote": false
-  },
-  {
-   "handle": "@minchoi",
-   "name": "Min Choi",
-   "url": "https://x.com/minchoi/status/2114711193302737072",
-   "status_url": "https://x.com/minchoi/status/2114711193302737072",
-   "text": "It's happening.\n\nAnthropic just officially filed for its IPO.\n\nMaker of Claude plans to list on Nasdaq under ticker ANT.\n\nIPO price + date still TBD. https://t.co/gz5BRL4Nh2 https://t.co/9fdxbGgKbA",
-   "original_en": "It's happening.\n\nAnthropic just officially filed for its IPO.\n\nMaker of Claude plans to list on Nasdaq under ticker ANT.\n\nIPO price + date still TBD. https://t.co/gz5BRL4Nh2 https://t.co/9fdxbGgKbA",
-   "views": 8508,
-   "likes": 31,
-   "reposts": 2,
-   "bookmarks": 3,
-   "created_at": "2026-10-26T13:30:12.000Z",
-   "highlight": false,
-   "self_quote": false
-  },
-  {
-   "handle": "@EHuanglu",
-   "name": "el.cine",
-   "url": "https://x.com/EHuanglu/status/2114745700408025183",
-   "status_url": "https://x.com/EHuanglu/status/2114745700408025183",
-   "text": "they don't belong in our world..\n\nbut maybe we're the ones who forgot this planet belongs to them too\n\nincredible AI short film https://t.co/0DSBt9kz9S",
-   "original_en": "they don't belong in our world..\n\nbut maybe we're the ones who forgot this planet belongs to them too\n\nincredible AI short film https://t.co/0DSBt9kz9S",
-   "views": 7896,
-   "likes": 48,
-   "reposts": 8,
-   "bookmarks": 12,
-   "created_at": "2026-10-26T15:47:19.000Z",
-   "highlight": false,
-   "self_quote": false
-  },
-  {
-   "handle": "@EHuanglu",
-   "name": "el.cine",
-   "url": "https://x.com/EHuanglu/status/2114660317146083545",
-   "status_url": "https://x.com/EHuanglu/status/2114660317146083545",
-   "text": "this AI product ad is fully open sourced\n\nyou can upload one photo to swap the actor or product\n\nlink: https://t.co/OfAPIYg6ln https://t.co/mWhalJyWwV",
-   "original_en": "this AI product ad is fully open sourced\n\nyou can upload one photo to swap the actor or product\n\nlink: https://t.co/OfAPIYg6ln https://t.co/mWhalJyWwV",
-   "views": 7711,
-   "likes": 57,
-   "reposts": 6,
-   "bookmarks": 44,
-   "created_at": "2026-10-26T10:08:02.000Z",
-   "highlight": false,
-   "self_quote": false
-  },
-  {
-   "handle": "@techhalla",
-   "name": "TechHalla",
-   "url": "https://x.com/techhalla/status/2114701412810829931",
-   "status_url": "https://x.com/techhalla/status/2114701412810829931",
-   "text": "best way to avoid AI artifacts is a solid 3D motion reference\n\nand this Magnific workflow with Kling 4.0 shows exactly that. check it out below 👇 https://t.co/MvKo1WoP05",
-   "original_en": "best way to avoid AI artifacts is a solid 3D motion reference\n\nand this Magnific workflow with Kling 4.0 shows exactly that. check it out below 👇 https://t.co/MvKo1WoP05",
-   "views": 5754,
-   "likes": 36,
-   "reposts": 3,
-   "bookmarks": 20,
-   "created_at": "2026-10-26T12:51:20.000Z",
-   "highlight": false,
-   "self_quote": false,
-   "draft_en": "The easiest fix for AI artifacts: give the model a clean 3D motion reference first. Magnific for the look, Kling 4.0 for the motion. Workflow below 👇",
-   "draft_keywords": [
-    "Magnific",
-    "Kling 4.0",
-    "3D motion reference",
-    "AI artifacts"
-   ],
-   "video_tip": "Before/after: grey 3D motion pass, then the final Magnific + Kling 4.0 shot over it, 10s; workflow steps in the first reply."
-  }
- ],
- "virals": [],
- "outsiders": [],
- "patterns": [
-  "Kling 4.0 vs Seedance 2.5 (vs Wan 3.0) comparisons",
-  "AI film taste debate",
-  "3D motion reference to kill AI artifacts",
-  "Blender inside ChatGPT",
-  "Anthropic IPO / S-1 news (minchoi, off-niche)",
-  "Magnific + Kling 4.0 workflows",
-  "video-first posts outperform image sets"
- ],
- "no_hits": [
-  {
-   "handle": "@maxescu",
-   "reason": "No original on Oct 26 reached 5,000 views; highest observed was 4,597 views.",
-   "max_views": 4597
-  },
-  {
-   "handle": "@azed_ai",
-   "reason": "No original on Oct 26 reached 5,000 views; highest observed was 3,073 views.",
-   "max_views": 3073
-  },
-  {
-   "handle": "@CharaspowerAI",
-   "reason": "No original on Oct 26 reached 5,000 views; highest observed was 1,716 views.",
-   "max_views": 1716
-  },
-  {
-   "handle": "@MayorKingAI",
-   "reason": "No original on Oct 26 reached 5,000 views; highest observed was 1,179 views.",
-   "max_views": 1179
-  },
-  {
-   "handle": "@CoffeeVectors",
-   "reason": "No original posts on Oct 26.",
-   "max_views": 0
-  },
-  {
-   "handle": "@Salmaaboukarr",
-   "reason": "No original posts on Oct 26.",
-   "max_views": 0
-  },
-  {
-   "handle": "@ai_artworkgen",
-   "reason": "No original on Oct 26 reached 5,000 views; highest observed was 1,164 views.",
-   "max_views": 1164
-  }
- ],
- "virals_narrative": "Oct 26: model comparisons (Kling 4.0, Seedance 2.5, Wan 3.0) and the 'AI film has no taste' debate drove the AI VFX niche; 3D-reference workflows are rising.",
- "narrative_synthesis": "Oct 26: model comparisons (Kling 4.0, Seedance 2.5, Wan 3.0) and the 'AI film has no taste' debate drove the AI VFX niche; 3D-reference workflows are rising.",
- "virals_window": "last ~48h",
- "virals_target": 20,
- "hits_count": 12,
- "outsiders_count": 0,
- "previous_day": {
-  "date": "2026-10-25",
-  "hits_count": 42,
-  "total_views": 853435
- },
- "leaderboards": {
-  "as_of": "2026-09-15",
-  "tracking_start": "2026-09-13",
-  "days_included": [
-   "2026-09-09",
-   "2026-09-10",
-   "2026-09-11",
-   "2026-09-12",
-   "2026-09-13",
-   "2026-09-14",
-   "2026-09-15"
+  "title": "Daily X narrative digest — 2026-10-27",
+  "date": "2026-10-27",
+  "timezone": "Europe/Paris",
+  "updated": "2026-10-28T09:09:40+01:00",
+  "brand_title": "LudovicCreator X Virality Score",
+  "brand_handle": "@LudovicCreator",
+  "hits": [
+    {
+      "handle": "@techhalla",
+      "name": "techhalla",
+      "url": "https://x.com/techhalla/status/2115124762959626312",
+      "status_url": "https://x.com/techhalla/status/2115124762959626312",
+      "text": "Toxicity (1974) https://t.co/8jk7PznaFw",
+      "original_en": "Toxicity (1974) https://t.co/8jk7PznaFw",
+      "views": 148510,
+      "likes": 2459,
+      "reposts": 407,
+      "bookmarks": 834,
+      "created_at": "2026-10-27T16:53:35.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@minchoi",
+      "name": "minchoi",
+      "url": "https://x.com/minchoi/status/2115134572811931792",
+      "status_url": "https://x.com/minchoi/status/2115134572811931792",
+      "text": "Holy smokes. Google just revealed Genie 4.\n\nPhotorealistic AI worlds you can explore in REAL TIME.\n\nWalk around. Talk to characters. Change scenes with prompts.\n\n10 wild examples + prompts. ↓\n\n1. Immersive first person POV dragon flight https://t.co/xiCrkUksoE",
+      "original_en": "Holy smokes. Google just revealed Genie 4.\n\nPhotorealistic AI worlds you can explore in REAL TIME.\n\nWalk around. Talk to characters. Change scenes with prompts.\n\n10 wild examples + prompts. ↓\n\n1. Immersive first person POV dragon flight https://t.co/xiCrkUksoE",
+      "views": 32289,
+      "likes": 284,
+      "reposts": 24,
+      "bookmarks": 159,
+      "created_at": "2026-10-27T17:32:34.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@minchoi",
+      "name": "minchoi",
+      "url": "https://x.com/minchoi/status/2114918246759682057",
+      "status_url": "https://x.com/minchoi/status/2114918246759682057",
+      "text": "What an insane day in AI.\n\nOpenAI claims major breakthroughs in math, CS + physics.\n\nAnthropic just filed for its IPO.\n\nGPT-6.1 Terra dropped.\n\n10 wild AI stories you don't want to miss:",
+      "original_en": "What an insane day in AI.\n\nOpenAI claims major breakthroughs in math, CS + physics.\n\nAnthropic just filed for its IPO.\n\nGPT-6.1 Terra dropped.\n\n10 wild AI stories you don't want to miss:",
+      "views": 24315,
+      "likes": 123,
+      "reposts": 16,
+      "bookmarks": 25,
+      "created_at": "2026-10-27T03:12:57.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@minchoi",
+      "name": "minchoi",
+      "url": "https://x.com/minchoi/status/2115082511457939494",
+      "status_url": "https://x.com/minchoi/status/2115082511457939494",
+      "text": "Anthropic just flipped the AI agent playbook.\n\nONE agent + skills can beat a team of subagents.\n\nBetter quality. Lower cost. Less latency.\n\nOne customer's loop ran ~2x faster.\n\n7 rules every AI agent builder should know.\n\nBookmark this ↓\n\n1. Start with ONE agent\n\nOne model. One https://t.co/knu7nSmTcw",
+      "original_en": "Anthropic just flipped the AI agent playbook.\n\nONE agent + skills can beat a team of subagents.\n\nBetter quality. Lower cost. Less latency.\n\nOne customer's loop ran ~2x faster.\n\n7 rules every AI agent builder should know.\n\nBookmark this ↓\n\n1. Start with ONE agent\n\nOne model. One https://t.co/knu7nSmTcw",
+      "views": 16619,
+      "likes": 100,
+      "reposts": 12,
+      "bookmarks": 123,
+      "created_at": "2026-10-27T14:05:41.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@CharaspowerAI",
+      "name": "CharaspowerAI",
+      "url": "https://x.com/CharaspowerAI/status/2115111180268404930",
+      "status_url": "https://x.com/CharaspowerAI/status/2115111180268404930",
+      "text": "Okay, I have to admit it… I think Donald Trump might have been right about Nicki Minaj after all. 💀😂 https://t.co/mT5hW7d6jo",
+      "original_en": "Okay, I have to admit it… I think Donald Trump might have been right about Nicki Minaj after all. 💀😂 https://t.co/mT5hW7d6jo",
+      "views": 13971,
+      "likes": 90,
+      "reposts": 9,
+      "bookmarks": 31,
+      "created_at": "2026-10-27T15:59:36.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@EHuanglu",
+      "name": "EHuanglu",
+      "url": "https://x.com/EHuanglu/status/2114901811182407838",
+      "status_url": "https://x.com/EHuanglu/status/2114901811182407838",
+      "text": "people dont realize how much time making videos takes beyond editing..\n\nwatch hours of footage, find clips, write posts, make thumbnails.. sometimes this takes longer than editing itself\n\nThis Riverside Agents just launched to handle all this, and nothing goes live without https://t.co/dzvj1n7aiR",
+      "original_en": "people dont realize how much time making videos takes beyond editing..\n\nwatch hours of footage, find clips, write posts, make thumbnails.. sometimes this takes longer than editing itself\n\nThis Riverside Agents just launched to handle all this, and nothing goes live without https://t.co/dzvj1n7aiR",
+      "views": 10502,
+      "likes": 37,
+      "reposts": 5,
+      "bookmarks": 39,
+      "created_at": "2026-10-27T02:07:39.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@azed_ai",
+      "name": "azed_ai",
+      "url": "https://x.com/azed_ai/status/2115034792404324628",
+      "status_url": "https://x.com/azed_ai/status/2115034792404324628",
+      "text": "Prompt share: Fluffy Toothy Monsters\n\n💬 Prompt:\nAn adorable little fluffy 3D animated movie monster with a [body shape] body completely covered in thick, ultra-soft, plush [fur color] fur, realistic individual hair strands, dense velvety fluff, huge expressive [eye color] eyes, https://t.co/8n5WblEzsT",
+      "original_en": "Prompt share: Fluffy Toothy Monsters\n\n💬 Prompt:\nAn adorable little fluffy 3D animated movie monster with a [body shape] body completely covered in thick, ultra-soft, plush [fur color] fur, realistic individual hair strands, dense velvety fluff, huge expressive [eye color] eyes, https://t.co/8n5WblEzsT",
+      "views": 8151,
+      "likes": 174,
+      "reposts": 16,
+      "bookmarks": 89,
+      "created_at": "2026-10-27T10:56:04.000Z",
+      "highlight": false,
+      "self_quote": false
+    },
+    {
+      "handle": "@techhalla",
+      "name": "techhalla",
+      "url": "https://x.com/techhalla/status/2115093625784943061",
+      "status_url": "https://x.com/techhalla/status/2115093625784943061",
+      "text": "idk what I'd do in a situation like that\n\nbut what I do know is that you got the prompts below 👇 https://t.co/01fSGEfeyj",
+      "original_en": "idk what I'd do in a situation like that\n\nbut what I do know is that you got the prompts below 👇 https://t.co/01fSGEfeyj",
+      "views": 6968,
+      "likes": 128,
+      "reposts": 4,
+      "bookmarks": 36,
+      "created_at": "2026-10-27T14:49:51.000Z",
+      "highlight": false,
+      "self_quote": false
+    },
+    {
+      "handle": "@azed_ai",
+      "name": "azed_ai",
+      "url": "https://x.com/azed_ai/status/2115111111469224174",
+      "status_url": "https://x.com/azed_ai/status/2115111111469224174",
+      "text": "A school hallway argument turns into a real fight\n\nCreated with Seedance 2.5 on @magnific\n\nDid this feel real to you?\n\nPrompt 👇🏻 https://t.co/kv2QQYMD5m",
+      "original_en": "A school hallway argument turns into a real fight\n\nCreated with Seedance 2.5 on @magnific\n\nDid this feel real to you?\n\nPrompt 👇🏻 https://t.co/kv2QQYMD5m",
+      "views": 5852,
+      "likes": 84,
+      "reposts": 9,
+      "bookmarks": 42,
+      "created_at": "2026-10-27T15:59:20.000Z",
+      "highlight": false,
+      "self_quote": false
+    },
+    {
+      "handle": "@EHuanglu",
+      "name": "EHuanglu",
+      "url": "https://x.com/EHuanglu/status/2115128012228403510",
+      "status_url": "https://x.com/EHuanglu/status/2115128012228403510",
+      "text": "AI made Vogue photoshoot for $3… free prompt https://t.co/kMHVHmbTo9",
+      "original_en": "AI made Vogue photoshoot for $3… free prompt https://t.co/kMHVHmbTo9",
+      "views": 5808,
+      "likes": 47,
+      "reposts": 4,
+      "bookmarks": 32,
+      "created_at": "2026-10-27T17:06:29.000Z",
+      "highlight": false,
+      "self_quote": false
+    }
   ],
-  "month_days_included": [
-   "2026-09-13",
-   "2026-09-14",
-   "2026-09-15"
+  "virals": [],
+  "outsiders": [],
+  "patterns": [
+    "Seedance 2.5 'one continuous shot, no cuts' transitions",
+    "'Prompt share' / 'prompts below 👇' CTA",
+    "retro / period-film aesthetic shorts",
+    "Genie 4 real-time interactive worlds (news wave)",
+    "Midjourney 8.2 --sref codes",
+    "Kling 4.0 v2v character swap",
+    "'Did this feel real?' engagement question"
   ],
-  "week": {
-   "label": "Rolling week · Sep 9–Sep 15",
-   "range": [
-    "2026-09-09",
-    "2026-09-15"
-   ],
-   "entries": []
-  },
-  "month": {
-   "label": "September 2026 · from Sep 13",
-   "range": [
-    "2026-09-13",
-    "2026-09-15"
-   ],
-   "entries": []
-  }
- },
- "board_features": {
-  "count_up": true,
-  "live_pulse": true,
-  "theme_toggle": true,
-  "themes": [
-   "night",
-   "day"
+  "no_hits": [
+    {
+      "handle": "@maxescu",
+      "reason": "No original on 2026-10-27 reached 5,000 views; highest observed was 2,412 views.",
+      "max_views": 2412
+    },
+    {
+      "handle": "@MayorKingAI",
+      "reason": "No original on 2026-10-27 reached 5,000 views; highest observed was 3,818 views.",
+      "max_views": 3818
+    },
+    {
+      "handle": "@CoffeeVectors",
+      "reason": "No original post on 2026-10-27.",
+      "max_views": 0
+    },
+    {
+      "handle": "@Salmaaboukarr",
+      "reason": "No original post on 2026-10-27.",
+      "max_views": 0
+    },
+    {
+      "handle": "@AIWarper",
+      "reason": "No original on 2026-10-27 reached 5,000 views; highest observed was 2,695 views.",
+      "max_views": 2695
+    },
+    {
+      "handle": "@ai_artworkgen",
+      "reason": "No original on 2026-10-27 reached 5,000 views; highest observed was 1,842 views.",
+      "max_views": 1842
+    }
   ],
-  "grok_ambient": true,
-  "week_month_boards": true,
-  "day_roster_best_total": true,
-  "day_compare_chart": true,
-  "week_strip": true,
-  "no_hits_reasons": true,
-  "marker_class": "xvs-dash-2026",
-  "top10_drafts_v4": true,
-  "trend_keywords": true,
-  "trend_radar": true,
-  "x_keyword_table": true,
-  "experiment": true,
-  "self_quote_badge": true
- },
- "operator": {
-  "handle": "@LudovicCreator",
-  "name": "Ludovic (Lumen Velar)",
-  "profile_url": "https://x.com/LudovicCreator"
- },
- "ui": {
-  "default_theme": "night"
- },
- "day_roster": [],
- "you_rank": null,
- "trend_input_only_posts": [],
- "drafts": [
-  {
-   "draft_en": "People keep telling me AI film has no taste. Taste is a choice you make in every frame, not a feature of the tool. Here is one of my AI VFX shots, judge for yourself.",
-   "draft_keywords": [
-    "AI film",
-    "AI VFX",
-    "taste"
-   ],
-   "video_tip": "10-15s cinematic sequence, one strong art-directed palette, slow camera move, no text overlays; let the craft speak, open on the most composed frame.",
-   "source": "https://x.com/EHuanglu/status/2114679577738162359",
-   "handle": "@EHuanglu",
-   "views": 51352
+  "virals_narrative": "Seedance 2.5 continuous-shot / no-cut transitions and 'prompt share' CTAs keep winning in AI VFX; techhalla's retro short 'Toxicity (1974)' is the day's monster (148K). Genie 4 (real-time AI worlds) is the news wave of the day.",
+  "narrative_synthesis": "Seedance 2.5 continuous-shot / no-cut transitions and 'prompt share' CTAs keep winning in AI VFX; techhalla's retro short 'Toxicity (1974)' is the day's monster (148K). Genie 4 (real-time AI worlds) is the news wave of the day.",
+  "virals_window": "last ~48h",
+  "virals_target": 20,
+  "hits_count": 10,
+  "outsiders_count": 0,
+  "previous_day": "2026-10-26",
+  "leaderboards": {
+    "as_of": "2026-10-27",
+    "tracking_start": "2026-09-13",
+    "days_included": [
+      "2026-10-21",
+      "2026-10-22",
+      "2026-10-23",
+      "2026-10-24",
+      "2026-10-25",
+      "2026-10-26",
+      "2026-10-27"
+    ],
+    "month_days_included": [],
+    "week": {
+      "label": "Rolling week · Oct 21–Oct 27",
+      "range": [
+        "2026-10-21",
+        "2026-10-27"
+      ],
+      "entries": []
+    },
+    "month": {
+      "label": "October 2026 · from Sep 13",
+      "range": [
+        "2026-09-13",
+        "2026-10-27"
+      ],
+      "entries": []
+    }
   },
-  {
-   "draft_en": "Kling 4.0 edit vs Seedance 2.5 omni edit, same source clip. Seedance looks cleaner overall, Kling costs a lot less. Which one wins for your workflow? Breakdown in the thread.",
-   "draft_keywords": [
-    "Kling 4.0",
-    "Seedance 2.5",
-    "video edit"
-   ],
-   "video_tip": "Side-by-side split screen of the same source clip through both models, labels on each half, 8-12s; thread with one frame per difference.",
-   "source": "https://x.com/AIWarper/status/2114736275794366467",
-   "handle": "@AIWarper",
-   "views": 21656
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
   },
-  {
-   "draft_en": "Blender now runs inside ChatGPT. You describe the scene, it models and animates. For AI VFX people this changes how fast a 3D blockout can happen.",
-   "draft_keywords": [
-    "Blender",
-    "ChatGPT",
-    "3D",
-    "AI VFX"
-   ],
-   "video_tip": "Screen capture: prompt typed on the left, 3D blockout appearing on the right, then your rendered VFX shot built on it; 15s.",
-   "source": "https://x.com/EHuanglu/status/2114791012946333777",
-   "handle": "@EHuanglu",
-   "views": 10020
+  "operator": {
+    "handle": "@LudovicCreator",
+    "name": "Ludovic (Lumen Velar)",
+    "profile_url": "https://x.com/LudovicCreator"
   },
-  {
-   "draft_en": "Running Kling 4.0, Wan 3.0 and Seedance 2.5 through the same video-to-video test right now. Early read: Kling edit is ahead. Full comparison drops tomorrow.",
-   "draft_keywords": [
-    "Kling 4.0",
-    "Wan 3.0",
-    "Seedance 2.5",
-    "video-to-video"
-   ],
-   "video_tip": "Teaser: 3-way grid of the same frame from each model, blurred labels, 6s loop; promise the full comparison next day.",
-   "source": "https://x.com/AIWarper/status/2114531085426303447",
-   "handle": "@AIWarper",
-   "views": 9783
+  "ui": {
+    "default_theme": "night"
   },
-  {
-   "draft_en": "The easiest fix for AI artifacts: give the model a clean 3D motion reference first. Magnific for the look, Kling 4.0 for the motion. Workflow below 👇",
-   "draft_keywords": [
-    "Magnific",
-    "Kling 4.0",
-    "3D motion reference",
-    "AI artifacts"
-   ],
-   "video_tip": "Before/after: grey 3D motion pass, then the final Magnific + Kling 4.0 shot over it, 10s; workflow steps in the first reply.",
-   "source": "https://x.com/techhalla/status/2114701412810829931",
-   "handle": "@techhalla",
-   "views": 5754
-  }
- ]
+  "day_roster": [
+    {
+      "handle": "@techhalla",
+      "posts": 2,
+      "total_views": 155478,
+      "best_views": 148510
+    },
+    {
+      "handle": "@minchoi",
+      "posts": 3,
+      "total_views": 73223,
+      "best_views": 32289
+    },
+    {
+      "handle": "@CharaspowerAI",
+      "posts": 5,
+      "total_views": 21880,
+      "best_views": 13971
+    },
+    {
+      "handle": "@EHuanglu",
+      "posts": 3,
+      "total_views": 20921,
+      "best_views": 10502
+    },
+    {
+      "handle": "@azed_ai",
+      "posts": 5,
+      "total_views": 19862,
+      "best_views": 8151
+    },
+    {
+      "handle": "@MayorKingAI",
+      "posts": 1,
+      "total_views": 3818,
+      "best_views": 3818
+    },
+    {
+      "handle": "@maxescu",
+      "posts": 2,
+      "total_views": 3550,
+      "best_views": 2412
+    },
+    {
+      "handle": "@ai_artworkgen",
+      "posts": 3,
+      "total_views": 2750,
+      "best_views": 1842
+    },
+    {
+      "handle": "@AIWarper",
+      "posts": 1,
+      "total_views": 2695,
+      "best_views": 2695
+    }
+  ],
+  "you_rank": null,
+  "trend_input_only_posts": [],
+  "drafts": [
+    {
+      "draft_en": "One shot. No cuts. The camera never moves, the world does. Built it with Seedance 2.5, locked first frame, 4 eras in 12 seconds. Full prompt below 👇",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "no cuts",
+        "prompt share"
+      ],
+      "video_tip": "12s locked-off shot: a character stays perfectly still while the background cycles through 4 eras (1920s, 1974, today, 2080). Match light direction across eras so it reads as one continuous take."
+    },
+    {
+      "draft_en": "What if this trailer was shot in 1974? Same scene, real film grain, practical-looking VFX, zero modern gloss. Made with AI. Prompts below 👇",
+      "draft_keywords": [
+        "retro film",
+        "AI VFX",
+        "prompts below"
+      ],
+      "video_tip": "10-15s faux 70s trailer: 4:3 crop, heavy grain, warm halation, one big practical-style VFX moment (explosion or creature) at second 6. End on a period title card."
+    },
+    {
+      "draft_en": "Google's Genie 4 lets you walk inside AI worlds in real time. As a VFX artist, here's what that changes for previs, and what it doesn't. 🧵",
+      "draft_keywords": [
+        "Genie 4",
+        "AI worlds",
+        "previs"
+      ],
+      "video_tip": "Split screen: left a classic previs blockout, right your AI-generated environment fly-through of the same shot. 8-10s, then a text card with your take."
+    },
+    {
+      "draft_en": "Did this feel real to you? Every frame is AI. The trick is not the model, it's the physics: smoke, water and cloth reacting on time. Prompt share below 👇",
+      "draft_keywords": [
+        "Did this feel real",
+        "AI VFX",
+        "prompt share"
+      ],
+      "video_tip": "6-8s close-up with heavy practical-style physics (water splash or smoke through light rays), shot like a real camera with slight handheld; reveal the prompt in the first reply."
+    },
+    {
+      "draft_en": "Saturday Challenge preview: one image, six worlds. I'll give you a single first frame, you give me the wildest no-cut transition. Kling 4.0, Seedance, Grok Imagine, all welcome.",
+      "draft_keywords": [
+        "Saturday Challenge",
+        "no cuts",
+        "Kling 4.0",
+        "Seedance"
+      ],
+      "video_tip": "Show the shared first frame, then a fast 3-clip montage of different transitions from it (2-3s each). End with the challenge rules on screen."
+    }
+  ],
+  "excluded_hits": []
 }
