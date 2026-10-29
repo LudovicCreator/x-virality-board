@@ -1,158 +1,144 @@
 {
-  "title": "Daily X narrative digest — 2026-10-27",
-  "date": "2026-10-27",
+  "title": "Daily X narrative digest — 2026-10-28",
+  "date": "2026-10-28",
   "timezone": "Europe/Paris",
-  "updated": "2026-10-28T09:09:40+01:00",
+  "updated": "2026-10-29T09:03:30+01:00",
   "brand_title": "LudovicCreator X Virality Score",
   "brand_handle": "@LudovicCreator",
   "hits": [
     {
       "handle": "@techhalla",
       "name": "techhalla",
-      "url": "https://x.com/techhalla/status/2115124762959626312",
-      "status_url": "https://x.com/techhalla/status/2115124762959626312",
-      "text": "Toxicity (1974) https://t.co/8jk7PznaFw",
-      "original_en": "Toxicity (1974) https://t.co/8jk7PznaFw",
-      "views": 148510,
-      "likes": 2459,
-      "reposts": 407,
-      "bookmarks": 834,
-      "created_at": "2026-10-27T16:53:35.000Z",
+      "url": "https://x.com/techhalla/status/2115233501037633736",
+      "status_url": "https://x.com/techhalla/status/2115233501037633736",
+      "text": "Wait and bleed (1971)\n\nmake your own with H3 this way 👇 https://t.co/xi6L07zsLT",
+      "original_en": "Wait and bleed (1971)\n\nmake your own with H3 this way 👇 https://t.co/xi6L07zsLT",
+      "views": 126895,
+      "likes": 1337,
+      "reposts": 208,
+      "bookmarks": 756,
+      "created_at": "2026-10-28T00:05:40.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
       "handle": "@minchoi",
       "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2115134572811931792",
-      "status_url": "https://x.com/minchoi/status/2115134572811931792",
-      "text": "Holy smokes. Google just revealed Genie 4.\n\nPhotorealistic AI worlds you can explore in REAL TIME.\n\nWalk around. Talk to characters. Change scenes with prompts.\n\n10 wild examples + prompts. ↓\n\n1. Immersive first person POV dragon flight https://t.co/xiCrkUksoE",
-      "original_en": "Holy smokes. Google just revealed Genie 4.\n\nPhotorealistic AI worlds you can explore in REAL TIME.\n\nWalk around. Talk to characters. Change scenes with prompts.\n\n10 wild examples + prompts. ↓\n\n1. Immersive first person POV dragon flight https://t.co/xiCrkUksoE",
-      "views": 32289,
-      "likes": 284,
-      "reposts": 24,
-      "bookmarks": 159,
-      "created_at": "2026-10-27T17:32:34.000Z",
+      "url": "https://x.com/minchoi/status/2115290590959329451",
+      "status_url": "https://x.com/minchoi/status/2115290590959329451",
+      "text": "Anthropic literally dropped the Prompt Guide to get the most out of Claude Opus 5.5.\n\n11 best practices you should know. Bookmark this. 👇",
+      "original_en": "Anthropic literally dropped the Prompt Guide to get the most out of Claude Opus 5.5.\n\n11 best practices you should know. Bookmark this. 👇",
+      "views": 97153,
+      "likes": 619,
+      "reposts": 44,
+      "bookmarks": 1368,
+      "created_at": "2026-10-28T03:52:31.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@techhalla",
+      "name": "techhalla",
+      "url": "https://x.com/techhalla/status/2115560828103516219",
+      "status_url": "https://x.com/techhalla/status/2115560828103516219",
+      "text": "editing stopped being the hard part\n\nMagnific Move dropped and this tutorial shows how to squeeze the most out of it 🧵 https://t.co/RXaVY7Jrto",
+      "original_en": "editing stopped being the hard part\n\nMagnific Move dropped and this tutorial shows how to squeeze the most out of it 🧵 https://t.co/RXaVY7Jrto",
+      "views": 84906,
+      "likes": 57,
+      "reposts": 7,
+      "bookmarks": 56,
+      "created_at": "2026-10-28T21:46:21.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@techhalla",
+      "name": "techhalla",
+      "url": "https://x.com/techhalla/status/2115412138768629982",
+      "status_url": "https://x.com/techhalla/status/2115412138768629982",
+      "text": "Freak on a leash (1973, Andalusia) https://t.co/6IL5Xtn6HF https://t.co/Che3jy5nnW",
+      "original_en": "Freak on a leash (1973, Andalusia) https://t.co/6IL5Xtn6HF https://t.co/Che3jy5nnW",
+      "views": 40746,
+      "likes": 544,
+      "reposts": 67,
+      "bookmarks": 216,
+      "created_at": "2026-10-28T11:55:30.000Z",
+      "highlight": true,
+      "self_quote": true,
+      "self_quote_label": "self-quote"
+    },
+    {
+      "handle": "@EHuanglu",
+      "name": "EHuanglu",
+      "url": "https://x.com/EHuanglu/status/2115497210398093405",
+      "status_url": "https://x.com/EHuanglu/status/2115497210398093405",
+      "text": "this means you can basically clone any AI platform\n\nand use all these AI models for half the price.. https://t.co/KB3zAofAKF",
+      "original_en": "this means you can basically clone any AI platform\n\nand use all these AI models for half the price.. https://t.co/KB3zAofAKF",
+      "views": 34503,
+      "likes": 317,
+      "reposts": 35,
+      "bookmarks": 374,
+      "created_at": "2026-10-28T17:33:33.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@EHuanglu",
+      "name": "EHuanglu",
+      "url": "https://x.com/EHuanglu/status/2115452780018356307",
+      "status_url": "https://x.com/EHuanglu/status/2115452780018356307",
+      "text": "AI storytelling is getting incredible..\n\nseedance 2.5 now can turn storyboard into Pixar level 3D animation accurately in mins.. workflow below https://t.co/UFFApFJ0Fa",
+      "original_en": "AI storytelling is getting incredible..\n\nseedance 2.5 now can turn storyboard into Pixar level 3D animation accurately in mins.. workflow below https://t.co/UFFApFJ0Fa",
+      "views": 19791,
+      "likes": 287,
+      "reposts": 29,
+      "bookmarks": 252,
+      "created_at": "2026-10-28T14:37:00.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
       "handle": "@minchoi",
       "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2114918246759682057",
-      "status_url": "https://x.com/minchoi/status/2114918246759682057",
-      "text": "What an insane day in AI.\n\nOpenAI claims major breakthroughs in math, CS + physics.\n\nAnthropic just filed for its IPO.\n\nGPT-6.1 Terra dropped.\n\n10 wild AI stories you don't want to miss:",
-      "original_en": "What an insane day in AI.\n\nOpenAI claims major breakthroughs in math, CS + physics.\n\nAnthropic just filed for its IPO.\n\nGPT-6.1 Terra dropped.\n\n10 wild AI stories you don't want to miss:",
-      "views": 24315,
-      "likes": 123,
-      "reposts": 16,
-      "bookmarks": 25,
-      "created_at": "2026-10-27T03:12:57.000Z",
+      "url": "https://x.com/minchoi/status/2115459218840895802",
+      "status_url": "https://x.com/minchoi/status/2115459218840895802",
+      "text": "Claude is helping scientists develop new medicines.\n\n35,000 antibody designs in about a month.\n\n10x more receptors on cancer-fighting immune cells in lab tests.\n\n89% less human review time on drug manufacturing paperwork.\n\nAnd Anthropic just acquired a one-person biotech that https://t.co/ER67IrUPDi",
+      "original_en": "Claude is helping scientists develop new medicines.\n\n35,000 antibody designs in about a month.\n\n10x more receptors on cancer-fighting immune cells in lab tests.\n\n89% less human review time on drug manufacturing paperwork.\n\nAnd Anthropic just acquired a one-person biotech that https://t.co/ER67IrUPDi",
+      "views": 10437,
+      "likes": 55,
+      "reposts": 2,
+      "bookmarks": 10,
+      "created_at": "2026-10-28T15:02:35.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
       "handle": "@minchoi",
       "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2115082511457939494",
-      "status_url": "https://x.com/minchoi/status/2115082511457939494",
-      "text": "Anthropic just flipped the AI agent playbook.\n\nONE agent + skills can beat a team of subagents.\n\nBetter quality. Lower cost. Less latency.\n\nOne customer's loop ran ~2x faster.\n\n7 rules every AI agent builder should know.\n\nBookmark this ↓\n\n1. Start with ONE agent\n\nOne model. One https://t.co/knu7nSmTcw",
-      "original_en": "Anthropic just flipped the AI agent playbook.\n\nONE agent + skills can beat a team of subagents.\n\nBetter quality. Lower cost. Less latency.\n\nOne customer's loop ran ~2x faster.\n\n7 rules every AI agent builder should know.\n\nBookmark this ↓\n\n1. Start with ONE agent\n\nOne model. One https://t.co/knu7nSmTcw",
-      "views": 16619,
-      "likes": 100,
-      "reposts": 12,
-      "bookmarks": 123,
-      "created_at": "2026-10-27T14:05:41.000Z",
+      "url": "https://x.com/minchoi/status/2115505783626715300",
+      "status_url": "https://x.com/minchoi/status/2115505783626715300",
+      "text": "Google just unveiled Gemini 4 Carbon.\n\nOnly 2 weeks after Argon.\n\nAlready #1 on Artificial Analysis v5.\n\nAI agents that can code for DAYS.\n\nMajor leap in cybersecurity. Same price as Argon. https://t.co/rVTBykmRnd https://t.co/jOJGRtiRJL",
+      "original_en": "Google just unveiled Gemini 4 Carbon.\n\nOnly 2 weeks after Argon.\n\nAlready #1 on Artificial Analysis v5.\n\nAI agents that can code for DAYS.\n\nMajor leap in cybersecurity. Same price as Argon. https://t.co/rVTBykmRnd https://t.co/jOJGRtiRJL",
+      "views": 10185,
+      "likes": 80,
+      "reposts": 8,
+      "bookmarks": 15,
+      "created_at": "2026-10-28T18:07:37.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
       "handle": "@CharaspowerAI",
       "name": "CharaspowerAI",
-      "url": "https://x.com/CharaspowerAI/status/2115111180268404930",
-      "status_url": "https://x.com/CharaspowerAI/status/2115111180268404930",
-      "text": "Okay, I have to admit it… I think Donald Trump might have been right about Nicki Minaj after all. 💀😂 https://t.co/mT5hW7d6jo",
-      "original_en": "Okay, I have to admit it… I think Donald Trump might have been right about Nicki Minaj after all. 💀😂 https://t.co/mT5hW7d6jo",
-      "views": 13971,
-      "likes": 90,
-      "reposts": 9,
-      "bookmarks": 31,
-      "created_at": "2026-10-27T15:59:36.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@EHuanglu",
-      "name": "EHuanglu",
-      "url": "https://x.com/EHuanglu/status/2114901811182407838",
-      "status_url": "https://x.com/EHuanglu/status/2114901811182407838",
-      "text": "people dont realize how much time making videos takes beyond editing..\n\nwatch hours of footage, find clips, write posts, make thumbnails.. sometimes this takes longer than editing itself\n\nThis Riverside Agents just launched to handle all this, and nothing goes live without https://t.co/dzvj1n7aiR",
-      "original_en": "people dont realize how much time making videos takes beyond editing..\n\nwatch hours of footage, find clips, write posts, make thumbnails.. sometimes this takes longer than editing itself\n\nThis Riverside Agents just launched to handle all this, and nothing goes live without https://t.co/dzvj1n7aiR",
-      "views": 10502,
-      "likes": 37,
-      "reposts": 5,
-      "bookmarks": 39,
-      "created_at": "2026-10-27T02:07:39.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@azed_ai",
-      "name": "azed_ai",
-      "url": "https://x.com/azed_ai/status/2115034792404324628",
-      "status_url": "https://x.com/azed_ai/status/2115034792404324628",
-      "text": "Prompt share: Fluffy Toothy Monsters\n\n💬 Prompt:\nAn adorable little fluffy 3D animated movie monster with a [body shape] body completely covered in thick, ultra-soft, plush [fur color] fur, realistic individual hair strands, dense velvety fluff, huge expressive [eye color] eyes, https://t.co/8n5WblEzsT",
-      "original_en": "Prompt share: Fluffy Toothy Monsters\n\n💬 Prompt:\nAn adorable little fluffy 3D animated movie monster with a [body shape] body completely covered in thick, ultra-soft, plush [fur color] fur, realistic individual hair strands, dense velvety fluff, huge expressive [eye color] eyes, https://t.co/8n5WblEzsT",
-      "views": 8151,
-      "likes": 174,
-      "reposts": 16,
-      "bookmarks": 89,
-      "created_at": "2026-10-27T10:56:04.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@techhalla",
-      "name": "techhalla",
-      "url": "https://x.com/techhalla/status/2115093625784943061",
-      "status_url": "https://x.com/techhalla/status/2115093625784943061",
-      "text": "idk what I'd do in a situation like that\n\nbut what I do know is that you got the prompts below 👇 https://t.co/01fSGEfeyj",
-      "original_en": "idk what I'd do in a situation like that\n\nbut what I do know is that you got the prompts below 👇 https://t.co/01fSGEfeyj",
-      "views": 6968,
-      "likes": 128,
-      "reposts": 4,
-      "bookmarks": 36,
-      "created_at": "2026-10-27T14:49:51.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@azed_ai",
-      "name": "azed_ai",
-      "url": "https://x.com/azed_ai/status/2115111111469224174",
-      "status_url": "https://x.com/azed_ai/status/2115111111469224174",
-      "text": "A school hallway argument turns into a real fight\n\nCreated with Seedance 2.5 on @magnific\n\nDid this feel real to you?\n\nPrompt 👇🏻 https://t.co/kv2QQYMD5m",
-      "original_en": "A school hallway argument turns into a real fight\n\nCreated with Seedance 2.5 on @magnific\n\nDid this feel real to you?\n\nPrompt 👇🏻 https://t.co/kv2QQYMD5m",
-      "views": 5852,
-      "likes": 84,
-      "reposts": 9,
-      "bookmarks": 42,
-      "created_at": "2026-10-27T15:59:20.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@EHuanglu",
-      "name": "EHuanglu",
-      "url": "https://x.com/EHuanglu/status/2115128012228403510",
-      "status_url": "https://x.com/EHuanglu/status/2115128012228403510",
-      "text": "AI made Vogue photoshoot for $3… free prompt https://t.co/kMHVHmbTo9",
-      "original_en": "AI made Vogue photoshoot for $3… free prompt https://t.co/kMHVHmbTo9",
-      "views": 5808,
-      "likes": 47,
-      "reposts": 4,
-      "bookmarks": 32,
-      "created_at": "2026-10-27T17:06:29.000Z",
+      "url": "https://x.com/CharaspowerAI/status/2115519005406748906",
+      "status_url": "https://x.com/CharaspowerAI/status/2115519005406748906",
+      "text": "This entire anime sequence started from ONE Canvas. 👀🔥\nI wanted to see how far I could push the new Canvas-first workflow in the upgraded version of Dreamina on a real project.\n\nSo I built everything inside the same Canvas:\n→ Created my characters\n→ Built detailed Character https://t.co/PRzELesZIZ",
+      "original_en": "This entire anime sequence started from ONE Canvas. 👀🔥\nI wanted to see how far I could push the new Canvas-first workflow in the upgraded version of Dreamina on a real project.\n\nSo I built everything inside the same Canvas:\n→ Created my characters\n→ Built detailed Character https://t.co/PRzELesZIZ",
+      "views": 7446,
+      "likes": 16,
+      "reposts": 2,
+      "bookmarks": 6,
+      "created_at": "2026-10-28T19:00:09.000Z",
       "highlight": false,
       "self_quote": false
     }
@@ -160,81 +146,235 @@
   "virals": [],
   "outsiders": [],
   "patterns": [
-    "Seedance 2.5 'one continuous shot, no cuts' transitions",
-    "'Prompt share' / 'prompts below 👇' CTA",
-    "retro / period-film aesthetic shorts",
-    "Genie 4 real-time interactive worlds (news wave)",
-    "Midjourney 8.2 --sref codes",
-    "Kling 4.0 v2v character swap",
-    "'Did this feel real?' engagement question"
+    "Retro faux-period music shorts ('Title (1971)') + 'make your own this way 👇' CTA",
+    "Tool tutorial threads on fresh drops (Magnific Move 🧵)",
+    "Seedance 2.5 storyboard → 3D animation and v2v body-double swaps",
+    "'Everything from ONE Canvas' workflow framing (Dreamina)",
+    "Big-lab AI news + 'Bookmark this' lists (Claude Opus 5.5, Gemini 4 Carbon)",
+    "Halloween styling ahead of Oct 31 (Midjourney 8.2 --sref)"
   ],
   "no_hits": [
     {
       "handle": "@maxescu",
-      "reason": "No original on 2026-10-27 reached 5,000 views; highest observed was 2,412 views.",
-      "max_views": 2412
+      "reason": "No original on 2026-10-28 reached 5,000 views; highest observed was 1,359 views.",
+      "max_views": 1359
+    },
+    {
+      "handle": "@azed_ai",
+      "reason": "No original on 2026-10-28 reached 5,000 views; highest observed was 2,713 views.",
+      "max_views": 2713
     },
     {
       "handle": "@MayorKingAI",
-      "reason": "No original on 2026-10-27 reached 5,000 views; highest observed was 3,818 views.",
-      "max_views": 3818
+      "reason": "No original on 2026-10-28 reached 5,000 views; highest observed was 661 views.",
+      "max_views": 661
     },
     {
       "handle": "@CoffeeVectors",
-      "reason": "No original post on 2026-10-27.",
+      "reason": "No original post on 2026-10-28.",
       "max_views": 0
     },
     {
       "handle": "@Salmaaboukarr",
-      "reason": "No original post on 2026-10-27.",
+      "reason": "No original post on 2026-10-28.",
       "max_views": 0
     },
     {
       "handle": "@AIWarper",
-      "reason": "No original on 2026-10-27 reached 5,000 views; highest observed was 2,695 views.",
-      "max_views": 2695
+      "reason": "No original on 2026-10-28 reached 5,000 views; highest observed was 3,169 views.",
+      "max_views": 3169
     },
     {
       "handle": "@ai_artworkgen",
-      "reason": "No original on 2026-10-27 reached 5,000 views; highest observed was 1,842 views.",
-      "max_views": 1842
+      "reason": "No original on 2026-10-28 reached 5,000 views; highest observed was 640 views.",
+      "max_views": 640
     }
   ],
-  "virals_narrative": "Seedance 2.5 continuous-shot / no-cut transitions and 'prompt share' CTAs keep winning in AI VFX; techhalla's retro short 'Toxicity (1974)' is the day's monster (148K). Genie 4 (real-time AI worlds) is the news wave of the day.",
-  "narrative_synthesis": "Seedance 2.5 continuous-shot / no-cut transitions and 'prompt share' CTAs keep winning in AI VFX; techhalla's retro short 'Toxicity (1974)' is the day's monster (148K). Genie 4 (real-time AI worlds) is the news wave of the day.",
+  "virals_narrative": "Retro faux-period music shorts keep exploding (techhalla 'Wait and bleed (1971)' 127K, 'Freak on a leash (1973)' 41K) with a 'make your own this way 👇' CTA; tool tutorials (Magnific Move thread 85K, Seedance 2.5 storyboard-to-3D 20K) and big-lab AI news (Claude Opus 5.5 prompt guide 97K, Gemini 4 Carbon) carry the rest. Halloween styling is rising ahead of Oct 31.",
+  "narrative_synthesis": "Retro faux-period music shorts keep exploding (techhalla 'Wait and bleed (1971)' 127K, 'Freak on a leash (1973)' 41K) with a 'make your own this way 👇' CTA; tool tutorials (Magnific Move thread 85K, Seedance 2.5 storyboard-to-3D 20K) and big-lab AI news (Claude Opus 5.5 prompt guide 97K, Gemini 4 Carbon) carry the rest. Halloween styling is rising ahead of Oct 31.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 10,
+  "hits_count": 9,
   "outsiders_count": 0,
-  "previous_day": "2026-10-26",
+  "previous_day": "2026-10-27",
   "leaderboards": {
-    "as_of": "2026-10-27",
+    "as_of": "2026-10-28",
     "tracking_start": "2026-09-13",
     "days_included": [
-      "2026-10-21",
       "2026-10-22",
       "2026-10-23",
       "2026-10-24",
       "2026-10-25",
       "2026-10-26",
-      "2026-10-27"
+      "2026-10-27",
+      "2026-10-28"
     ],
-    "month_days_included": [],
+    "month_days_included": [
+      "2026-10-26",
+      "2026-10-27",
+      "2026-10-28"
+    ],
     "week": {
-      "label": "Rolling week · Oct 21–Oct 27",
+      "label": "Rolling week · Oct 22–Oct 28",
       "range": [
-        "2026-10-21",
-        "2026-10-27"
+        "2026-10-22",
+        "2026-10-28"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@techhalla",
+          "name": "techhalla",
+          "hits": 13,
+          "days": 3,
+          "views": 645084,
+          "best": 170400,
+          "best_url": "https://x.com/techhalla/status/2114304193636794799"
+        },
+        {
+          "handle": "@minchoi",
+          "name": "minchoi",
+          "hits": 14,
+          "days": 3,
+          "views": 379718,
+          "best": 97153,
+          "best_url": "https://x.com/minchoi/status/2115290590959329451"
+        },
+        {
+          "handle": "@EHuanglu",
+          "name": "EHuanglu",
+          "hits": 11,
+          "days": 3,
+          "views": 270051,
+          "best": 118020,
+          "best_url": "https://x.com/EHuanglu/status/2112980072240238723"
+        },
+        {
+          "handle": "@AIWarper",
+          "name": "AIWarper",
+          "hits": 9,
+          "days": 1,
+          "views": 116625,
+          "best": 36196,
+          "best_url": "https://x.com/AIWarper/status/2114437262062829746"
+        },
+        {
+          "handle": "@CharaspowerAI",
+          "name": "CharaspowerAI",
+          "hits": 5,
+          "days": 3,
+          "views": 52626,
+          "best": 18778,
+          "best_url": "https://x.com/CharaspowerAI/status/2112924513637941274"
+        },
+        {
+          "handle": "@maxescu",
+          "name": "maxescu",
+          "hits": 3,
+          "days": 1,
+          "views": 51978,
+          "best": 39302,
+          "best_url": "https://x.com/maxescu/status/2114013602835525662"
+        },
+        {
+          "handle": "@azed_ai",
+          "name": "azed_ai",
+          "hits": 5,
+          "days": 2,
+          "views": 33453,
+          "best": 8151,
+          "best_url": "https://x.com/azed_ai/status/2115034792404324628"
+        },
+        {
+          "handle": "@MayorKingAI",
+          "name": "MayorKingAI",
+          "hits": 1,
+          "days": 1,
+          "views": 8947,
+          "best": 8947,
+          "best_url": "https://x.com/MayorKingAI/status/2114062036120592625"
+        }
+      ]
     },
     "month": {
-      "label": "October 2026 · from Sep 13",
+      "label": "October 2026 · from Oct 26",
       "range": [
-        "2026-09-13",
-        "2026-10-27"
+        "2026-10-26",
+        "2026-10-28"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@techhalla",
+          "name": "techhalla",
+          "hits": 13,
+          "days": 3,
+          "views": 645084,
+          "best": 170400,
+          "best_url": "https://x.com/techhalla/status/2114304193636794799"
+        },
+        {
+          "handle": "@minchoi",
+          "name": "minchoi",
+          "hits": 14,
+          "days": 3,
+          "views": 379718,
+          "best": 97153,
+          "best_url": "https://x.com/minchoi/status/2115290590959329451"
+        },
+        {
+          "handle": "@EHuanglu",
+          "name": "EHuanglu",
+          "hits": 11,
+          "days": 3,
+          "views": 270051,
+          "best": 118020,
+          "best_url": "https://x.com/EHuanglu/status/2112980072240238723"
+        },
+        {
+          "handle": "@AIWarper",
+          "name": "AIWarper",
+          "hits": 9,
+          "days": 1,
+          "views": 116625,
+          "best": 36196,
+          "best_url": "https://x.com/AIWarper/status/2114437262062829746"
+        },
+        {
+          "handle": "@CharaspowerAI",
+          "name": "CharaspowerAI",
+          "hits": 5,
+          "days": 3,
+          "views": 52626,
+          "best": 18778,
+          "best_url": "https://x.com/CharaspowerAI/status/2112924513637941274"
+        },
+        {
+          "handle": "@maxescu",
+          "name": "maxescu",
+          "hits": 3,
+          "days": 1,
+          "views": 51978,
+          "best": 39302,
+          "best_url": "https://x.com/maxescu/status/2114013602835525662"
+        },
+        {
+          "handle": "@azed_ai",
+          "name": "azed_ai",
+          "hits": 5,
+          "days": 2,
+          "views": 33453,
+          "best": 8151,
+          "best_url": "https://x.com/azed_ai/status/2115034792404324628"
+        },
+        {
+          "handle": "@MayorKingAI",
+          "name": "MayorKingAI",
+          "hits": 1,
+          "days": 1,
+          "views": 8947,
+          "best": 8947,
+          "best_url": "https://x.com/MayorKingAI/status/2114062036120592625"
+        }
+      ]
     }
   },
   "board_features": {
@@ -270,107 +410,110 @@
   "day_roster": [
     {
       "handle": "@techhalla",
-      "posts": 2,
-      "total_views": 155478,
-      "best_views": 148510
+      "posts": 3,
+      "total_views": 252547,
+      "best_views": 126895
     },
     {
       "handle": "@minchoi",
       "posts": 3,
-      "total_views": 73223,
-      "best_views": 32289
-    },
-    {
-      "handle": "@CharaspowerAI",
-      "posts": 5,
-      "total_views": 21880,
-      "best_views": 13971
+      "total_views": 117775,
+      "best_views": 97153
     },
     {
       "handle": "@EHuanglu",
-      "posts": 3,
-      "total_views": 20921,
-      "best_views": 10502
+      "posts": 2,
+      "total_views": 54294,
+      "best_views": 34503
+    },
+    {
+      "handle": "@CharaspowerAI",
+      "posts": 4,
+      "total_views": 13353,
+      "best_views": 7446
     },
     {
       "handle": "@azed_ai",
-      "posts": 5,
-      "total_views": 19862,
-      "best_views": 8151
+      "posts": 3,
+      "total_views": 6662,
+      "best_views": 2713
+    },
+    {
+      "handle": "@AIWarper",
+      "posts": 2,
+      "total_views": 5216,
+      "best_views": 3169
+    },
+    {
+      "handle": "@maxescu",
+      "posts": 4,
+      "total_views": 4473,
+      "best_views": 1359
     },
     {
       "handle": "@MayorKingAI",
       "posts": 1,
-      "total_views": 3818,
-      "best_views": 3818
-    },
-    {
-      "handle": "@maxescu",
-      "posts": 2,
-      "total_views": 3550,
-      "best_views": 2412
+      "total_views": 661,
+      "best_views": 661
     },
     {
       "handle": "@ai_artworkgen",
-      "posts": 3,
-      "total_views": 2750,
-      "best_views": 1842
-    },
-    {
-      "handle": "@AIWarper",
       "posts": 1,
-      "total_views": 2695,
-      "best_views": 2695
+      "total_views": 640,
+      "best_views": 640
     }
   ],
   "you_rank": null,
   "trend_input_only_posts": [],
   "drafts": [
     {
-      "draft_en": "One shot. No cuts. The camera never moves, the world does. Built it with Seedance 2.5, locked first frame, 4 eras in 12 seconds. Full prompt below 👇",
+      "draft_en": "Haunted (1972). A fake 70s horror trailer, every frame AI, film grain and all. This Saturday's Challenge: make your own retro Halloween trailer. Workflow + prompt below 👇",
+      "draft_keywords": [
+        "retro trailer",
+        "Halloween",
+        "Saturday Challenge",
+        "prompt share"
+      ],
+      "video_tip": "15s faux 1972 horror trailer: 4:3, heavy grain, gate weave, faded Ektachrome palette, 3 quick shots (foggy house, slow push on a face, lantern in a corridor) ending on a title card 'HAUNTED (1972)'. Post the prompt in the first reply."
+    },
+    {
+      "draft_en": "Magnific Move just dropped, so I threw a real VFX shot at it: one still plate, three camera moves, zero roto. Here's what worked and what broke 🧵",
+      "draft_keywords": [
+        "Magnific",
+        "Magnific Move",
+        "AI VFX",
+        "tutorial"
+      ],
+      "video_tip": "Split screen: the original still on the left, the Magnific Move result on the right, cycling through 3 camera moves (dolly in, orbit, crane up). End with one failure case to build trust."
+    },
+    {
+      "draft_en": "Storyboard in, finished shot out. Seedance 2.5 turned 6 rough sketches into a continuous 3D sequence in minutes. Sketch vs. final below 👇",
       "draft_keywords": [
         "Seedance 2.5",
-        "no cuts",
-        "prompt share"
+        "storyboard",
+        "AI filmmaking"
       ],
-      "video_tip": "12s locked-off shot: a character stays perfectly still while the background cycles through 4 eras (1920s, 1974, today, 2080). Match light direction across eras so it reads as one continuous take."
+      "video_tip": "Wipe transition from each pencil storyboard panel to its rendered 3D shot, 6 panels in 12s, same framing on both sides so the match reads instantly."
     },
     {
-      "draft_en": "What if this trailer was shot in 1974? Same scene, real film grain, practical-looking VFX, zero modern gloss. Made with AI. Prompts below 👇",
+      "draft_en": "Body doubles just got an upgrade. A pianist plays, Seedance 2.5 swaps in my character, the hands stay real. VFX supervisors, would you ship this?",
       "draft_keywords": [
-        "retro film",
+        "Seedance 2.5",
+        "v2v",
         "AI VFX",
-        "prompts below"
+        "body double"
       ],
-      "video_tip": "10-15s faux 70s trailer: 4:3 crop, heavy grain, warm halation, one big practical-style VFX moment (explosion or creature) at second 6. End on a period title card."
+      "video_tip": "Before/after v2v of a real performance (hands on keys or a dance move), source on top, swapped character below, synced, 10s. Freeze on a close-up of the hands at the end."
     },
     {
-      "draft_en": "Google's Genie 4 lets you walk inside AI worlds in real time. As a VFX artist, here's what that changes for previs, and what it doesn't. 🧵",
+      "draft_en": "One Canvas, one Halloween short. Characters, sets and shots all came from a single Firefly board before I touched video. Breakdown below 🎃👇",
       "draft_keywords": [
-        "Genie 4",
-        "AI worlds",
-        "previs"
+        "Canvas workflow",
+        "Halloween",
+        "Firefly",
+        "AI video"
       ],
-      "video_tip": "Split screen: left a classic previs blockout, right your AI-generated environment fly-through of the same shot. 8-10s, then a text card with your take."
-    },
-    {
-      "draft_en": "Did this feel real to you? Every frame is AI. The trick is not the model, it's the physics: smoke, water and cloth reacting on time. Prompt share below 👇",
-      "draft_keywords": [
-        "Did this feel real",
-        "AI VFX",
-        "prompt share"
-      ],
-      "video_tip": "6-8s close-up with heavy practical-style physics (water splash or smoke through light rays), shot like a real camera with slight handheld; reveal the prompt in the first reply."
-    },
-    {
-      "draft_en": "Saturday Challenge preview: one image, six worlds. I'll give you a single first frame, you give me the wildest no-cut transition. Kling 4.0, Seedance, Grok Imagine, all welcome.",
-      "draft_keywords": [
-        "Saturday Challenge",
-        "no cuts",
-        "Kling 4.0",
-        "Seedance"
-      ],
-      "video_tip": "Show the shared first frame, then a fast 3-clip montage of different transitions from it (2-3s each). End with the challenge rules on screen."
+      "video_tip": "Zoom out from the final shot to reveal the whole canvas board (characters, sets, keyframes), then cut back into a 10s spooky sequence built from it."
     }
   ],
   "excluded_hits": []
