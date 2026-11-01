@@ -1,173 +1,113 @@
 {
-  "title": "Daily X narrative digest — 2026-10-30",
-  "date": "2026-10-30",
+  "title": "Daily X narrative digest — 2026-10-31",
+  "date": "2026-10-31",
   "timezone": "Europe/Paris",
-  "updated": "2026-10-31T09:11:04+01:00",
+  "updated": "2026-11-01T09:09:25+01:00",
   "brand_title": "LudovicCreator X Virality Score",
   "brand_handle": "@LudovicCreator",
   "hits": [
     {
+      "handle": "@EHuanglu",
+      "name": "EHuanglu",
+      "url": "https://x.com/EHuanglu/status/2116358110650728687",
+      "status_url": "https://x.com/EHuanglu/status/2116358110650728687",
+      "text": "AI is incredible https://t.co/ZhhgGxEc0q",
+      "original_en": "AI is incredible https://t.co/ZhhgGxEc0q",
+      "views": 46784,
+      "likes": 424,
+      "reposts": 16,
+      "bookmarks": 123,
+      "created_at": "2026-10-31T02:34:28.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
       "handle": "@techhalla",
       "name": "techhalla",
-      "url": "https://x.com/techhalla/status/2116173675992961400",
-      "status_url": "https://x.com/techhalla/status/2116173675992961400",
-      "text": "Self Esteem (1972) https://t.co/HdyBNhtm0m",
-      "original_en": "Self Esteem (1972) https://t.co/HdyBNhtm0m",
-      "views": 42137,
-      "likes": 478,
-      "reposts": 57,
-      "bookmarks": 162,
-      "created_at": "2026-10-30T14:21:35.000Z",
+      "url": "https://x.com/techhalla/status/2116319170681798952",
+      "status_url": "https://x.com/techhalla/status/2116319170681798952",
+      "text": "been chasing perfect lipsync for over 2 years\n\nnow I have the Magnific workflow that nails it. everything explained below 🧵 https://t.co/2jS7FDH4gq",
+      "original_en": "been chasing perfect lipsync for over 2 years\n\nnow I have the Magnific workflow that nails it. everything explained below 🧵 https://t.co/2jS7FDH4gq",
+      "views": 40827,
+      "likes": 550,
+      "reposts": 45,
+      "bookmarks": 754,
+      "created_at": "2026-10-30T23:59:44.000Z",
       "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2116044558975025506",
-      "status_url": "https://x.com/minchoi/status/2116044558975025506",
-      "text": "People aren't using Grok Bot because it has the smartest model.\n\nThey're using it because it actually gets things DONE and useful. https://t.co/pPpbj8Chrs https://t.co/ksLlLd5B3e",
-      "original_en": "People aren't using Grok Bot because it has the smartest model.\n\nThey're using it because it actually gets things DONE and useful. https://t.co/pPpbj8Chrs https://t.co/ksLlLd5B3e",
-      "views": 21866,
-      "likes": 333,
-      "reposts": 12,
-      "bookmarks": 15,
-      "created_at": "2026-10-30T05:48:31.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@CharaspowerAI",
-      "name": "CharaspowerAI",
-      "url": "https://x.com/CharaspowerAI/status/2116243782840803826",
-      "status_url": "https://x.com/CharaspowerAI/status/2116243782840803826",
-      "text": "Wait… you can now create motion graphics just by TALKING to an AI agent?! 🤯🔥\n\nMeet Magnific Move.\n- Describe what you want.\n- Let the agent build it.\n- Tell it what to change.\n- Keep refining until it feels right.\n\nLogo reveals, launch videos, animated graphics… all through https://t.co/qaLXnhjgzr",
-      "original_en": "Wait… you can now create motion graphics just by TALKING to an AI agent?! 🤯🔥\n\nMeet Magnific Move.\n- Describe what you want.\n- Let the agent build it.\n- Tell it what to change.\n- Keep refining until it feels right.\n\nLogo reveals, launch videos, animated graphics… all through https://t.co/qaLXnhjgzr",
-      "views": 18105,
-      "likes": 16,
-      "reposts": 4,
-      "bookmarks": 6,
-      "created_at": "2026-10-30T19:00:10.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2116149986685538424",
-      "status_url": "https://x.com/minchoi/status/2116149986685538424",
-      "text": "Anthropic just gave Claude 4X more room to work with.\n\n32MB → 128MB.\n\nBigger PDFs. More screenshots. Longer AI agent workflows.\n\nNo more hitting the old API size limit. https://t.co/jtN7PnXKRq",
-      "original_en": "Anthropic just gave Claude 4X more room to work with.\n\n32MB → 128MB.\n\nBigger PDFs. More screenshots. Longer AI agent workflows.\n\nNo more hitting the old API size limit. https://t.co/jtN7PnXKRq",
-      "views": 17262,
-      "likes": 119,
-      "reposts": 7,
-      "bookmarks": 20,
-      "created_at": "2026-10-30T12:47:27.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2116009919443087477",
-      "status_url": "https://x.com/minchoi/status/2116009919443087477",
-      "text": "Ok.. this is wild...\n\nOpenAI was about to cut Pro 200 usage in HALF.\n\nInstead they just CANCELLED the cut and DOUBLED limits on every Pro tier 😂 https://t.co/XamyNM0wYO https://t.co/OcyyGgffGK",
-      "original_en": "Ok.. this is wild...\n\nOpenAI was about to cut Pro 200 usage in HALF.\n\nInstead they just CANCELLED the cut and DOUBLED limits on every Pro tier 😂 https://t.co/XamyNM0wYO https://t.co/OcyyGgffGK",
-      "views": 16863,
-      "likes": 93,
-      "reposts": 2,
-      "bookmarks": 17,
-      "created_at": "2026-10-30T03:30:53.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2116214401883869455",
-      "status_url": "https://x.com/minchoi/status/2116214401883869455",
-      "text": "AI can now build 3D for you.\n\nKimi just added 3D Make.\n\nYou describe what you want, and it drives Blender and CAD tools to build the models, the scene, even the game.\n\n3D modeling will never be the same. https://t.co/9D7MSwtCD1",
-      "original_en": "AI can now build 3D for you.\n\nKimi just added 3D Make.\n\nYou describe what you want, and it drives Blender and CAD tools to build the models, the scene, even the game.\n\n3D modeling will never be the same. https://t.co/9D7MSwtCD1",
-      "views": 11815,
-      "likes": 130,
-      "reposts": 11,
-      "bookmarks": 77,
-      "created_at": "2026-10-30T17:03:25.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@azed_ai",
-      "name": "azed_ai",
-      "url": "https://x.com/azed_ai/status/2115949601031360718",
-      "status_url": "https://x.com/azed_ai/status/2115949601031360718",
-      "text": "Give me one product, and I'll find 100 different ways to bring it to life\n\nI already spend hours experimenting, so Higgsfield offering UNLIMITED generations with ZERO credit costs for models like Nano Banana Pro, Seedream 5.0 Pro and SEEDANCE 2.5 is dangerous for my screen time https://t.co/d2oMPh7Lrk https://t.co/z5d6TGLMfO",
-      "original_en": "Give me one product, and I'll find 100 different ways to bring it to life\n\nI already spend hours experimenting, so Higgsfield offering UNLIMITED generations with ZERO credit costs for models like Nano Banana Pro, Seedream 5.0 Pro and SEEDANCE 2.5 is dangerous for my screen time https://t.co/d2oMPh7Lrk https://t.co/z5d6TGLMfO",
-      "views": 10279,
-      "likes": 130,
-      "reposts": 15,
-      "bookmarks": 96,
-      "created_at": "2026-10-29T23:31:11.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@azed_ai",
-      "name": "azed_ai",
-      "url": "https://x.com/azed_ai/status/2116121954382139842",
-      "status_url": "https://x.com/azed_ai/status/2116121954382139842",
-      "text": "Prompt share: Pixar-Style 3D Character\n\n💬 Prompt:\nA premium Pixar-style 3D reinterpretation of [Samurai Jack character], preserving the iconic character design, recognizable facial features, signature hairstyle, [distinctive outfit], [weapon or accessory], [facial expression], https://t.co/AHa5ngZAqm",
-      "original_en": "Prompt share: Pixar-Style 3D Character\n\n💬 Prompt:\nA premium Pixar-style 3D reinterpretation of [Samurai Jack character], preserving the iconic character design, recognizable facial features, signature hairstyle, [distinctive outfit], [weapon or accessory], [facial expression], https://t.co/AHa5ngZAqm",
-      "views": 8258,
-      "likes": 258,
-      "reposts": 23,
-      "bookmarks": 187,
-      "created_at": "2026-10-30T10:56:04.000Z",
-      "highlight": false,
       "self_quote": false
     },
     {
       "handle": "@EHuanglu",
       "name": "EHuanglu",
-      "url": "https://x.com/EHuanglu/status/2115960051194356090",
-      "status_url": "https://x.com/EHuanglu/status/2115960051194356090",
-      "text": "they still saying design AI has no taste…. \n\nBut clearly AI race is getting crazy af across every industry  https://t.co/0Hx4yjCNuE https://t.co/IS9nQ4S7uw",
-      "original_en": "they still saying design AI has no taste…. \n\nBut clearly AI race is getting crazy af across every industry  https://t.co/0Hx4yjCNuE https://t.co/IS9nQ4S7uw",
-      "views": 7880,
+      "url": "https://x.com/EHuanglu/status/2116516001391190085",
+      "status_url": "https://x.com/EHuanglu/status/2116516001391190085",
+      "text": "Seedance 2.5 made this crazy AI animation https://t.co/bFlMa9PTkp",
+      "original_en": "Seedance 2.5 made this crazy AI animation https://t.co/bFlMa9PTkp",
+      "views": 19921,
+      "likes": 490,
+      "reposts": 53,
+      "bookmarks": 166,
+      "created_at": "2026-10-31T13:01:52.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@minchoi",
+      "name": "minchoi",
+      "url": "https://x.com/minchoi/status/2116389352800412061",
+      "status_url": "https://x.com/minchoi/status/2116389352800412061",
+      "text": "X now shows you EXACTLY which posts had their reach limited. 👀\n\nHow to check:\n\n→ Open https://t.co/eB200CdEeN\n→ Find posts with visibility-limiting labels\n→ See what hurt their reach\n\nCheck yours every month.\n\nNote: Specific posts appear when fewer than 5% received that https://t.co/HJJI6OX9ww",
+      "original_en": "X now shows you EXACTLY which posts had their reach limited. 👀\n\nHow to check:\n\n→ Open https://t.co/eB200CdEeN\n→ Find posts with visibility-limiting labels\n→ See what hurt their reach\n\nCheck yours every month.\n\nNote: Specific posts appear when fewer than 5% received that https://t.co/HJJI6OX9ww",
+      "views": 15761,
+      "likes": 71,
+      "reposts": 8,
+      "bookmarks": 57,
+      "created_at": "2026-10-31T04:38:36.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@minchoi",
+      "name": "minchoi",
+      "url": "https://x.com/minchoi/status/2116316270089957666",
+      "status_url": "https://x.com/minchoi/status/2116316270089957666",
+      "text": "AI is now in space 🤯\n\nGoogle's Project Suncatcher booted a TPU on a satellite, used Gemma 4 to write a poem, and beamed the answer back to Earth.\n\nAI data centers in orbit are coming...\nhttps://t.co/OUEQ5DOCLc https://t.co/78sCOANaO6",
+      "original_en": "AI is now in space 🤯\n\nGoogle's Project Suncatcher booted a TPU on a satellite, used Gemma 4 to write a poem, and beamed the answer back to Earth.\n\nAI data centers in orbit are coming...\nhttps://t.co/OUEQ5DOCLc https://t.co/78sCOANaO6",
+      "views": 12440,
+      "likes": 66,
+      "reposts": 7,
+      "bookmarks": 5,
+      "created_at": "2026-10-30T23:48:12.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@techhalla",
+      "name": "techhalla",
+      "url": "https://x.com/techhalla/status/2116479603741016202",
+      "status_url": "https://x.com/techhalla/status/2116479603741016202",
+      "text": "Never Gona Give You Up (1999) https://t.co/Dg8v27KMoh https://t.co/AN4mtuK1BU",
+      "original_en": "Never Gona Give You Up (1999) https://t.co/Dg8v27KMoh https://t.co/AN4mtuK1BU",
+      "views": 9251,
+      "likes": 120,
+      "reposts": 13,
+      "bookmarks": 48,
+      "created_at": "2026-10-31T10:37:14.000Z",
+      "highlight": false,
+      "self_quote": false
+    },
+    {
+      "handle": "@minchoi",
+      "name": "minchoi",
+      "url": "https://x.com/minchoi/status/2116652372021883123",
+      "status_url": "https://x.com/minchoi/status/2116652372021883123",
+      "text": "Happy Halloween from robots 🎃\nhttps://t.co/iVbrmmkSqy https://t.co/607LqnLUPB",
+      "original_en": "Happy Halloween from robots 🎃\nhttps://t.co/iVbrmmkSqy https://t.co/607LqnLUPB",
+      "views": 7096,
       "likes": 38,
-      "reposts": 2,
-      "bookmarks": 13,
-      "created_at": "2026-10-30T00:12:43.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@MayorKingAI",
-      "name": "MayorKingAI",
-      "url": "https://x.com/MayorKingAI/status/2116203953129992244",
-      "status_url": "https://x.com/MayorKingAI/status/2116203953129992244",
-      "text": "62 MILLION views across the NEXUS series.\n\nPJ Ace just dropped another wild episode with a $28K production budget.\n\nAnd the best part? He breaks down his entire creative process, from prompts to the final result. https://t.co/3jTNMmm9j1",
-      "original_en": "62 MILLION views across the NEXUS series.\n\nPJ Ace just dropped another wild episode with a $28K production budget.\n\nAnd the best part? He breaks down his entire creative process, from prompts to the final result. https://t.co/3jTNMmm9j1",
-      "views": 6548,
-      "likes": 88,
       "reposts": 4,
-      "bookmarks": 45,
-      "created_at": "2026-10-30T16:21:54.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@ai_artworkgen",
-      "name": "ai_artworkgen",
-      "url": "https://x.com/ai_artworkgen/status/2116217421077848340",
-      "status_url": "https://x.com/ai_artworkgen/status/2116217421077848340",
-      "text": "Quick Test of Nano Banana 2.1\n\n\"show me the reverse angle shot of this exact scene. keep the subject's position and pose identical. maintain subject, outfit, and environment consistency.\"\n\nI then built out other shots using the subject's face as a reference, plus prompts.\n\nThe https://t.co/lqtPCSCIgN",
-      "original_en": "Quick Test of Nano Banana 2.1\n\n\"show me the reverse angle shot of this exact scene. keep the subject's position and pose identical. maintain subject, outfit, and environment consistency.\"\n\nI then built out other shots using the subject's face as a reference, plus prompts.\n\nThe https://t.co/lqtPCSCIgN",
-      "views": 5098,
-      "likes": 64,
-      "reposts": 3,
-      "bookmarks": 73,
-      "created_at": "2026-10-30T17:15:25.000Z",
+      "bookmarks": 4,
+      "created_at": "2026-10-31T22:03:45.000Z",
       "highlight": false,
       "self_quote": false
     }
@@ -175,92 +115,113 @@
   "virals": [],
   "outsiders": [],
   "patterns": [
-    "Faux-period music shorts ('Song title (19xx)'): techhalla 4th straight day, 42K, top of the watchlist",
-    "AI-agent framing: 'just describe it and the agent builds it' (Magnific Move motion graphics, Kimi 3D Make driving Blender, Grok Bot 'gets things done')",
-    "Fast news quote-posts with one hard number (32MB to 128MB, Pro limits doubled, 62M views / $28K budget)",
-    "Fill-in-the-blank [bracket] prompt shares stay bookmark magnets (azed_ai Pixar-style 3D: 187 bookmarks on 8.3K views)",
-    "Consistency tricks shown as a test: Nano Banana 2.1 reverse-angle shot, same subject, same pose",
-    "Unlimited / zero-credit platform offers as a hook (Higgsfield Seedance 2.5 week)"
+    "Workflow thread with a years-of-pain hook: techhalla 'chasing perfect lipsync for over 2 years' + Magnific, 41K views and 754 bookmarks (1.8% bookmark rate)",
+    "Minimal caption, maximum clip: 'AI is incredible' (47K) and 'Seedance 2.5 made this crazy AI animation' (20K), the video does all the talking",
+    "Seedance 2.5 is the model name that travels: EHuanglu, maxescu and ai_artworkgen all name it",
+    "Creator-utility news: 'X now shows which posts had their reach limited' 16K with 45 replies, creators love a how-to-check",
+    "Faux-period music shorts cooling: techhalla 1999 Rickroll 9.3K vs 42K the day before",
+    "Halloween themed posts underperformed across the watchlist (all under 3.7K)"
   ],
   "no_hits": [
     {
       "handle": "@maxescu",
-      "reason": "No original on 2026-10-30 reached 5,000 views; highest observed was 2,740 views.",
-      "max_views": 2740
+      "reason": "No original on 2026-10-31 reached 5,000 views; highest observed was 2,176 views.",
+      "max_views": 2176
+    },
+    {
+      "handle": "@azed_ai",
+      "reason": "No original on 2026-10-31 reached 5,000 views; highest observed was 3,638 views.",
+      "max_views": 3638
+    },
+    {
+      "handle": "@CharaspowerAI",
+      "reason": "No original on 2026-10-31 reached 5,000 views; highest observed was 2,122 views.",
+      "max_views": 2122
+    },
+    {
+      "handle": "@MayorKingAI",
+      "reason": "No original on 2026-10-31 reached 5,000 views; highest observed was 3,640 views.",
+      "max_views": 3640
     },
     {
       "handle": "@CoffeeVectors",
-      "reason": "No original posts found on 2026-10-30.",
+      "reason": "No original posts found on 2026-10-31.",
       "max_views": 0
     },
     {
       "handle": "@Salmaaboukarr",
-      "reason": "No original posts found on 2026-10-30.",
+      "reason": "No original posts found on 2026-10-31.",
       "max_views": 0
     },
     {
       "handle": "@AIWarper",
-      "reason": "No original posts found on 2026-10-30.",
+      "reason": "No original posts found on 2026-10-31.",
       "max_views": 0
+    },
+    {
+      "handle": "@ai_artworkgen",
+      "reason": "No original on 2026-10-31 reached 5,000 views; highest observed was 750 views.",
+      "max_views": 750
     }
   ],
-  "virals_narrative": "techhalla's faux-period music shorts keep winning for a 4th day: 'Self Esteem (1972)' 42K views, top watchlist post. minchoi swept AI-news quote-posts (Grok Bot 'gets things DONE' 22K, Claude 128MB API 17K, OpenAI Pro limits doubled 17K) plus Kimi 3D Make 12K. CharaspowerAI's Magnific Move 'motion graphics by talking to an agent' 18K, azed_ai's Higgsfield unlimited Seedance 2.5 quote 10K and Pixar-style [bracket] prompt share 8.3K (187 bookmarks). PJ Ace's NEXUS $28K episode breakdown (via MayorKingAI 6.5K) and Nano Banana 2.1 reverse-angle test (ai_artworkgen 5.1K). Halloween prompts stayed under 4.3K.",
-  "narrative_synthesis": "techhalla's faux-period music shorts keep winning for a 4th day: 'Self Esteem (1972)' 42K views, top watchlist post. minchoi swept AI-news quote-posts (Grok Bot 'gets things DONE' 22K, Claude 128MB API 17K, OpenAI Pro limits doubled 17K) plus Kimi 3D Make 12K. CharaspowerAI's Magnific Move 'motion graphics by talking to an agent' 18K, azed_ai's Higgsfield unlimited Seedance 2.5 quote 10K and Pixar-style [bracket] prompt share 8.3K (187 bookmarks). PJ Ace's NEXUS $28K episode breakdown (via MayorKingAI 6.5K) and Nano Banana 2.1 reverse-angle test (ai_artworkgen 5.1K). Halloween prompts stayed under 4.3K.",
+  "virals_narrative": "EHuanglu took the day with two Seedance-era AI animation posts: 'AI is incredible' 47K and 'Seedance 2.5 made this crazy AI animation' 20K (490 likes). techhalla's Magnific lipsync thread ('chasing perfect lipsync for over 2 years') hit 41K with 754 bookmarks, the bookmark record of the day, while his faux-period music short 'Never Gona Give You Up (1999)' slowed to 9.3K. minchoi kept the news lane: X reach-limit checker 16K, Google's TPU in orbit 12K, Halloween robots 7.1K. Halloween posts from azed_ai (Firefly Boards skeleton short), MayorKingAI and CharaspowerAI stayed under 3.7K.",
+  "narrative_synthesis": "EHuanglu took the day with two Seedance-era AI animation posts: 'AI is incredible' 47K and 'Seedance 2.5 made this crazy AI animation' 20K (490 likes). techhalla's Magnific lipsync thread ('chasing perfect lipsync for over 2 years') hit 41K with 754 bookmarks, the bookmark record of the day, while his faux-period music short 'Never Gona Give You Up (1999)' slowed to 9.3K. minchoi kept the news lane: X reach-limit checker 16K, Google's TPU in orbit 12K, Halloween robots 7.1K. Halloween posts from azed_ai (Firefly Boards skeleton short), MayorKingAI and CharaspowerAI stayed under 3.7K.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 11,
+  "hits_count": 7,
   "outsiders_count": 0,
-  "previous_day": "2026-10-29",
+  "previous_day": "2026-10-30",
   "leaderboards": {
-    "as_of": "2026-10-30",
+    "as_of": "2026-10-31",
     "tracking_start": "2026-09-13",
     "days_included": [
-      "2026-10-24",
       "2026-10-25",
       "2026-10-26",
       "2026-10-27",
       "2026-10-28",
       "2026-10-29",
-      "2026-10-30"
+      "2026-10-30",
+      "2026-10-31"
     ],
     "month_days_included": [
       "2026-10-26",
       "2026-10-27",
       "2026-10-28",
       "2026-10-29",
-      "2026-10-30"
+      "2026-10-30",
+      "2026-10-31"
     ],
     "week": {
-      "label": "Rolling week · Oct 24–Oct 30",
+      "label": "Rolling week · Oct 25–Oct 31",
       "range": [
-        "2026-10-24",
-        "2026-10-30"
+        "2026-10-25",
+        "2026-10-31"
       ],
       "entries": [
         {
           "handle": "@techhalla",
           "name": "techhalla",
-          "hits": 17,
-          "days": 5,
-          "views": 1172925,
+          "hits": 19,
+          "days": 6,
+          "views": 1223003,
           "best": 407030,
           "best_url": "https://x.com/techhalla/status/2115615625838285230"
         },
         {
           "handle": "@minchoi",
           "name": "minchoi",
-          "hits": 23,
-          "days": 5,
-          "views": 522579,
+          "hits": 26,
+          "days": 6,
+          "views": 557876,
           "best": 97153,
           "best_url": "https://x.com/minchoi/status/2115290590959329451"
         },
         {
           "handle": "@EHuanglu",
           "name": "EHuanglu",
-          "hits": 13,
-          "days": 5,
-          "views": 344772,
+          "hits": 15,
+          "days": 6,
+          "views": 411477,
           "best": 118020,
           "best_url": "https://x.com/EHuanglu/status/2112980072240238723"
         },
@@ -324,33 +285,33 @@
       "label": "October 2026 · from Oct 26",
       "range": [
         "2026-10-26",
-        "2026-10-30"
+        "2026-10-31"
       ],
       "entries": [
         {
           "handle": "@techhalla",
           "name": "techhalla",
-          "hits": 17,
-          "days": 5,
-          "views": 1172925,
+          "hits": 19,
+          "days": 6,
+          "views": 1223003,
           "best": 407030,
           "best_url": "https://x.com/techhalla/status/2115615625838285230"
         },
         {
           "handle": "@minchoi",
           "name": "minchoi",
-          "hits": 23,
-          "days": 5,
-          "views": 522579,
+          "hits": 26,
+          "days": 6,
+          "views": 557876,
           "best": 97153,
           "best_url": "https://x.com/minchoi/status/2115290590959329451"
         },
         {
           "handle": "@EHuanglu",
           "name": "EHuanglu",
-          "hits": 13,
-          "days": 5,
-          "views": 344772,
+          "hits": 15,
+          "days": 6,
+          "views": 411477,
           "best": 118020,
           "best_url": "https://x.com/EHuanglu/status/2112980072240238723"
         },
@@ -443,106 +404,104 @@
   },
   "day_roster": [
     {
-      "handle": "@minchoi",
-      "posts": 4,
-      "total_views": 67806,
-      "best_views": 21866
+      "handle": "@EHuanglu",
+      "posts": 2,
+      "total_views": 66705,
+      "best_views": 46784
     },
     {
       "handle": "@techhalla",
-      "posts": 1,
-      "total_views": 42137,
-      "best_views": 42137
+      "posts": 3,
+      "total_views": 53886,
+      "best_views": 40827
+    },
+    {
+      "handle": "@minchoi",
+      "posts": 3,
+      "total_views": 35297,
+      "best_views": 15761
     },
     {
       "handle": "@azed_ai",
       "posts": 5,
-      "total_views": 26474,
-      "best_views": 10279
+      "total_views": 12050,
+      "best_views": 3638
     },
     {
       "handle": "@CharaspowerAI",
       "posts": 4,
-      "total_views": 22884,
-      "best_views": 18105
-    },
-    {
-      "handle": "@EHuanglu",
-      "posts": 2,
-      "total_views": 11295,
-      "best_views": 7880
+      "total_views": 6256,
+      "best_views": 2122
     },
     {
       "handle": "@MayorKingAI",
       "posts": 2,
-      "total_views": 10833,
-      "best_views": 6548
+      "total_views": 5090,
+      "best_views": 3640
     },
     {
       "handle": "@maxescu",
       "posts": 3,
-      "total_views": 6466,
-      "best_views": 2740
+      "total_views": 4389,
+      "best_views": 2176
     },
     {
       "handle": "@ai_artworkgen",
-      "posts": 2,
-      "total_views": 5995,
-      "best_views": 5098
+      "posts": 1,
+      "total_views": 750,
+      "best_views": 750
     }
   ],
   "you_rank": null,
   "trend_input_only_posts": [],
   "drafts": [
     {
-      "draft_en": "I asked AI for the reverse angle of my own shot. Same actor, same pose, same light. One frame became a full coverage sequence. This is how I'd shoot a VFX scene on zero budget now. Breakdown below 👇",
+      "draft_en": "I spent months fighting AI lipsync on my VFX shots. Mouths drifting, teeth melting, sync off by 3 frames. This is the workflow that finally fixed it, step by step below 🧵",
       "draft_keywords": [
-        "reverse angle",
-        "shot consistency",
-        "AI VFX",
-        "AI filmmaking"
-      ],
-      "video_tip": "12s: your original wide shot, hard cut to the AI reverse angle, then a 4-shot coverage montage (OTS, close-up, insert, wide). On-screen label 'from 1 frame' for the first 2s. Prompt in reply 1."
-    },
-    {
-      "draft_en": "Halloween night VFX, one prompt: a ghost walking through the Old Port fog, practical-effects look, 1970s film stock. The prompt is below, swap the city for yours and post it 🎃",
-      "draft_keywords": [
-        "Halloween",
-        "AI VFX",
-        "prompt share",
-        "free prompt"
-      ],
-      "video_tip": "10-12s, grainy 70s look, slow push-in on a misty harbour, ghost passes through a boat mast, flickering street lamp. End on a title card 'MARSEILLE, 31.10'. Bracketed prompt in the first reply."
-    },
-    {
-      "draft_en": "Saturday Challenge 🎬 Pick a song, pick a decade, make the music video that never existed. Mine: Bohemian Rhapsody (1931). Post yours below, best one gets featured next week.",
-      "draft_keywords": [
-        "Saturday Challenge",
-        "faux-period music video",
-        "AI video",
-        "community"
-      ],
-      "video_tip": "12-15s, 1.33:1 black and white, 1930s opera house, heavy grain and flicker, 3 cuts on the beat, end card 'BOHEMIAN RHAPSODY (1931)'. Pin the rules in reply 1."
-    },
-    {
-      "draft_en": "Prompt share: cinematic VFX hero shot 🎬\n\n[Character] standing in [location] as [VFX event] happens behind them, [lens]mm anamorphic, [time of day] light, practical debris and smoke, slow dolly-in, film grain. Swap the brackets and show me yours.",
-      "draft_keywords": [
-        "prompt share",
-        "free prompt",
-        "AI VFX",
-        "template"
-      ],
-      "video_tip": "4-image grid of the same template (tidal wave, collapsing tower, portal, meteor), then a 5s animated version of the best one in Kling or Seedance."
-    },
-    {
-      "draft_en": "I didn't touch a timeline for this one. I described the shot to an AI agent, asked for 3 changes, and it built the VFX pass. The speed is wild, but taste is still the job. Before/after below.",
-      "draft_keywords": [
-        "AI agent",
-        "AI VFX",
+        "lipsync",
         "Magnific",
-        "before after"
+        "AI VFX",
+        "workflow"
       ],
-      "video_tip": "Split screen: left your typed instructions appearing one by one, right the shot updating after each change. 10s, then a wipe from raw plate to final composite."
+      "video_tip": "10s split screen: left the old broken lipsync (label 'before'), right the fixed shot ('after'), same line of dialogue, audio on. Thread: 4 steps, one screenshot each."
+    },
+    {
+      "draft_en": "One still frame. Seedance 2.5. No compositing. This is what a single AI VFX shot looks like in 2026.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "AI VFX",
+        "AI video"
+      ],
+      "video_tip": "8-12s, your strongest cinematic VFX shot, no text overlay for the first 3s. Put the source still as the last frame so people replay. Prompt in reply 1."
+    },
+    {
+      "draft_en": "AI is incredible. I gave it one frame of Marseille's Old Port and asked for a storm rolling in from the sea. 👇",
+      "draft_keywords": [
+        "AI video",
+        "AI filmmaking",
+        "Seedance"
+      ],
+      "video_tip": "Minimal caption, let the clip carry it: 10s wide shot, calm harbour to full storm, real location still as frame 1. Natural sound design adds a lot."
+    },
+    {
+      "draft_en": "Before / after: the raw AI render vs the final shot after my VFX pass. 80% of the magic is in the last 20%. Here's what I changed 👇",
+      "draft_keywords": [
+        "AI VFX",
+        "Firefly",
+        "before after",
+        "workflow"
+      ],
+      "video_tip": "Wipe transition before to after, 8s, then 3 quick inserts of each fix (grade, grain, light wrap). Mention the tools in reply 1 (Firefly etc.)."
+    },
+    {
+      "draft_en": "Saturday Challenge recap: you turned one prompt into 40 different short films. Here are my 6 favourites, and next week's theme 👇",
+      "draft_keywords": [
+        "AI filmmaking",
+        "community",
+        "prompt share",
+        "challenge"
+      ],
+      "video_tip": "15s montage of 6 community clips, 2s each, creator handle on screen. Credit every creator in the thread."
     }
   ],
   "excluded_hits": []
