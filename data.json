@@ -1,113 +1,143 @@
 {
-  "title": "Daily X narrative digest — 2026-10-31",
-  "date": "2026-10-31",
+  "title": "Daily X narrative digest - 2026-11-01",
+  "date": "2026-11-01",
   "timezone": "Europe/Paris",
-  "updated": "2026-11-01T09:09:25+01:00",
+  "updated": "2026-11-02T09:02:37+01:00",
   "brand_title": "LudovicCreator X Virality Score",
   "brand_handle": "@LudovicCreator",
   "hits": [
     {
       "handle": "@EHuanglu",
       "name": "EHuanglu",
-      "url": "https://x.com/EHuanglu/status/2116358110650728687",
-      "status_url": "https://x.com/EHuanglu/status/2116358110650728687",
-      "text": "AI is incredible https://t.co/ZhhgGxEc0q",
-      "original_en": "AI is incredible https://t.co/ZhhgGxEc0q",
-      "views": 46784,
-      "likes": 424,
-      "reposts": 16,
-      "bookmarks": 123,
-      "created_at": "2026-10-31T02:34:28.000Z",
+      "url": "https://x.com/EHuanglu/status/2116725980501024775",
+      "status_url": "https://x.com/EHuanglu/status/2116725980501024775",
+      "text": "scary.. AI made this 3D animation in 3hrs https://t.co/S156BQQpK0",
+      "original_en": "scary.. AI made this 3D animation in 3hrs https://t.co/S156BQQpK0",
+      "views": 85067,
+      "likes": 918,
+      "reposts": 94,
+      "bookmarks": 253,
+      "created_at": "2026-11-01T02:56:15.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@minchoi",
+      "name": "minchoi",
+      "url": "https://x.com/minchoi/status/2116919079617372530",
+      "status_url": "https://x.com/minchoi/status/2116919079617372530",
+      "text": "This is wild.\n\nAndrej Karpathy built his own YouTube in about 2 hours. He says he didn't touch the code.\n\nHackerTube = 6,454 videos recommended in Hacker News comments, 2007-2026, across 150 topics.\n\nHow it worked:\n→ Opus 5.5 downloaded all HN comments\n→ Sonnet filtered them in https://t.co/W46UgfnZi6",
+      "original_en": "This is wild.\n\nAndrej Karpathy built his own YouTube in about 2 hours. He says he didn't touch the code.\n\nHackerTube = 6,454 videos recommended in Hacker News comments, 2007-2026, across 150 topics.\n\nHow it worked:\n→ Opus 5.5 downloaded all HN comments\n→ Sonnet filtered them in https://t.co/W46UgfnZi6",
+      "views": 61340,
+      "likes": 739,
+      "reposts": 54,
+      "bookmarks": 517,
+      "created_at": "2026-11-01T15:43:33.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@minchoi",
+      "name": "minchoi",
+      "url": "https://x.com/minchoi/status/2116736573907902782",
+      "status_url": "https://x.com/minchoi/status/2116736573907902782",
+      "text": "AI can now build real 3D for you.\n\nKimi drives Blender, CAD and Three.js from one prompt.\n\nPeople are already making holo Pokémon cards, a Rolex, full 3D games and whole scenes with it.\n\n10 wild examples: 👇",
+      "original_en": "AI can now build real 3D for you.\n\nKimi drives Blender, CAD and Three.js from one prompt.\n\nPeople are already making holo Pokémon cards, a Rolex, full 3D games and whole scenes with it.\n\n10 wild examples: 👇",
+      "views": 37127,
+      "likes": 243,
+      "reposts": 21,
+      "bookmarks": 262,
+      "created_at": "2026-11-01T03:38:20.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
       "handle": "@techhalla",
       "name": "techhalla",
-      "url": "https://x.com/techhalla/status/2116319170681798952",
-      "status_url": "https://x.com/techhalla/status/2116319170681798952",
-      "text": "been chasing perfect lipsync for over 2 years\n\nnow I have the Magnific workflow that nails it. everything explained below 🧵 https://t.co/2jS7FDH4gq",
-      "original_en": "been chasing perfect lipsync for over 2 years\n\nnow I have the Magnific workflow that nails it. everything explained below 🧵 https://t.co/2jS7FDH4gq",
-      "views": 40827,
-      "likes": 550,
-      "reposts": 45,
-      "bookmarks": 754,
-      "created_at": "2026-10-30T23:59:44.000Z",
+      "url": "https://x.com/techhalla/status/2116996433047880080",
+      "status_url": "https://x.com/techhalla/status/2116996433047880080",
+      "text": "Du hast (1967)\n\nany song suggestions? 👀 https://t.co/kZWAui5hHM",
+      "original_en": "Du hast (1967)\n\nany song suggestions? 👀 https://t.co/kZWAui5hHM",
+      "views": 22135,
+      "likes": 329,
+      "reposts": 57,
+      "bookmarks": 113,
+      "created_at": "2026-11-01T20:50:56.000Z",
       "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@azed_ai",
+      "name": "azed_ai",
+      "url": "https://x.com/azed_ai/status/2116848755362484477",
+      "status_url": "https://x.com/azed_ai/status/2116848755362484477",
+      "text": "Prompt share: Loose Watercolor Drift\n\n💬 Prompt:\nAbstract watercolor wash of a [subject], loose oversized brushstrokes, broad flowing color shapes, minimal detail, soft pigment bleeding, expressive wet-on-wet texture, simplified forms, airy composition, no linework, no outlines, https://t.co/DXtB5m0ZaG",
+      "original_en": "Prompt share: Loose Watercolor Drift\n\n💬 Prompt:\nAbstract watercolor wash of a [subject], loose oversized brushstrokes, broad flowing color shapes, minimal detail, soft pigment bleeding, expressive wet-on-wet texture, simplified forms, airy composition, no linework, no outlines, https://t.co/DXtB5m0ZaG",
+      "views": 21600,
+      "likes": 517,
+      "reposts": 47,
+      "bookmarks": 346,
+      "created_at": "2026-11-01T11:04:07.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@azed_ai",
+      "name": "azed_ai",
+      "url": "https://x.com/azed_ai/status/2116803448272572828",
+      "status_url": "https://x.com/azed_ai/status/2116803448272572828",
+      "text": "Having way too much fun with these 2D to 3D characters https://t.co/nK6JeJi9fH",
+      "original_en": "Having way too much fun with these 2D to 3D characters https://t.co/nK6JeJi9fH",
+      "views": 11619,
+      "likes": 327,
+      "reposts": 13,
+      "bookmarks": 105,
+      "created_at": "2026-11-01T08:04:05.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@azed_ai",
+      "name": "azed_ai",
+      "url": "https://x.com/azed_ai/status/2116893558125048019",
+      "status_url": "https://x.com/azed_ai/status/2116893558125048019",
+      "text": "https://t.co/AXekdLeHo5",
+      "original_en": "https://t.co/AXekdLeHo5",
+      "views": 8324,
+      "likes": 286,
+      "reposts": 27,
+      "bookmarks": 50,
+      "created_at": "2026-11-01T14:02:08.000Z",
+      "highlight": false,
+      "self_quote": false
+    },
+    {
+      "handle": "@techhalla",
+      "name": "techhalla",
+      "url": "https://x.com/techhalla/status/2116837035772367351",
+      "status_url": "https://x.com/techhalla/status/2116837035772367351",
+      "text": "i think she's in cahoots with the cat\n\nprompt 👇 https://t.co/msc0JCKIg8",
+      "original_en": "i think she's in cahoots with the cat\n\nprompt 👇 https://t.co/msc0JCKIg8",
+      "views": 6777,
+      "likes": 116,
+      "reposts": 9,
+      "bookmarks": 26,
+      "created_at": "2026-11-01T10:17:32.000Z",
+      "highlight": false,
       "self_quote": false
     },
     {
       "handle": "@EHuanglu",
       "name": "EHuanglu",
-      "url": "https://x.com/EHuanglu/status/2116516001391190085",
-      "status_url": "https://x.com/EHuanglu/status/2116516001391190085",
-      "text": "Seedance 2.5 made this crazy AI animation https://t.co/bFlMa9PTkp",
-      "original_en": "Seedance 2.5 made this crazy AI animation https://t.co/bFlMa9PTkp",
-      "views": 19921,
-      "likes": 490,
-      "reposts": 53,
-      "bookmarks": 166,
-      "created_at": "2026-10-31T13:01:52.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2116389352800412061",
-      "status_url": "https://x.com/minchoi/status/2116389352800412061",
-      "text": "X now shows you EXACTLY which posts had their reach limited. 👀\n\nHow to check:\n\n→ Open https://t.co/eB200CdEeN\n→ Find posts with visibility-limiting labels\n→ See what hurt their reach\n\nCheck yours every month.\n\nNote: Specific posts appear when fewer than 5% received that https://t.co/HJJI6OX9ww",
-      "original_en": "X now shows you EXACTLY which posts had their reach limited. 👀\n\nHow to check:\n\n→ Open https://t.co/eB200CdEeN\n→ Find posts with visibility-limiting labels\n→ See what hurt their reach\n\nCheck yours every month.\n\nNote: Specific posts appear when fewer than 5% received that https://t.co/HJJI6OX9ww",
-      "views": 15761,
-      "likes": 71,
-      "reposts": 8,
-      "bookmarks": 57,
-      "created_at": "2026-10-31T04:38:36.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2116316270089957666",
-      "status_url": "https://x.com/minchoi/status/2116316270089957666",
-      "text": "AI is now in space 🤯\n\nGoogle's Project Suncatcher booted a TPU on a satellite, used Gemma 4 to write a poem, and beamed the answer back to Earth.\n\nAI data centers in orbit are coming...\nhttps://t.co/OUEQ5DOCLc https://t.co/78sCOANaO6",
-      "original_en": "AI is now in space 🤯\n\nGoogle's Project Suncatcher booted a TPU on a satellite, used Gemma 4 to write a poem, and beamed the answer back to Earth.\n\nAI data centers in orbit are coming...\nhttps://t.co/OUEQ5DOCLc https://t.co/78sCOANaO6",
-      "views": 12440,
-      "likes": 66,
-      "reposts": 7,
-      "bookmarks": 5,
-      "created_at": "2026-10-30T23:48:12.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@techhalla",
-      "name": "techhalla",
-      "url": "https://x.com/techhalla/status/2116479603741016202",
-      "status_url": "https://x.com/techhalla/status/2116479603741016202",
-      "text": "Never Gona Give You Up (1999) https://t.co/Dg8v27KMoh https://t.co/AN4mtuK1BU",
-      "original_en": "Never Gona Give You Up (1999) https://t.co/Dg8v27KMoh https://t.co/AN4mtuK1BU",
-      "views": 9251,
-      "likes": 120,
-      "reposts": 13,
-      "bookmarks": 48,
-      "created_at": "2026-10-31T10:37:14.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2116652372021883123",
-      "status_url": "https://x.com/minchoi/status/2116652372021883123",
-      "text": "Happy Halloween from robots 🎃\nhttps://t.co/iVbrmmkSqy https://t.co/607LqnLUPB",
-      "original_en": "Happy Halloween from robots 🎃\nhttps://t.co/iVbrmmkSqy https://t.co/607LqnLUPB",
-      "views": 7096,
+      "url": "https://x.com/EHuanglu/status/2116983913096823029",
+      "status_url": "https://x.com/EHuanglu/status/2116983913096823029",
+      "text": "this halloween car just shocked the police.. https://t.co/UwAmm2qDC6",
+      "original_en": "this halloween car just shocked the police.. https://t.co/UwAmm2qDC6",
+      "views": 5749,
       "likes": 38,
-      "reposts": 4,
-      "bookmarks": 4,
-      "created_at": "2026-10-31T22:03:45.000Z",
+      "reposts": 5,
+      "bookmarks": 6,
+      "created_at": "2026-11-01T20:01:11.000Z",
       "highlight": false,
       "self_quote": false
     }
@@ -115,113 +145,103 @@
   "virals": [],
   "outsiders": [],
   "patterns": [
-    "Workflow thread with a years-of-pain hook: techhalla 'chasing perfect lipsync for over 2 years' + Magnific, 41K views and 754 bookmarks (1.8% bookmark rate)",
-    "Minimal caption, maximum clip: 'AI is incredible' (47K) and 'Seedance 2.5 made this crazy AI animation' (20K), the video does all the talking",
-    "Seedance 2.5 is the model name that travels: EHuanglu, maxescu and ai_artworkgen all name it",
-    "Creator-utility news: 'X now shows which posts had their reach limited' 16K with 45 replies, creators love a how-to-check",
-    "Faux-period music shorts cooling: techhalla 1999 Rickroll 9.3K vs 42K the day before",
-    "Halloween themed posts underperformed across the watchlist (all under 3.7K)"
+    "AI-made 3D is the topic of the day: 3D animation in 3 hours (85K), Kimi driving Blender/CAD/Three.js from one prompt (37K), 2D-to-3D characters (11.6K)",
+    "'Built it in X hours without touching code' stories with one hard number (Karpathy HackerTube: 2 hours, 6,454 videos)",
+    "Faux-period music shorts ('Song (19xx)'): techhalla 'Du hast (1967)' 22K, plus an ask for song suggestions to drive replies",
+    "Fill-in-the-blank [bracket] prompt shares remain bookmark magnets (azed_ai watercolor: 346 bookmarks on 21.6K views)",
+    "Short, curiosity-led captions ('scary..', 'This is wild.') over video beat long explanations",
+    "Halloween content faded fast on Nov 1: most spooky posts stayed under 6K"
   ],
   "no_hits": [
     {
       "handle": "@maxescu",
-      "reason": "No original on 2026-10-31 reached 5,000 views; highest observed was 2,176 views.",
-      "max_views": 2176
-    },
-    {
-      "handle": "@azed_ai",
-      "reason": "No original on 2026-10-31 reached 5,000 views; highest observed was 3,638 views.",
-      "max_views": 3638
+      "reason": "No original on 2026-11-01 reached 5,000 views; highest observed was 1,889 views.",
+      "max_views": 1889
     },
     {
       "handle": "@CharaspowerAI",
-      "reason": "No original on 2026-10-31 reached 5,000 views; highest observed was 2,122 views.",
-      "max_views": 2122
+      "reason": "No original on 2026-11-01 reached 5,000 views; highest observed was 2,217 views.",
+      "max_views": 2217
     },
     {
       "handle": "@MayorKingAI",
-      "reason": "No original on 2026-10-31 reached 5,000 views; highest observed was 3,640 views.",
-      "max_views": 3640
+      "reason": "No original on 2026-11-01 reached 5,000 views; highest observed was 1,360 views.",
+      "max_views": 1360
     },
     {
       "handle": "@CoffeeVectors",
-      "reason": "No original posts found on 2026-10-31.",
+      "reason": "No original posts found on 2026-11-01.",
       "max_views": 0
     },
     {
       "handle": "@Salmaaboukarr",
-      "reason": "No original posts found on 2026-10-31.",
+      "reason": "No original posts found on 2026-11-01.",
       "max_views": 0
     },
     {
       "handle": "@AIWarper",
-      "reason": "No original posts found on 2026-10-31.",
+      "reason": "No original posts found on 2026-11-01.",
       "max_views": 0
     },
     {
       "handle": "@ai_artworkgen",
-      "reason": "No original on 2026-10-31 reached 5,000 views; highest observed was 750 views.",
-      "max_views": 750
+      "reason": "No original on 2026-11-01 reached 5,000 views; highest observed was 762 views.",
+      "max_views": 762
     }
   ],
-  "virals_narrative": "EHuanglu took the day with two Seedance-era AI animation posts: 'AI is incredible' 47K and 'Seedance 2.5 made this crazy AI animation' 20K (490 likes). techhalla's Magnific lipsync thread ('chasing perfect lipsync for over 2 years') hit 41K with 754 bookmarks, the bookmark record of the day, while his faux-period music short 'Never Gona Give You Up (1999)' slowed to 9.3K. minchoi kept the news lane: X reach-limit checker 16K, Google's TPU in orbit 12K, Halloween robots 7.1K. Halloween posts from azed_ai (Firefly Boards skeleton short), MayorKingAI and CharaspowerAI stayed under 3.7K.",
-  "narrative_synthesis": "EHuanglu took the day with two Seedance-era AI animation posts: 'AI is incredible' 47K and 'Seedance 2.5 made this crazy AI animation' 20K (490 likes). techhalla's Magnific lipsync thread ('chasing perfect lipsync for over 2 years') hit 41K with 754 bookmarks, the bookmark record of the day, while his faux-period music short 'Never Gona Give You Up (1999)' slowed to 9.3K. minchoi kept the news lane: X reach-limit checker 16K, Google's TPU in orbit 12K, Halloween robots 7.1K. Halloween posts from azed_ai (Firefly Boards skeleton short), MayorKingAI and CharaspowerAI stayed under 3.7K.",
+  "virals_narrative": "Quiet Sunday after Halloween: 9 watchlist originals cleared 5K, 7 of them over 10K. EHuanglu's 'AI made this 3D animation in 3hrs' led with 85K views. minchoi's Karpathy HackerTube story (61K, 517 bookmarks) and Kimi driving Blender, CAD and Three.js from one prompt (37K). techhalla's faux-period music series kept going with 'Du hast (1967)' (22K) plus a cat prompt post (6.8K). azed_ai's 'Loose Watercolor Drift' [bracket] prompt share hit 21.6K with 346 bookmarks, and 2D-to-3D characters 11.6K. Halloween leftovers (EHuanglu's police car, CharaspowerAI) mostly stayed small.",
+  "narrative_synthesis": "Quiet Sunday after Halloween: 9 watchlist originals cleared 5K, 7 of them over 10K. EHuanglu's 'AI made this 3D animation in 3hrs' led with 85K views. minchoi's Karpathy HackerTube story (61K, 517 bookmarks) and Kimi driving Blender, CAD and Three.js from one prompt (37K). techhalla's faux-period music series kept going with 'Du hast (1967)' (22K) plus a cat prompt post (6.8K). azed_ai's 'Loose Watercolor Drift' [bracket] prompt share hit 21.6K with 346 bookmarks, and 2D-to-3D characters 11.6K. Halloween leftovers (EHuanglu's police car, CharaspowerAI) mostly stayed small.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 7,
+  "hits_count": 9,
   "outsiders_count": 0,
-  "previous_day": "2026-10-30",
+  "previous_day": "2026-10-31",
   "leaderboards": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-01",
     "tracking_start": "2026-09-13",
     "days_included": [
-      "2026-10-25",
       "2026-10-26",
       "2026-10-27",
       "2026-10-28",
       "2026-10-29",
       "2026-10-30",
-      "2026-10-31"
+      "2026-10-31",
+      "2026-11-01"
     ],
     "month_days_included": [
-      "2026-10-26",
-      "2026-10-27",
-      "2026-10-28",
-      "2026-10-29",
-      "2026-10-30",
-      "2026-10-31"
+      "2026-11-01"
     ],
     "week": {
-      "label": "Rolling week · Oct 25–Oct 31",
+      "label": "Rolling week · Oct 26–Nov 1",
       "range": [
-        "2026-10-25",
-        "2026-10-31"
+        "2026-10-26",
+        "2026-11-01"
       ],
       "entries": [
         {
           "handle": "@techhalla",
           "name": "techhalla",
-          "hits": 19,
-          "days": 6,
-          "views": 1223003,
+          "hits": 21,
+          "days": 7,
+          "views": 1251915,
           "best": 407030,
           "best_url": "https://x.com/techhalla/status/2115615625838285230"
         },
         {
           "handle": "@minchoi",
           "name": "minchoi",
-          "hits": 26,
-          "days": 6,
-          "views": 557876,
+          "hits": 28,
+          "days": 7,
+          "views": 656343,
           "best": 97153,
           "best_url": "https://x.com/minchoi/status/2115290590959329451"
         },
         {
           "handle": "@EHuanglu",
           "name": "EHuanglu",
-          "hits": 15,
-          "days": 6,
-          "views": 411477,
+          "hits": 17,
+          "days": 7,
+          "views": 502293,
           "best": 118020,
           "best_url": "https://x.com/EHuanglu/status/2112980072240238723"
         },
@@ -237,11 +257,11 @@
         {
           "handle": "@azed_ai",
           "name": "azed_ai",
-          "hits": 9,
-          "days": 4,
-          "views": 73167,
-          "best": 16087,
-          "best_url": "https://x.com/azed_ai/status/2115760081585553630"
+          "hits": 12,
+          "days": 5,
+          "views": 114710,
+          "best": 21600,
+          "best_url": "https://x.com/azed_ai/status/2116848755362484477"
         },
         {
           "handle": "@CharaspowerAI",
@@ -282,92 +302,47 @@
       ]
     },
     "month": {
-      "label": "October 2026 · from Oct 26",
+      "label": "November 2026 · from Nov 1",
       "range": [
-        "2026-10-26",
-        "2026-10-31"
+        "2026-11-01",
+        "2026-11-01"
       ],
       "entries": [
         {
-          "handle": "@techhalla",
-          "name": "techhalla",
-          "hits": 19,
-          "days": 6,
-          "views": 1223003,
-          "best": 407030,
-          "best_url": "https://x.com/techhalla/status/2115615625838285230"
-        },
-        {
           "handle": "@minchoi",
           "name": "minchoi",
-          "hits": 26,
-          "days": 6,
-          "views": 557876,
-          "best": 97153,
-          "best_url": "https://x.com/minchoi/status/2115290590959329451"
+          "hits": 2,
+          "days": 1,
+          "views": 98467,
+          "best": 61340,
+          "best_url": "https://x.com/minchoi/status/2116919079617372530"
         },
         {
           "handle": "@EHuanglu",
           "name": "EHuanglu",
-          "hits": 15,
-          "days": 6,
-          "views": 411477,
-          "best": 118020,
-          "best_url": "https://x.com/EHuanglu/status/2112980072240238723"
-        },
-        {
-          "handle": "@AIWarper",
-          "name": "AIWarper",
-          "hits": 11,
-          "days": 2,
-          "views": 134712,
-          "best": 36196,
-          "best_url": "https://x.com/AIWarper/status/2114437262062829746"
+          "hits": 2,
+          "days": 1,
+          "views": 90816,
+          "best": 85067,
+          "best_url": "https://x.com/EHuanglu/status/2116725980501024775"
         },
         {
           "handle": "@azed_ai",
           "name": "azed_ai",
-          "hits": 9,
-          "days": 4,
-          "views": 73167,
-          "best": 16087,
-          "best_url": "https://x.com/azed_ai/status/2115760081585553630"
-        },
-        {
-          "handle": "@CharaspowerAI",
-          "name": "CharaspowerAI",
-          "hits": 6,
-          "days": 4,
-          "views": 70731,
-          "best": 18778,
-          "best_url": "https://x.com/CharaspowerAI/status/2112924513637941274"
-        },
-        {
-          "handle": "@maxescu",
-          "name": "maxescu",
-          "hits": 4,
-          "days": 2,
-          "views": 59849,
-          "best": 39302,
-          "best_url": "https://x.com/maxescu/status/2114013602835525662"
-        },
-        {
-          "handle": "@MayorKingAI",
-          "name": "MayorKingAI",
-          "hits": 2,
-          "days": 2,
-          "views": 15495,
-          "best": 8947,
-          "best_url": "https://x.com/MayorKingAI/status/2114062036120592625"
-        },
-        {
-          "handle": "@ai_artworkgen",
-          "name": "ai_artworkgen",
-          "hits": 1,
+          "hits": 3,
           "days": 1,
-          "views": 5098,
-          "best": 5098,
-          "best_url": "https://x.com/ai_artworkgen/status/2116217421077848340"
+          "views": 41543,
+          "best": 21600,
+          "best_url": "https://x.com/azed_ai/status/2116848755362484477"
+        },
+        {
+          "handle": "@techhalla",
+          "name": "techhalla",
+          "hits": 2,
+          "days": 1,
+          "views": 28912,
+          "best": 22135,
+          "best_url": "https://x.com/techhalla/status/2116996433047880080"
         }
       ]
     }
@@ -404,104 +379,106 @@
   },
   "day_roster": [
     {
+      "handle": "@minchoi",
+      "posts": 2,
+      "total_views": 98467,
+      "best_views": 61340
+    },
+    {
       "handle": "@EHuanglu",
       "posts": 2,
-      "total_views": 66705,
-      "best_views": 46784
-    },
-    {
-      "handle": "@techhalla",
-      "posts": 3,
-      "total_views": 53886,
-      "best_views": 40827
-    },
-    {
-      "handle": "@minchoi",
-      "posts": 3,
-      "total_views": 35297,
-      "best_views": 15761
+      "total_views": 90816,
+      "best_views": 85067
     },
     {
       "handle": "@azed_ai",
-      "posts": 5,
-      "total_views": 12050,
-      "best_views": 3638
+      "posts": 6,
+      "total_views": 49076,
+      "best_views": 21600
+    },
+    {
+      "handle": "@techhalla",
+      "posts": 2,
+      "total_views": 28912,
+      "best_views": 22135
     },
     {
       "handle": "@CharaspowerAI",
       "posts": 4,
-      "total_views": 6256,
-      "best_views": 2122
-    },
-    {
-      "handle": "@MayorKingAI",
-      "posts": 2,
-      "total_views": 5090,
-      "best_views": 3640
+      "total_views": 7563,
+      "best_views": 2217
     },
     {
       "handle": "@maxescu",
-      "posts": 3,
-      "total_views": 4389,
-      "best_views": 2176
+      "posts": 1,
+      "total_views": 1889,
+      "best_views": 1889
+    },
+    {
+      "handle": "@MayorKingAI",
+      "posts": 1,
+      "total_views": 1360,
+      "best_views": 1360
     },
     {
       "handle": "@ai_artworkgen",
       "posts": 1,
-      "total_views": 750,
-      "best_views": 750
+      "total_views": 762,
+      "best_views": 762
     }
   ],
   "you_rank": null,
   "trend_input_only_posts": [],
   "drafts": [
     {
-      "draft_en": "I spent months fighting AI lipsync on my VFX shots. Mouths drifting, teeth melting, sync off by 3 frames. This is the workflow that finally fixed it, step by step below 🧵",
+      "draft_en": "AI built this 3D VFX shot in an afternoon. No modeling, no rigging, no render farm. Just one prompt, a few corrections, and my eye on the final frame. Scary how fast this got 👀 Breakdown below.",
       "draft_keywords": [
-        "lipsync",
-        "Magnific",
+        "AI 3D",
         "AI VFX",
-        "workflow"
+        "3D animation",
+        "Blender"
       ],
-      "video_tip": "10s split screen: left the old broken lipsync (label 'before'), right the fixed shot ('after'), same line of dialogue, audio on. Thread: 4 steps, one screenshot each."
+      "video_tip": "12-15s: open on the finished cinematic 3D shot, then a fast rewind through the steps (prompt, rough blockout, textured pass, final comp). On-screen timer '3 hrs' in a corner. Prompt and tools in reply 1."
     },
     {
-      "draft_en": "One still frame. Seedance 2.5. No compositing. This is what a single AI VFX shot looks like in 2026.",
+      "draft_en": "Prompt share: cinematic VFX shot in loose watercolor 🎨\n\n[Subject] caught in [VFX event], loose oversized brushstrokes, soft pigment bleeding, wet-on-wet texture, slow camera drift, film grain, no outlines. Swap the brackets and show me yours.",
       "draft_keywords": [
-        "Seedance 2.5",
+        "prompt share",
+        "free prompt",
         "AI VFX",
+        "watercolor"
+      ],
+      "video_tip": "4-image grid of the same template (dragon over a city, collapsing bridge, portal, storm at sea), then a 5s animated version of the best one in Kling 4.0 or Seedance 2.5."
+    },
+    {
+      "draft_en": "Saturday Challenge 🎬 Pick a song, pick a decade, make the music video that never existed. Mine: Thriller (1928), silent film edition. Drop yours below, best one gets featured next week.",
+      "draft_keywords": [
+        "Saturday Challenge",
+        "faux-period music video",
+        "AI video",
+        "community"
+      ],
+      "video_tip": "12-15s, 1.33:1 black and white, heavy flicker and grain, silent-film title cards between 3 beat-synced cuts, end card 'THRILLER (1928)'. Rules pinned in reply 1, ask for song suggestions."
+    },
+    {
+      "draft_en": "From a flat 2D sketch to a full 3D VFX character in one pass. Same design, same colors, now it moves, casts shadows and lives in a real scene. Which character should I bring to 3D next?",
+      "draft_keywords": [
+        "2D to 3D",
+        "AI VFX",
+        "character",
         "AI video"
       ],
-      "video_tip": "8-12s, your strongest cinematic VFX shot, no text overlay for the first 3s. Put the source still as the last frame so people replay. Prompt in reply 1."
+      "video_tip": "10s: 2s on the flat 2D drawing, a wipe or paper-fold transition into the 3D version turning its head, then 4s of it inside a lit cinematic environment. Ask for the next character in the caption to drive replies."
     },
     {
-      "draft_en": "AI is incredible. I gave it one frame of Marseille's Old Port and asked for a storm rolling in from the sea. 👇",
+      "draft_en": "I made this VFX sequence in about 2 hours and didn't touch a timeline. I described each shot to an AI agent, fixed 3 things, and it built the cut. The speed is wild, but taste is still the job.",
       "draft_keywords": [
-        "AI video",
-        "AI filmmaking",
-        "Seedance"
-      ],
-      "video_tip": "Minimal caption, let the clip carry it: 10s wide shot, calm harbour to full storm, real location still as frame 1. Natural sound design adds a lot."
-    },
-    {
-      "draft_en": "Before / after: the raw AI render vs the final shot after my VFX pass. 80% of the magic is in the last 20%. Here's what I changed 👇",
-      "draft_keywords": [
+        "AI agent",
         "AI VFX",
-        "Firefly",
-        "before after",
-        "workflow"
-      ],
-      "video_tip": "Wipe transition before to after, 8s, then 3 quick inserts of each fix (grade, grain, light wrap). Mention the tools in reply 1 (Firefly etc.)."
-    },
-    {
-      "draft_en": "Saturday Challenge recap: you turned one prompt into 40 different short films. Here are my 6 favourites, and next week's theme 👇",
-      "draft_keywords": [
         "AI filmmaking",
-        "community",
-        "prompt share",
-        "challenge"
+        "no code"
       ],
-      "video_tip": "15s montage of 6 community clips, 2s each, creator handle on screen. Credit every creator in the thread."
+      "video_tip": "Split screen: left your typed shot descriptions appearing one by one, right the sequence updating after each instruction. 12s, end with a clean 3s play of the final cut and a '2 hrs' label."
     }
   ],
   "excluded_hits": []
