@@ -1,143 +1,158 @@
 {
-  "title": "Daily X narrative digest - 2026-11-02",
-  "date": "2026-11-02",
+  "title": "Daily X narrative digest - 2026-11-03",
+  "date": "2026-11-03",
   "timezone": "Europe/Paris",
-  "updated": "2026-11-03T09:03:58+01:00",
+  "updated": "2026-11-04T09:09:46+01:00",
   "brand_title": "LudovicCreator X Virality Score",
   "brand_handle": "@LudovicCreator",
   "hits": [
     {
       "handle": "@minchoi",
       "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2117363234957373506",
-      "status_url": "https://x.com/minchoi/status/2117363234957373506",
-      "text": "Holy smokes...\n\nPeople on X say an unreleased Claude checkpoint called \"Fable 5.5\" just dropped.\n\nMaking full animations and 3D scenes from code alone.\n\nNo image or video model.\n\nAnthropic hasn't confirmed it exists.\n\n10 wild examples:",
-      "original_en": "Holy smokes...\n\nPeople on X say an unreleased Claude checkpoint called \"Fable 5.5\" just dropped.\n\nMaking full animations and 3D scenes from code alone.\n\nNo image or video model.\n\nAnthropic hasn't confirmed it exists.\n\n10 wild examples:",
-      "views": 25211,
-      "likes": 101,
-      "reposts": 9,
-      "bookmarks": 39,
-      "created_at": "2026-11-02T21:08:28.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2117107470262734922",
-      "status_url": "https://x.com/minchoi/status/2117107470262734922",
-      "text": "Regular people are handing their everyday chores to Grok Bot now.\n\nTracing family roots in Italy. Cutting internet bills by $58/month. Buying surprise gifts. Finding bus stops.\n\n10 wild examples: 👇",
-      "original_en": "Regular people are handing their everyday chores to Grok Bot now.\n\nTracing family roots in Italy. Cutting internet bills by $58/month. Buying surprise gifts. Finding bus stops.\n\n10 wild examples: 👇",
-      "views": 24634,
-      "likes": 105,
-      "reposts": 9,
-      "bookmarks": 80,
-      "created_at": "2026-11-02T04:12:09.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@techhalla",
-      "name": "techhalla",
-      "url": "https://x.com/techhalla/status/2117343202587857369",
-      "status_url": "https://x.com/techhalla/status/2117343202587857369",
-      "text": "Self Esteem (full version, 1972) https://t.co/ArBMgVmaY3",
-      "original_en": "Self Esteem (full version, 1972) https://t.co/ArBMgVmaY3",
-      "views": 11906,
-      "likes": 190,
-      "reposts": 21,
-      "bookmarks": 68,
-      "created_at": "2026-11-02T19:48:52.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2117254180704223637",
-      "status_url": "https://x.com/minchoi/status/2117254180704223637",
-      "text": "Karpathy just open-sourced the data behind HackerTube.\n\n20 years of Hacker News comments, filtered down to 6,454 videos, in one zip file.\n\nPoint Claude at it and build your own version. \n\nWeekend projects are about to get wild. https://t.co/V8im4N3ZcG",
-      "original_en": "Karpathy just open-sourced the data behind HackerTube.\n\n20 years of Hacker News comments, filtered down to 6,454 videos, in one zip file.\n\nPoint Claude at it and build your own version. \n\nWeekend projects are about to get wild. https://t.co/V8im4N3ZcG",
-      "views": 10908,
-      "likes": 68,
-      "reposts": 4,
-      "bookmarks": 43,
-      "created_at": "2026-11-02T13:55:08.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2117296377529008514",
-      "status_url": "https://x.com/minchoi/status/2117296377529008514",
-      "text": "OpenAI's GPT-6 Astra is now #1 at robotics.\n\nBut on a simulated surgical robot, it finished the task just twice.\n\n1. Playground's Robot Intelligence Index (16 public benchmarks):\n\nAstra is #1 overall at 1905. Coding agents and world action models hold the top 10.\n\n2. micro1's https://t.co/5hE5O0MHNB",
-      "original_en": "OpenAI's GPT-6 Astra is now #1 at robotics.\n\nBut on a simulated surgical robot, it finished the task just twice.\n\n1. Playground's Robot Intelligence Index (16 public benchmarks):\n\nAstra is #1 overall at 1905. Coding agents and world action models hold the top 10.\n\n2. micro1's https://t.co/5hE5O0MHNB",
-      "views": 10455,
-      "likes": 43,
-      "reposts": 6,
-      "bookmarks": 11,
-      "created_at": "2026-11-02T16:42:48.000Z",
+      "url": "https://x.com/minchoi/status/2117633564736938471",
+      "status_url": "https://x.com/minchoi/status/2117633564736938471",
+      "text": "Grok Bot just made a doctor's appointment for me while I was driving...\n\nMy daughter hurt her foot landing a jump at dance practice.\n\nI told Grok Bot what happened, how she was feeling, and what I saw: not much swelling, iced, and her pain seemed manageable.\n\nIt gave me a few https://t.co/gx0GCuZ39G",
+      "original_en": "Grok Bot just made a doctor's appointment for me while I was driving...\n\nMy daughter hurt her foot landing a jump at dance practice.\n\nI told Grok Bot what happened, how she was feeling, and what I saw: not much swelling, iced, and her pain seemed manageable.\n\nIt gave me a few https://t.co/gx0GCuZ39G",
+      "views": 1520323,
+      "likes": 510,
+      "reposts": 54,
+      "bookmarks": 178,
+      "created_at": "2026-11-03T15:02:40.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
       "handle": "@EHuanglu",
       "name": "EHuanglu",
-      "url": "https://x.com/EHuanglu/status/2117282780963017097",
-      "status_url": "https://x.com/EHuanglu/status/2117282780963017097",
-      "text": "AI is eating animation.. seedance 2.5 prompt below https://t.co/5mmIA96ram",
-      "original_en": "AI is eating animation.. seedance 2.5 prompt below https://t.co/5mmIA96ram",
-      "views": 8363,
-      "likes": 132,
+      "url": "https://x.com/EHuanglu/status/2117517616457879811",
+      "status_url": "https://x.com/EHuanglu/status/2117517616457879811",
+      "text": "Cyberpunk 2077 https://t.co/1JgXYH6DDZ",
+      "original_en": "Cyberpunk 2077 https://t.co/1JgXYH6DDZ",
+      "views": 90935,
+      "likes": 4925,
+      "reposts": 374,
+      "bookmarks": 669,
+      "created_at": "2026-11-03T07:21:55.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@azed_ai",
+      "name": "azed_ai",
+      "url": "https://x.com/azed_ai/status/2117595974285533435",
+      "status_url": "https://x.com/azed_ai/status/2117595974285533435",
+      "text": "I thought ChatGPT and Codex usage limits will start in December!!! https://t.co/5tePnwtsrE",
+      "original_en": "I thought ChatGPT and Codex usage limits will start in December!!! https://t.co/5tePnwtsrE",
+      "views": 45067,
+      "likes": 25,
+      "reposts": 1,
+      "bookmarks": 2,
+      "created_at": "2026-11-03T12:33:17.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@azed_ai",
+      "name": "azed_ai",
+      "url": "https://x.com/azed_ai/status/2117526961597874554",
+      "status_url": "https://x.com/azed_ai/status/2117526961597874554",
+      "text": "This 2D to 3D transformation is insane https://t.co/qEuXKXrBjU",
+      "original_en": "This 2D to 3D transformation is insane https://t.co/qEuXKXrBjU",
+      "views": 10493,
+      "likes": 182,
       "reposts": 10,
-      "bookmarks": 47,
-      "created_at": "2026-11-02T15:48:46.000Z",
+      "bookmarks": 70,
+      "created_at": "2026-11-03T07:59:04.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@EHuanglu",
+      "name": "EHuanglu",
+      "url": "https://x.com/EHuanglu/status/2117675103203070220",
+      "status_url": "https://x.com/EHuanglu/status/2117675103203070220",
+      "text": "AI transformation.. https://t.co/w5pR1sxhU0",
+      "original_en": "AI transformation.. https://t.co/w5pR1sxhU0",
+      "views": 10216,
+      "likes": 64,
+      "reposts": 6,
+      "bookmarks": 17,
+      "created_at": "2026-11-03T17:47:43.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@minchoi",
+      "name": "minchoi",
+      "url": "https://x.com/minchoi/status/2117732704540102820",
+      "status_url": "https://x.com/minchoi/status/2117732704540102820",
+      "text": "Holy smokes... this is an insane car🤯 https://t.co/CJyEPvGjfG",
+      "original_en": "Holy smokes... this is an insane car🤯 https://t.co/CJyEPvGjfG",
+      "views": 9364,
+      "likes": 42,
+      "reposts": 2,
+      "bookmarks": 6,
+      "created_at": "2026-11-03T21:36:36.000Z",
       "highlight": false,
       "self_quote": false
     },
     {
-      "handle": "@azed_ai",
-      "name": "azed_ai",
-      "url": "https://x.com/azed_ai/status/2117209128850563445",
-      "status_url": "https://x.com/azed_ai/status/2117209128850563445",
-      "text": "Prompt share: Paper Folk Story\n\n💬 Prompt:\nPaper cut-out animation of a [subject] [simple action], full-body character, layered paper shapes, handmade paper texture, visible cut edges, soft shadows between layers, flat colorful paper tones, slightly imperfect handcrafted details, https://t.co/EIOotPvEGo",
-      "original_en": "Prompt share: Paper Folk Story\n\n💬 Prompt:\nPaper cut-out animation of a [subject] [simple action], full-body character, layered paper shapes, handmade paper texture, visible cut edges, soft shadows between layers, flat colorful paper tones, slightly imperfect handcrafted details, https://t.co/EIOotPvEGo",
-      "views": 6765,
-      "likes": 179,
-      "reposts": 21,
-      "bookmarks": 110,
-      "created_at": "2026-11-02T10:56:06.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@azed_ai",
-      "name": "azed_ai",
-      "url": "https://x.com/azed_ai/status/2117165830979125542",
-      "status_url": "https://x.com/azed_ai/status/2117165830979125542",
-      "text": "Your drawings deserve another dimension https://t.co/vaP6Cn8vxw",
-      "original_en": "Your drawings deserve another dimension https://t.co/vaP6Cn8vxw",
-      "views": 6179,
-      "likes": 163,
-      "reposts": 13,
-      "bookmarks": 34,
-      "created_at": "2026-11-02T08:04:03.000Z",
+      "handle": "@AIWarper",
+      "name": "AIWarper",
+      "url": "https://x.com/AIWarper/status/2117438920950722642",
+      "status_url": "https://x.com/AIWarper/status/2117438920950722642",
+      "text": "I love to test these video to 3D tools on some difficult inputs just to see how well they can do.\n\nNot bad.... but not great. https://t.co/wNnuRuOxf7",
+      "original_en": "I love to test these video to 3D tools on some difficult inputs just to see how well they can do.\n\nNot bad.... but not great. https://t.co/wNnuRuOxf7",
+      "views": 9315,
+      "likes": 134,
+      "reposts": 11,
+      "bookmarks": 123,
+      "created_at": "2026-11-03T02:09:13.000Z",
       "highlight": false,
       "self_quote": false
     },
     {
       "handle": "@techhalla",
       "name": "techhalla",
-      "url": "https://x.com/techhalla/status/2117188095464321061",
-      "status_url": "https://x.com/techhalla/status/2117188095464321061",
-      "text": "Rock is Dead (1973) https://t.co/6OORmXYfth",
-      "original_en": "Rock is Dead (1973) https://t.co/6OORmXYfth",
-      "views": 6165,
-      "likes": 109,
-      "reposts": 15,
-      "bookmarks": 11,
-      "created_at": "2026-11-02T09:32:32.000Z",
+      "url": "https://x.com/techhalla/status/2117624617112096999",
+      "status_url": "https://x.com/techhalla/status/2117624617112096999",
+      "text": "me and my wife after we pay off the trailer\n\nmagnific prompt is below 👇 https://t.co/beqvErIf8Y",
+      "original_en": "me and my wife after we pay off the trailer\n\nmagnific prompt is below 👇 https://t.co/beqvErIf8Y",
+      "views": 5934,
+      "likes": 102,
+      "reposts": 3,
+      "bookmarks": 28,
+      "created_at": "2026-11-03T14:27:06.000Z",
+      "highlight": false,
+      "self_quote": false
+    },
+    {
+      "handle": "@AIWarper",
+      "name": "AIWarper",
+      "url": "https://x.com/AIWarper/status/2117447801944854723",
+      "status_url": "https://x.com/AIWarper/status/2117447801944854723",
+      "text": "Interesting https://t.co/SE6EFOq5KW",
+      "original_en": "Interesting https://t.co/SE6EFOq5KW",
+      "views": 5865,
+      "likes": 81,
+      "reposts": 4,
+      "bookmarks": 46,
+      "created_at": "2026-11-03T02:44:30.000Z",
+      "highlight": false,
+      "self_quote": false
+    },
+    {
+      "handle": "@azed_ai",
+      "name": "azed_ai",
+      "url": "https://x.com/azed_ai/status/2117572559399170451",
+      "status_url": "https://x.com/azed_ai/status/2117572559399170451",
+      "text": "Prompt share: Cinematic 3D Fantasy\n\n💬 Prompt:\nA cinematic 3D full-body render of [fantasy character], wearing [armor design] assembled from salvaged robotic parts, [facial features], [hairstyle], carrying [weapon], distressed fabrics, corroded metal plating, exposed mechanisms, https://t.co/jYPUtvrmj7",
+      "original_en": "Prompt share: Cinematic 3D Fantasy\n\n💬 Prompt:\nA cinematic 3D full-body render of [fantasy character], wearing [armor design] assembled from salvaged robotic parts, [facial features], [hairstyle], carrying [weapon], distressed fabrics, corroded metal plating, exposed mechanisms, https://t.co/jYPUtvrmj7",
+      "views": 5123,
+      "likes": 134,
+      "reposts": 13,
+      "bookmarks": 78,
+      "created_at": "2026-11-03T11:00:15.000Z",
       "highlight": false,
       "self_quote": false
     }
@@ -145,133 +160,129 @@
   "virals": [],
   "outsiders": [],
   "patterns": [
-    "Code-only animation is the hook of the day: rumored Claude 'Fable 5.5' making full animations and 3D scenes from code alone (25.2K), echoed by AIWarper",
-    "Explainers about new model drops with one concrete number or ranking (GPT-6 Astra #1 at robotics, 10.5K; Karpathy's 6,454-video dataset, 10.9K)",
-    "Faux-period music shorts keep delivering for techhalla: 'Self Esteem (1972)' 11.9K, 'Rock is Dead (1973)' 6.2K",
-    "Seedance 2.5 prompt reveals: 'AI is eating animation.. prompt below' (8.4K) beats long tutorial captions",
-    "Handmade-look styles and 2D-to-3D transformations: Paper Folk Story [bracket] prompt (6.8K), 'Your drawings deserve another dimension' (6.2K)",
-    "Halloween leftovers, GM posts and sponsored tool demos all stayed under 5K"
+    "3D is the format of the day: 2D-to-3D transformations (azed_ai, 10.5K), video-to-3D stress tests on hard inputs (AIWarper, 9.3K) and EHuanglu's 'AI transformation' (10.2K) all cleared the floor with almost no caption.",
+    "Pure visual, near-zero caption: the top creative hit, EHuanglu's 'Cyberpunk 2077' (90.9K, 4.9K likes, 669 bookmarks), is two words over the clip.",
+    "Prompt shares keep the bookmark ratio high: azed_ai's Cinematic 3D Fantasy template (5.1K views, 78 bookmarks) and techhalla's Magnific meme with the prompt below (5.9K).",
+    "Agent stories beat tool news: minchoi's Grok Bot booking a doctor's appointment while driving (1.52M) is a personal, concrete use case, not a feature list.",
+    "AI-usage news drives reach but not engagement: azed_ai on ChatGPT/Codex usage limits hit 45K views but only 25 likes.",
+    "Seedance 2.5 and Minimax H3 VFX showcases (CharaspowerAI, azed_ai) stayed under 5K: scale and destruction alone are no longer enough without a transformation hook."
   ],
   "no_hits": [
     {
       "handle": "@maxescu",
-      "reason": "No original on 2026-11-02 reached 5,000 views; highest observed was 1,839 views.",
-      "max_views": 1839
+      "reason": "No original on 2026-11-03 reached 5,000 views; highest observed was 1,366 views.",
+      "max_views": 1366
     },
     {
       "handle": "@CharaspowerAI",
-      "reason": "No original on 2026-11-02 reached 5,000 views; highest observed was 1,648 views.",
-      "max_views": 1648
+      "reason": "No original on 2026-11-03 reached 5,000 views; highest observed was 1,664 views.",
+      "max_views": 1664
     },
     {
       "handle": "@MayorKingAI",
-      "reason": "No original on 2026-11-02 reached 5,000 views; highest observed was 2,077 views.",
-      "max_views": 2077
+      "reason": "No original on 2026-11-03 reached 5,000 views; highest observed was 2,717 views.",
+      "max_views": 2717
     },
     {
       "handle": "@CoffeeVectors",
-      "reason": "No original posts found on 2026-11-02.",
+      "reason": "No original post found on 2026-11-03.",
       "max_views": 0
     },
     {
       "handle": "@Salmaaboukarr",
-      "reason": "No original posts found on 2026-11-02.",
-      "max_views": 0
-    },
-    {
-      "handle": "@AIWarper",
-      "reason": "No original on 2026-11-02 reached 5,000 views; highest observed was 1,816 views.",
-      "max_views": 1816
+      "reason": "No original on 2026-11-03 reached 5,000 views; highest observed was 1,240 views.",
+      "max_views": 1240
     },
     {
       "handle": "@ai_artworkgen",
-      "reason": "No original on 2026-11-02 reached 5,000 views; highest observed was 627 views.",
-      "max_views": 627
+      "reason": "No original on 2026-11-03 reached 5,000 views; highest observed was 1,328 views.",
+      "max_views": 1328
     }
   ],
-  "virals_narrative": "Monday was led by AI-news explainers: 9 watchlist originals cleared 5K, 5 of them over 10K. minchoi took the top two spots with the rumored 'Fable 5.5' Claude checkpoint making animations and 3D scenes from code alone (25.2K) and everyday people handing chores to Grok Bot (24.6K), plus Karpathy's HackerTube dataset (10.9K) and GPT-6 Astra on robotics (10.5K). techhalla's faux-period music series kept working with 'Self Esteem (1972)' (11.9K) and 'Rock is Dead (1973)' (6.2K). EHuanglu's 'AI is eating animation.. seedance 2.5 prompt below' hit 8.4K, and azed_ai's Paper Folk Story [bracket] prompt (6.8K) and 2D-drawing-to-3D post (6.2K) rounded it out. Halloween leftovers and GM posts stayed under 2K.",
-  "narrative_synthesis": "Monday was led by AI-news explainers: 9 watchlist originals cleared 5K, 5 of them over 10K. minchoi took the top two spots with the rumored 'Fable 5.5' Claude checkpoint making animations and 3D scenes from code alone (25.2K) and everyday people handing chores to Grok Bot (24.6K), plus Karpathy's HackerTube dataset (10.9K) and GPT-6 Astra on robotics (10.5K). techhalla's faux-period music series kept working with 'Self Esteem (1972)' (11.9K) and 'Rock is Dead (1973)' (6.2K). EHuanglu's 'AI is eating animation.. seedance 2.5 prompt below' hit 8.4K, and azed_ai's Paper Folk Story [bracket] prompt (6.8K) and 2D-drawing-to-3D post (6.2K) rounded it out. Halloween leftovers and GM posts stayed under 2K.",
+  "virals_narrative": "Tuesday was a 3D and transformation day: 10 watchlist originals cleared 5K, 5 of them over 10K. minchoi led with Grok Bot booking a doctor's appointment (1.52M), EHuanglu's near-captionless 'Cyberpunk 2077' clip took the creative top spot (90.9K), and 2D-to-3D / video-to-3D posts from azed_ai, EHuanglu and AIWarper all landed between 9K and 11K. Prompt shares kept the best bookmark ratios.",
+  "narrative_synthesis": "Tuesday was a 3D and transformation day: 10 watchlist originals cleared 5K, 5 of them over 10K. minchoi led with Grok Bot booking a doctor's appointment (1.52M), EHuanglu's near-captionless 'Cyberpunk 2077' clip took the creative top spot (90.9K), and 2D-to-3D / video-to-3D posts from azed_ai, EHuanglu and AIWarper all landed between 9K and 11K. Prompt shares kept the best bookmark ratios.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 9,
+  "hits_count": 10,
   "outsiders_count": 0,
-  "previous_day": "2026-11-01",
+  "previous_day": "2026-11-02",
   "leaderboards": {
-    "as_of": "2026-11-02",
+    "as_of": "2026-11-03",
     "tracking_start": "2026-09-13",
     "days_included": [
-      "2026-10-27",
       "2026-10-28",
       "2026-10-29",
       "2026-10-30",
       "2026-10-31",
       "2026-11-01",
-      "2026-11-02"
+      "2026-11-02",
+      "2026-11-03"
     ],
     "month_days_included": [
       "2026-11-01",
-      "2026-11-02"
+      "2026-11-02",
+      "2026-11-03"
     ],
     "week": {
-      "label": "Rolling week · Oct 27–Nov 2",
+      "label": "Rolling week · Oct 28–Nov 3",
       "range": [
-        "2026-10-27",
-        "2026-11-02"
+        "2026-10-28",
+        "2026-11-03"
       ],
       "entries": [
         {
-          "handle": "@techhalla",
-          "name": "techhalla",
-          "hits": 15,
-          "days": 7,
-          "views": 1032927,
-          "best": 407030,
-          "best_url": "https://x.com/techhalla/status/2115615625838285230"
-        },
-        {
           "handle": "@minchoi",
           "name": "minchoi",
-          "hits": 24,
+          "hits": 23,
           "days": 7,
-          "views": 538831,
-          "best": 97153,
-          "best_url": "https://x.com/minchoi/status/2115290590959329451"
+          "views": 1995295,
+          "best": 1520323,
+          "best_url": "https://x.com/minchoi/status/2117633564736938471"
+        },
+        {
+          "handle": "@techhalla",
+          "name": "techhalla",
+          "hits": 14,
+          "days": 7,
+          "views": 883383,
+          "best": 407030,
+          "best_url": "https://x.com/techhalla/status/2115615625838285230"
         },
         {
           "handle": "@EHuanglu",
           "name": "EHuanglu",
           "hits": 11,
           "days": 7,
-          "views": 311209,
-          "best": 85067,
-          "best_url": "https://x.com/EHuanglu/status/2116725980501024775"
+          "views": 396050,
+          "best": 90935,
+          "best_url": "https://x.com/EHuanglu/status/2117517616457879811"
         },
         {
           "handle": "@azed_ai",
           "name": "azed_ai",
-          "hits": 11,
+          "hits": 12,
           "days": 5,
-          "views": 108204,
-          "best": 21600,
-          "best_url": "https://x.com/azed_ai/status/2116848755362484477"
-        },
-        {
-          "handle": "@CharaspowerAI",
-          "name": "CharaspowerAI",
-          "hits": 3,
-          "days": 3,
-          "views": 39522,
-          "best": 18105,
-          "best_url": "https://x.com/CharaspowerAI/status/2116243782840803826"
+          "views": 154884,
+          "best": 45067,
+          "best_url": "https://x.com/azed_ai/status/2117595974285533435"
         },
         {
           "handle": "@AIWarper",
           "name": "AIWarper",
-          "hits": 2,
-          "days": 1,
-          "views": 18087,
+          "hits": 4,
+          "days": 2,
+          "views": 33267,
           "best": 12614,
           "best_url": "https://x.com/AIWarper/status/2115867209486782704"
+        },
+        {
+          "handle": "@CharaspowerAI",
+          "name": "CharaspowerAI",
+          "hits": 2,
+          "days": 2,
+          "views": 25551,
+          "best": 18105,
+          "best_url": "https://x.com/CharaspowerAI/status/2116243782840803826"
         },
         {
           "handle": "@maxescu",
@@ -306,44 +317,53 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-02"
+        "2026-11-03"
       ],
       "entries": [
         {
           "handle": "@minchoi",
           "name": "minchoi",
-          "hits": 6,
-          "days": 2,
-          "views": 169675,
-          "best": 61340,
-          "best_url": "https://x.com/minchoi/status/2116919079617372530"
+          "hits": 8,
+          "days": 3,
+          "views": 1699362,
+          "best": 1520323,
+          "best_url": "https://x.com/minchoi/status/2117633564736938471"
         },
         {
           "handle": "@EHuanglu",
           "name": "EHuanglu",
-          "hits": 3,
-          "days": 2,
-          "views": 99179,
-          "best": 85067,
-          "best_url": "https://x.com/EHuanglu/status/2116725980501024775"
+          "hits": 5,
+          "days": 3,
+          "views": 200330,
+          "best": 90935,
+          "best_url": "https://x.com/EHuanglu/status/2117517616457879811"
         },
         {
           "handle": "@azed_ai",
           "name": "azed_ai",
-          "hits": 5,
-          "days": 2,
-          "views": 54487,
-          "best": 21600,
-          "best_url": "https://x.com/azed_ai/status/2116848755362484477"
+          "hits": 8,
+          "days": 3,
+          "views": 115170,
+          "best": 45067,
+          "best_url": "https://x.com/azed_ai/status/2117595974285533435"
         },
         {
           "handle": "@techhalla",
           "name": "techhalla",
-          "hits": 4,
-          "days": 2,
-          "views": 46983,
+          "hits": 5,
+          "days": 3,
+          "views": 52917,
           "best": 22135,
           "best_url": "https://x.com/techhalla/status/2116996433047880080"
+        },
+        {
+          "handle": "@AIWarper",
+          "name": "AIWarper",
+          "hits": 2,
+          "days": 1,
+          "views": 15180,
+          "best": 9315,
+          "best_url": "https://x.com/AIWarper/status/2117438920950722642"
         }
       ]
     }
@@ -381,111 +401,116 @@
   "day_roster": [
     {
       "handle": "@minchoi",
-      "posts": 4,
-      "total_views": 71208,
-      "best_views": 25211
-    },
-    {
-      "handle": "@azed_ai",
-      "posts": 5,
-      "total_views": 22503,
-      "best_views": 6765
-    },
-    {
-      "handle": "@techhalla",
       "posts": 2,
-      "total_views": 18071,
-      "best_views": 11906
+      "total_views": 1529687,
+      "best_views": 1520323
     },
     {
       "handle": "@EHuanglu",
-      "posts": 1,
-      "total_views": 8363,
-      "best_views": 8363
-    },
-    {
-      "handle": "@CharaspowerAI",
-      "posts": 4,
-      "total_views": 5791,
-      "best_views": 1648
-    },
-    {
-      "handle": "@maxescu",
-      "posts": 3,
-      "total_views": 4363,
-      "best_views": 1839
-    },
-    {
-      "handle": "@MayorKingAI",
       "posts": 2,
-      "total_views": 3308,
-      "best_views": 2077
+      "total_views": 101151,
+      "best_views": 90935
+    },
+    {
+      "handle": "@azed_ai",
+      "posts": 7,
+      "total_views": 70697,
+      "best_views": 45067
     },
     {
       "handle": "@AIWarper",
       "posts": 2,
-      "total_views": 2981,
-      "best_views": 1816
+      "total_views": 15180,
+      "best_views": 9315
+    },
+    {
+      "handle": "@techhalla",
+      "posts": 2,
+      "total_views": 8750,
+      "best_views": 5934
+    },
+    {
+      "handle": "@CharaspowerAI",
+      "posts": 4,
+      "total_views": 5774,
+      "best_views": 1664
+    },
+    {
+      "handle": "@MayorKingAI",
+      "posts": 3,
+      "total_views": 4338,
+      "best_views": 2717
+    },
+    {
+      "handle": "@maxescu",
+      "posts": 2,
+      "total_views": 2656,
+      "best_views": 1366
+    },
+    {
+      "handle": "@Salmaaboukarr",
+      "posts": 2,
+      "total_views": 2360,
+      "best_views": 1240
     },
     {
       "handle": "@ai_artworkgen",
-      "posts": 3,
-      "total_views": 1613,
-      "best_views": 627
+      "posts": 2,
+      "total_views": 1958,
+      "best_views": 1328
     }
   ],
   "you_rank": null,
   "trend_input_only_posts": [],
   "drafts": [
     {
-      "draft_en": "AI is eating VFX 👀\n\nOne Seedance 2.5 prompt, zero compositing. Full shot, camera move, destruction and lighting in a single pass. Prompt below, steal it.",
+      "draft_en": "2D to 3D in one pass 👀\n\nI took a flat AI VFX frame and turned it into a full 3D camera move. Same lighting, same character, zero modeling.\n\nWorkflow below, steal it.",
       "draft_keywords": [
-        "Seedance",
         "AI VFX",
-        "free prompt",
-        "AI video"
+        "AI video",
+        "Seedance",
+        "free prompt"
       ],
-      "video_tip": "10-12s: open straight on the most violent VFX frame (building fold, portal, shockwave), no intro. One continuous camera move, then a hard cut to black with 'prompt below'. Full prompt in reply 1."
+      "video_tip": "8-10s: open on the flat 2D frame for 1s, then the camera pushes into it and orbits as it becomes 3D. No text overlay except 'flat → 3D' at the start. Workflow and prompt in reply 1."
     },
     {
-      "draft_en": "Prompt share: Paper Cut VFX 🎬\n\nPaper cut-out [creature] tearing through a [city or landscape], layered paper shapes, visible fibers, handmade stop-motion jitter, soft studio light, shallow depth of field. Swap the brackets and show me yours.",
+      "draft_en": "I tested AI video-to-3D on the hardest shot I have: smoke, glass and a fast camera.\n\nHere is where it holds up and where it breaks.",
+      "draft_keywords": [
+        "AI VFX",
+        "ComfyUI",
+        "AI filmmaking"
+      ],
+      "video_tip": "12-15s split screen: source VFX shot left, 3D reconstruction right, slow orbit. Freeze on the frame where it breaks and circle the artifact. Honest verdict in the caption keeps the replies coming."
+    },
+    {
+      "draft_en": "One face. Six materials. Zero cuts.\n\nGlass, chrome, wood, paper, smoke, stone, all in one AI transformation shot.\n\nFull prompt below 👇",
+      "draft_keywords": [
+        "AI video",
+        "Kling",
+        "prompt share",
+        "AI VFX"
+      ],
+      "video_tip": "10s continuous morph, one material every ~1.5s, locked camera so the transformation does the work. Open mid-transformation on glass, not on the plain face. Prompt in reply 1."
+    },
+    {
+      "draft_en": "Prompt share: cinematic AI VFX hero shot\n\nA cinematic full-body render of [character], [armor] forged from [material], volumetric backlight, slow dolly-in, 35mm, film grain.\n\nSwap the brackets and post yours 👇",
       "draft_keywords": [
         "prompt share",
         "free prompt",
+        "Midjourney",
+        "AI VFX"
+      ],
+      "video_tip": "Image carousel of 4 variations from the same template, then a 6s animated version of the best one as the last slide. Invite people to reply with their version, it ties into the Saturday Challenge."
+    },
+    {
+      "draft_en": "This shot would have taken a VFX team weeks on House of David.\n\nToday it took me one afternoon with AI.\n\nHere is the before and after.",
+      "draft_keywords": [
         "AI VFX",
-        "paper cut-out"
-      ],
-      "video_tip": "4-image grid of the same template with different subjects, then a 5s animated version of the best one in Kling or Seedance with stop-motion stutter. Template text pinned in reply 1."
-    },
-    {
-      "draft_en": "Saturday Challenge 🎬 Your favorite song, but it's a music video from a decade it never existed in. Mine: Smells Like Teen Spirit (1958), drive-in edition. Drop yours below, best one gets featured next week.",
-      "draft_keywords": [
-        "Saturday Challenge",
-        "faux-period music video",
-        "AI video",
-        "community"
-      ],
-      "video_tip": "12-15s in 4:3 with faded Technicolor, film scratches and a period title card, 3 beat-synced cuts. End card with the fake year. Rules in reply 1, ask for song suggestions."
-    },
-    {
-      "draft_en": "People say new models can now build full animations from code alone. So I tested the opposite: one sketch on paper, turned into a full VFX shot in under an hour. Your drawings deserve another dimension.",
-      "draft_keywords": [
-        "2D to 3D",
-        "AI VFX",
-        "AI animation",
-        "Fable 5.5"
-      ],
-      "video_tip": "10s: 2s on a pencil sketch on a real desk, a page-turn transition into the 3D version moving in a lit cinematic scene, end on a side-by-side. Ask which sketch to bring to life next."
-    },
-    {
-      "draft_en": "New model drop week: GPT-6 Astra, Gemini 4, a rumored Claude Fable 5.5. Everyone is benchmarking code. I only care about one test: can it hold a VFX shot together for 10 seconds? Results soon. Which one should I try first?",
-      "draft_keywords": [
-        "AI video",
         "AI filmmaking",
-        "AI VFX",
-        "new models"
+        "Firefly",
+        "AI video"
       ],
-      "video_tip": "Teaser 8s: three blurred versions of the same VFX shot labeled A, B, C, with a 'results Friday' end card. Poll in reply 1 to pick the first model to test."
+      "video_tip": "8s before/after wipe: raw plate, then the finished AI VFX shot, with a single slow wipe across the frame. No music hit until the reveal. Keep any production details you're allowed to share in reply 1."
     }
   ],
   "excluded_hits": []
