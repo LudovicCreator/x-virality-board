@@ -1,188 +1,83 @@
 {
-  "title": "Daily X narrative digest - 2026-11-05",
-  "date": "2026-11-05",
+  "title": "Daily X narrative digest - 2026-11-06",
+  "date": "2026-11-06",
   "timezone": "Europe/Paris",
-  "updated": "2026-11-06T09:17:47+01:00",
+  "updated": "2026-11-07T09:10:03+01:00",
   "brand_title": "LudovicCreator X Virality Score",
   "brand_handle": "@LudovicCreator",
   "hits": [
     {
-      "handle": "@EHuanglu",
-      "name": "EHuanglu",
-      "url": "https://x.com/EHuanglu/status/2118181550617710877",
-      "status_url": "https://x.com/EHuanglu/status/2118181550617710877",
-      "text": "its over once swarm of AI agents start doing everything for us https://t.co/JIPYp5HWPb https://t.co/Wiqh1shpf5",
-      "original_en": "its over once swarm of AI agents start doing everything for us https://t.co/JIPYp5HWPb https://t.co/Wiqh1shpf5",
-      "views": 759133,
-      "likes": 7969,
-      "reposts": 594,
-      "bookmarks": 5052,
-      "created_at": "2026-11-05T03:20:10.000Z",
+      "handle": "@azed_ai",
+      "name": "azed_ai",
+      "url": "https://x.com/azed_ai/status/2118615382101762484",
+      "status_url": "https://x.com/azed_ai/status/2118615382101762484",
+      "text": "2D to 3D magic, new character design https://t.co/8Q6DJ4rq5R",
+      "original_en": "2D to 3D magic, new character design https://t.co/8Q6DJ4rq5R",
+      "views": 45172,
+      "likes": 581,
+      "reposts": 20,
+      "bookmarks": 124,
+      "created_at": "2026-11-06T08:04:03.000Z",
       "highlight": true,
-      "self_quote": true
+      "self_quote": false
     },
     {
       "handle": "@minchoi",
       "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2118374993696575996",
-      "status_url": "https://x.com/minchoi/status/2118374993696575996",
-      "text": "You can't call this AI slop anymore.\n\nOne self-taught working mom made this 9-minute AI fantasy film.\n\nAn she won 4 awards at the New York International Film Awards, including Best AI Film and Best Screenplay.\n\nThis is what real AI filmmaking looks like 👇 https://t.co/JakUutEbff",
-      "original_en": "You can't call this AI slop anymore.\n\nOne self-taught working mom made this 9-minute AI fantasy film.\n\nAn she won 4 awards at the New York International Film Awards, including Best AI Film and Best Screenplay.\n\nThis is what real AI filmmaking looks like 👇 https://t.co/JakUutEbff",
-      "views": 90263,
-      "likes": 1471,
-      "reposts": 168,
-      "bookmarks": 916,
-      "created_at": "2026-11-05T16:08:50.000Z",
-      "highlight": true,
+      "url": "https://x.com/minchoi/status/2118742466077593604",
+      "status_url": "https://x.com/minchoi/status/2118742466077593604",
+      "text": "Anthropic just turned Claude into your personal finance assistant.\n\nConnect your bank + cards. Find hidden charges. See what's left before payday. Know where your money goes.\n\nRead-only. It can't move or invest a dime.\n\nBeta, US only https://t.co/Eiq2XxXKyW https://t.co/hUiOqr665L",
+      "original_en": "Anthropic just turned Claude into your personal finance assistant.\n\nConnect your bank + cards. Find hidden charges. See what's left before payday. Know where your money goes.\n\nRead-only. It can't move or invest a dime.\n\nBeta, US only https://t.co/Eiq2XxXKyW https://t.co/hUiOqr665L",
+      "views": 9722,
+      "likes": 68,
+      "reposts": 5,
+      "bookmarks": 16,
+      "created_at": "2026-11-06T16:29:02.000Z",
+      "highlight": false,
+      "self_quote": false
+    },
+    {
+      "handle": "@maxescu",
+      "name": "maxescu",
+      "url": "https://x.com/maxescu/status/2118735426810724634",
+      "status_url": "https://x.com/maxescu/status/2118735426810724634",
+      "text": "Hold up.\n\nDidn't ByteDance promise this when they launched Seedance 2.5?\n\nDid the Higgs guys outsmart them? https://t.co/lN0c07Gh2j",
+      "original_en": "Hold up.\n\nDidn't ByteDance promise this when they launched Seedance 2.5?\n\nDid the Higgs guys outsmart them? https://t.co/lN0c07Gh2j",
+      "views": 8583,
+      "likes": 52,
+      "reposts": 3,
+      "bookmarks": 48,
+      "created_at": "2026-11-06T16:01:04.000Z",
+      "highlight": false,
+      "self_quote": false
+    },
+    {
+      "handle": "@maxescu",
+      "name": "maxescu",
+      "url": "https://x.com/maxescu/status/2118750623961338109",
+      "status_url": "https://x.com/maxescu/status/2118750623961338109",
+      "text": "This is exceptional!\n\nYou have to read through it. The guys at Mirage are thinking outside the box. https://t.co/zfpPn0z0o8",
+      "original_en": "This is exceptional!\n\nYou have to read through it. The guys at Mirage are thinking outside the box. https://t.co/zfpPn0z0o8",
+      "views": 8328,
+      "likes": 90,
+      "reposts": 2,
+      "bookmarks": 86,
+      "created_at": "2026-11-06T17:01:27.000Z",
+      "highlight": false,
       "self_quote": false
     },
     {
       "handle": "@AIWarper",
       "name": "AIWarper",
-      "url": "https://x.com/AIWarper/status/2118423800429916381",
-      "status_url": "https://x.com/AIWarper/status/2118423800429916381",
-      "text": "Impressive..... very nice 🎸\n\nLeft = output\nRight = input https://t.co/cambk6HFjf",
-      "original_en": "Impressive..... very nice 🎸\n\nLeft = output\nRight = input https://t.co/cambk6HFjf",
-      "views": 31162,
-      "likes": 560,
-      "reposts": 34,
-      "bookmarks": 302,
-      "created_at": "2026-11-05T19:22:47.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2118192898785354185",
-      "status_url": "https://x.com/minchoi/status/2118192898785354185",
-      "text": "3D game development will never be the same.\n\nPeople are building FULL playable games with Claude Opus 5.5.\n\n3D tower defense. Drivable cities. Roblox sims. Multiplayer survival.\n\n10 wild examples ↓ https://t.co/A4kgg0tgzO",
-      "original_en": "3D game development will never be the same.\n\nPeople are building FULL playable games with Claude Opus 5.5.\n\n3D tower defense. Drivable cities. Roblox sims. Multiplayer survival.\n\n10 wild examples ↓ https://t.co/A4kgg0tgzO",
-      "views": 22930,
-      "likes": 201,
-      "reposts": 22,
-      "bookmarks": 115,
-      "created_at": "2026-11-05T04:05:15.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@EHuanglu",
-      "name": "EHuanglu",
-      "url": "https://x.com/EHuanglu/status/2118166856498638932",
-      "status_url": "https://x.com/EHuanglu/status/2118166856498638932",
-      "text": "holy sht.. gpt image 2.6 now can turn any online blur logo into 4k vector https://t.co/ugBnV4dX5l https://t.co/Fp1q6S7d6N",
-      "original_en": "holy sht.. gpt image 2.6 now can turn any online blur logo into 4k vector https://t.co/ugBnV4dX5l https://t.co/Fp1q6S7d6N",
-      "views": 13269,
-      "likes": 75,
-      "reposts": 9,
-      "bookmarks": 46,
-      "created_at": "2026-11-05T02:21:46.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2118123578382053726",
-      "status_url": "https://x.com/minchoi/status/2118123578382053726",
-      "text": "Claude Code background subagents now use less of your usage limit.\n\nEach one updates its status line every 30 seconds, and every update used to re-read its whole conversation.\n\nNow Haiku 5.5 writes it from short notes. About 99% cheaper per update.\n\nhttps://t.co/v0SB2CR6lS https://t.co/Y16ns1y2ft",
-      "original_en": "Claude Code background subagents now use less of your usage limit.\n\nEach one updates its status line every 30 seconds, and every update used to re-read its whole conversation.\n\nNow Haiku 5.5 writes it from short notes. About 99% cheaper per update.\n\nhttps://t.co/v0SB2CR6lS https://t.co/Y16ns1y2ft",
-      "views": 13184,
-      "likes": 102,
-      "reposts": 1,
-      "bookmarks": 39,
-      "created_at": "2026-11-04T23:29:48.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2118471354244800573",
-      "status_url": "https://x.com/minchoi/status/2118471354244800573",
-      "text": "Google just dropped Gemini Omni 1.2 Flash.\n\nAI video is getting insanely good.\n\nMore natural multi-speaker dialogue. Multi-turn motion transfer.\n\nBetter consistency. Precise control.\n\n9 wild demos:\n\n1. Multi-turn motion transfer https://t.co/9qNAs9vWde",
-      "original_en": "Google just dropped Gemini Omni 1.2 Flash.\n\nAI video is getting insanely good.\n\nMore natural multi-speaker dialogue. Multi-turn motion transfer.\n\nBetter consistency. Precise control.\n\n9 wild demos:\n\n1. Multi-turn motion transfer https://t.co/9qNAs9vWde",
-      "views": 13146,
-      "likes": 117,
-      "reposts": 9,
-      "bookmarks": 61,
-      "created_at": "2026-11-05T22:31:44.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2118156117083844700",
-      "status_url": "https://x.com/minchoi/status/2118156117083844700",
-      "text": "ChatGPT can make GIFs now.\n\nImages 2.6 turns any prompt or image into an animated GIF. Adjust the speed, edit individual frames.\n\nPlus reference images, and 2 new API models with 50% faster generation.\n\nLive today on all tiers.\n\nhttps://t.co/gWD0THVuyb",
-      "original_en": "ChatGPT can make GIFs now.\n\nImages 2.6 turns any prompt or image into an animated GIF. Adjust the speed, edit individual frames.\n\nPlus reference images, and 2 new API models with 50% faster generation.\n\nLive today on all tiers.\n\nhttps://t.co/gWD0THVuyb",
-      "views": 13079,
-      "likes": 98,
-      "reposts": 5,
-      "bookmarks": 36,
-      "created_at": "2026-11-05T01:39:06.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2118433821498515927",
-      "status_url": "https://x.com/minchoi/status/2118433821498515927",
-      "text": "AI film is winning awards in New York film festival now. https://t.co/d0apPkIHX6 https://t.co/O2kW7IjTOA",
-      "original_en": "AI film is winning awards in New York film festival now. https://t.co/d0apPkIHX6 https://t.co/O2kW7IjTOA",
-      "views": 12335,
-      "likes": 102,
-      "reposts": 12,
-      "bookmarks": 46,
-      "created_at": "2026-11-05T20:02:36.000Z",
-      "highlight": true,
-      "self_quote": true
-    },
-    {
-      "handle": "@EHuanglu",
-      "name": "EHuanglu",
-      "url": "https://x.com/EHuanglu/status/2118404467163107704",
-      "status_url": "https://x.com/EHuanglu/status/2118404467163107704",
-      "text": "wow.. the new deepseek v4.1 is crazy https://t.co/bKzOZhevXa",
-      "original_en": "wow.. the new deepseek v4.1 is crazy https://t.co/bKzOZhevXa",
-      "views": 11728,
-      "likes": 210,
-      "reposts": 10,
-      "bookmarks": 87,
-      "created_at": "2026-11-05T18:05:57.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@EHuanglu",
-      "name": "EHuanglu",
-      "url": "https://x.com/EHuanglu/status/2118197406953247049",
-      "status_url": "https://x.com/EHuanglu/status/2118197406953247049",
-      "text": "nobody:\n\nthe AI rivalry in 2026:\nmade with @ViggleAI's new Remake video agent https://t.co/3iL6qg8wZU https://t.co/nO1iUs2ODP",
-      "original_en": "nobody:\n\nthe AI rivalry in 2026:\nmade with @ViggleAI's new Remake video agent https://t.co/3iL6qg8wZU https://t.co/nO1iUs2ODP",
-      "views": 6147,
-      "likes": 28,
-      "reposts": 2,
-      "bookmarks": 10,
-      "created_at": "2026-11-05T04:23:10.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@azed_ai",
-      "name": "azed_ai",
-      "url": "https://x.com/azed_ai/status/2118252742166941929",
-      "status_url": "https://x.com/azed_ai/status/2118252742166941929",
-      "text": "New character design brought from 2D to 3D https://t.co/siG70zzknx",
-      "original_en": "New character design brought from 2D to 3D https://t.co/siG70zzknx",
-      "views": 5407,
-      "likes": 112,
-      "reposts": 6,
-      "bookmarks": 25,
-      "created_at": "2026-11-05T08:03:03.000Z",
+      "url": "https://x.com/AIWarper/status/2118488689458454721",
+      "status_url": "https://x.com/AIWarper/status/2118488689458454721",
+      "text": "I could cure cancer and the X algo would show it to 9 people",
+      "original_en": "I could cure cancer and the X algo would show it to 9 people",
+      "views": 7599,
+      "likes": 227,
+      "reposts": 4,
+      "bookmarks": 7,
+      "created_at": "2026-11-05T23:40:37.000Z",
       "highlight": false,
       "self_quote": false
     }
@@ -190,230 +85,191 @@
   "virals": [],
   "outsiders": [
     {
-      "handle": "@anvisha",
-      "name": "Anvisha",
-      "url": "https://x.com/anvisha/status/2118048598957109303",
-      "status_url": "https://x.com/anvisha/status/2118048598957109303",
-      "text": "We just made a 5x cheaper Higgsfield.\n\nVoyager gives you AI video models like Seedance 2.5 at half Higgsfield’s price.\n\nMore importantly, it cuts wasted generations.\n\nUsers get final outputs in 2–3x fewer API calls.\n\nHalf the price per generation. A fraction of the generations. https://t.co/e7ONFHDZe7",
-      "original_en": "We just made a 5x cheaper Higgsfield.\n\nVoyager gives you AI video models like Seedance 2.5 at half Higgsfield’s price.\n\nMore importantly, it cuts wasted generations.\n\nUsers get final outputs in 2–3x fewer API calls.\n\nHalf the price per generation. A fraction of the generations. https://t.co/e7ONFHDZe7",
-      "views": 1355680,
-      "likes": 1882,
-      "reposts": 139,
-      "bookmarks": 2003,
-      "created_at": "2026-11-04T18:31:52.000Z",
+      "handle": "@sirlifehacker",
+      "name": "Julian",
+      "url": "https://x.com/sirlifehacker/status/2118464693266530718",
+      "status_url": "https://x.com/sirlifehacker/status/2118464693266530718",
+      "text": "my new AI filmmaking experiment: skipping video models entirely and building the whole scene in 3D with @trymirage\n\nwhy run up your credits spamming seedance on higgsfield when you can just create a scene with tesseract that has editable geometry, models, textures, lighting lol https://t.co/ct3gahm7Fu",
+      "original_en": "my new AI filmmaking experiment: skipping video models entirely and building the whole scene in 3D with @trymirage\n\nwhy run up your credits spamming seedance on higgsfield when you can just create a scene with tesseract that has editable geometry, models, textures, lighting lol https://t.co/ct3gahm7Fu",
+      "views": 20928,
+      "likes": 375,
+      "reposts": 27,
+      "bookmarks": 465,
+      "created_at": "2026-11-05T22:05:16.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
-      "handle": "@TTrimoreau",
-      "name": "Thomas Trimoreau",
-      "url": "https://x.com/TTrimoreau/status/2118078329114997135",
-      "status_url": "https://x.com/TTrimoreau/status/2118078329114997135",
-      "text": "The most expensive part of AI video isn’t generating a clip.\n\nIt’s generating 15 bad ones before getting a good one.\n\n@startvoyager is tackling both sides of that problem.\n\n→ Seedance 2.5 at 50% less than Higgsfield\n→ 3x fewer API calls\n→ AI agent that plans shots in Blender https://t.co/rWmIQp0x9M https://t.co/f0xcMVst9H",
-      "original_en": "The most expensive part of AI video isn’t generating a clip.\n\nIt’s generating 15 bad ones before getting a good one.\n\n@startvoyager is tackling both sides of that problem.\n\n→ Seedance 2.5 at 50% less than Higgsfield\n→ 3x fewer API calls\n→ AI agent that plans shots in Blender https://t.co/rWmIQp0x9M https://t.co/f0xcMVst9H",
-      "views": 86861,
-      "likes": 28,
-      "reposts": 1,
-      "bookmarks": 9,
-      "created_at": "2026-11-04T20:30:00.000Z",
+      "handle": "@Adina_CoderX",
+      "name": "Adina",
+      "url": "https://x.com/Adina_CoderX/status/2118433943112540589",
+      "status_url": "https://x.com/Adina_CoderX/status/2118433943112540589",
+      "text": "What if you could create a Hollywood-style racing film without a film crew, expensive cameras, or a production studio? 🏎️🔥\n\nHigh-speed supercars, intense racing sequences, cinematic camera movements, and breathtaking visuals — all brought to life with AI!\n\nHere's how I created https://t.co/9tapXP5vqA",
+      "original_en": "What if you could create a Hollywood-style racing film without a film crew, expensive cameras, or a production studio? 🏎️🔥\n\nHigh-speed supercars, intense racing sequences, cinematic camera movements, and breathtaking visuals — all brought to life with AI!\n\nHere's how I created https://t.co/9tapXP5vqA",
+      "views": 108156,
+      "likes": 42,
+      "reposts": 26,
+      "bookmarks": 26,
+      "created_at": "2026-11-05T20:03:05.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
-      "handle": "@HowThingsWork_",
-      "name": "HOW THINGS WORK",
-      "url": "https://x.com/HowThingsWork_/status/2118056204392124643",
-      "status_url": "https://x.com/HowThingsWork_/status/2118056204392124643",
-      "text": "The expensive part of AI video isn’t always generating the clip.\n\nIt’s generating it 20 times before getting something you actually want. 😂\n\n@startvoyager is tackling both problems.\n\nSeedance 2.5 costs 50% less than Higgsfield, while its desktop AI agent plans shots in Blender https://t.co/RSkVhRg3pW",
-      "original_en": "The expensive part of AI video isn’t always generating the clip.\n\nIt’s generating it 20 times before getting something you actually want. 😂\n\n@startvoyager is tackling both problems.\n\nSeedance 2.5 costs 50% less than Higgsfield, while its desktop AI agent plans shots in Blender https://t.co/RSkVhRg3pW",
-      "views": 36005,
-      "likes": 26,
-      "reposts": 3,
-      "bookmarks": 8,
-      "created_at": "2026-11-04T19:02:05.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@painn_x",
-      "name": "painn",
-      "url": "https://x.com/painn_x/status/2118062600428961846",
-      "status_url": "https://x.com/painn_x/status/2118062600428961846",
-      "text": "\"cheaper\" in ai video usually means worse output...\n\nnot here\n\nit's the same seedance 2.5, at 50% less than higgsfield\n\nand if you find a better price, you plug in your own api keys\n\n@startvoyager routes each model to the cheapest way to run it https://t.co/KFlujHhoHW https://t.co/O2g9RQZR1V",
-      "original_en": "\"cheaper\" in ai video usually means worse output...\n\nnot here\n\nit's the same seedance 2.5, at 50% less than higgsfield\n\nand if you find a better price, you plug in your own api keys\n\n@startvoyager routes each model to the cheapest way to run it https://t.co/KFlujHhoHW https://t.co/O2g9RQZR1V",
-      "views": 7572,
-      "likes": 34,
-      "reposts": 1,
-      "bookmarks": 10,
-      "created_at": "2026-11-04T19:27:30.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@MAXdeg0",
-      "name": "MAX",
-      "url": "https://x.com/MAXdeg0/status/2118062108000825487",
-      "status_url": "https://x.com/MAXdeg0/status/2118062108000825487",
-      "text": "ai video production just got more cost efficient.\n\nvoyager is now around 5x cheaper than higgsfield for seedance 2.5, with lower generation costs and fewer retries.\n\nhere’s what makes it interesting:\n\n→ around half the price per generation\n\n→ 3x fewer api calls to reach usable https://t.co/HRDHgONw5G https://t.co/CdPSLAWzjb",
-      "original_en": "ai video production just got more cost efficient.\n\nvoyager is now around 5x cheaper than higgsfield for seedance 2.5, with lower generation costs and fewer retries.\n\nhere’s what makes it interesting:\n\n→ around half the price per generation\n\n→ 3x fewer api calls to reach usable https://t.co/HRDHgONw5G https://t.co/CdPSLAWzjb",
-      "views": 5765,
-      "likes": 45,
-      "reposts": 3,
-      "bookmarks": 28,
-      "created_at": "2026-11-04T19:25:32.000Z",
+      "handle": "@Arina_hoqe",
+      "name": "Arina Ai",
+      "url": "https://x.com/Arina_hoqe/status/2118651954121556163",
+      "status_url": "https://x.com/Arina_hoqe/status/2118651954121556163",
+      "text": "The realism is INSANE! 🤯🔥\n\n The smooth movements, cinematic details, and lifelike visuals make this AI video feel almost real. Seedance 2.5 is taking AI filmmaking to another level! 🚀 https://t.co/q0K7UT8GZX",
+      "original_en": "The realism is INSANE! 🤯🔥\n\n The smooth movements, cinematic details, and lifelike visuals make this AI video feel almost real. Seedance 2.5 is taking AI filmmaking to another level! 🚀 https://t.co/q0K7UT8GZX",
+      "views": 3681,
+      "likes": 114,
+      "reposts": 13,
+      "bookmarks": 23,
+      "created_at": "2026-11-06T10:29:23.000Z",
       "highlight": false,
       "self_quote": false
     }
   ],
   "patterns": [
-    "AI agents still dominate reach: EHuanglu's self-quote 'its over once swarm of AI agents start doing everything for us' blasted to 759K views / 5K bookmarks / 8K likes, quoting his own one-person-company clip from Wednesday. Agents > tools for raw distribution.",
-    "AI filmmaking got legitimized overnight: minchoi's 'You can't call this AI slop anymore' on a self-taught mom's 9-min fantasy film that won 4 NYIFF awards (90K views, 916 bookmarks, 168 reposts) plus his self-quote follow-up (12.3K). Proof + awards = save-worthy.",
-    "Before/after reveals crush creative lanes: AIWarper's 'Impressive..... very nice 🎸 Left = output / Right = input' hit 31K views and 302 bookmarks with almost no caption — pure visual contrast.",
-    "Model drop aggregation still prints: minchoi's Gemini Omni 1.2 Flash demos (13.1K), ChatGPT Images 2.6 GIFs (13.1K), and EHuanglu's DeepSeek v4.1 (11.7K) / GPT Image 2.6 vector (13.3K) all cleared ★ with short listicle hooks.",
-    "Seedance 2.5 stayed in the creative lane but under the 5K floor on the watchlist: techhalla's kung fu Seedance prompt (4.5K, 47 bookmarks) and azed_ai's cupcake disaster Seedance 2.5 (2.4K) show the method is there — bookmark ratio still strong even when views are mid.",
-    "Cost-of-AI-video narrative blew up outside the watchlist: anvisha's Voyager '5x cheaper Higgsfield' (1.35M) and the Seedance-at-half-price quote chain dominated outsider traffic."
+    "3D-first beats prompt-spam: azed_ai's '2D to 3D magic, new character design' was the day's only ★ (45.2K views, 581 likes, 124 bookmarks). Turning a flat character into a 3D turnaround is a visual that reads instantly in the feed.",
+    "Mirage / editable 3D scenes are the new talking point: maxescu quoted Mirage's 3D scene-building ('thinking outside the box', 8.3K views, 86 bookmarks) and outsider sirlifehacker's 'skip video models, build the scene in 3D with @trymirage' pulled 20.9K views and 465 bookmarks, a very high save rate.",
+    "Seedance 2.5 vs Higgsfield rivalry keeps generating takes: maxescu's 'Didn't ByteDance promise this when they launched Seedance 2.5? Did the Higgs guys outsmart them?' hit 8.6K views. Model-war framing questions drive replies.",
+    "Off-niche and meta posts still clear the floor: minchoi's Claude finance-assistant quote (9.7K) and AIWarper's algo rant 'I could cure cancer and the X algo would show it to 9 people' (7.6K views, 227 likes) show that relatable frustration lines out-engage pure showcases.",
+    "Quiet Friday overall: only 5 watchlist originals cleared 5K and just 1 cleared 10K; EHuanglu, CoffeeVectors and Salmaaboukarr had no originals in the window."
   ],
   "no_hits": [
     {
       "handle": "@techhalla",
-      "reason": "No original on 2026-11-05 reached 5,000 views; highest observed was 4,470 views.",
-      "max_views": 4470
-    },
-    {
-      "handle": "@maxescu",
-      "reason": "No original on 2026-11-05 reached 5,000 views; highest observed was 815 views.",
-      "max_views": 815
+      "reason": "No original on 2026-11-06 reached 5,000 views; highest observed was 4,684 views.",
+      "max_views": 4684
     },
     {
       "handle": "@CharaspowerAI",
-      "reason": "No original on 2026-11-05 reached 5,000 views; highest observed was 1,584 views.",
-      "max_views": 1584
+      "reason": "No original on 2026-11-06 reached 5,000 views; highest observed was 1,633 views.",
+      "max_views": 1633
     },
     {
       "handle": "@MayorKingAI",
-      "reason": "No original on 2026-11-05 reached 5,000 views; highest observed was 2,381 views.",
-      "max_views": 2381
+      "reason": "No original on 2026-11-06 reached 5,000 views; highest observed was 1,397 views.",
+      "max_views": 1397
+    },
+    {
+      "handle": "@EHuanglu",
+      "reason": "No original posts (excluding replies and reposts) found on 2026-11-06.",
+      "max_views": 0
     },
     {
       "handle": "@CoffeeVectors",
-      "reason": "No original posts found on 2026-11-05.",
+      "reason": "No original posts (excluding replies and reposts) found on 2026-11-06.",
       "max_views": 0
     },
     {
       "handle": "@Salmaaboukarr",
-      "reason": "No original posts found on 2026-11-05.",
+      "reason": "No original posts (excluding replies and reposts) found on 2026-11-06.",
       "max_views": 0
     },
     {
       "handle": "@ai_artworkgen",
-      "reason": "No original on 2026-11-05 reached 5,000 views; highest observed was 4,876 views.",
-      "max_views": 4876
+      "reason": "No original on 2026-11-06 reached 5,000 views; highest observed was 413 views.",
+      "max_views": 413
     }
   ],
-  "virals_narrative": "Thursday was an agents-and-awards day: 12 watchlist originals cleared 5K, 10 of them over 10K. EHuanglu's self-quote on AI agent swarms led by a mile (759K views, 5K bookmarks), minchoi's NYIFF Best AI Film story took 90K, and AIWarper's before/after guitar transform hit 31K. Model drops (Gemini Omni, GPT Image 2.6, DeepSeek v4.1) filled the mid-★ lane while Seedance 2.5 stayed creative but under the floor on the watchlist.",
-  "narrative_synthesis": "Thursday was an agents-and-awards day: 12 watchlist originals cleared 5K, 10 of them over 10K. EHuanglu's self-quote on AI agent swarms led by a mile (759K views, 5K bookmarks), minchoi's NYIFF Best AI Film story took 90K, and AIWarper's before/after guitar transform hit 31K. Model drops (Gemini Omni, GPT Image 2.6, DeepSeek v4.1) filled the mid-★ lane while Seedance 2.5 stayed creative but under the floor on the watchlist.",
+  "virals_narrative": "Friday was a quiet day: 5 watchlist originals cleared 5K and only 1 cleared 10K. azed_ai's 2D-to-3D character design led with 45.2K views, maxescu fuelled the Seedance 2.5 vs Higgsfield debate and the Mirage 3D-scene buzz (8.6K and 8.3K), and outsider sirlifehacker's 'build the scene in 3D instead of spamming video gens' hit 20.9K views with 465 bookmarks. The meta is shifting toward 3D-first workflows.",
+  "narrative_synthesis": "Friday was a quiet day: 5 watchlist originals cleared 5K and only 1 cleared 10K. azed_ai's 2D-to-3D character design led with 45.2K views, maxescu fuelled the Seedance 2.5 vs Higgsfield debate and the Mirage 3D-scene buzz (8.6K and 8.3K), and outsider sirlifehacker's 'build the scene in 3D instead of spamming video gens' hit 20.9K views with 465 bookmarks. The meta is shifting toward 3D-first workflows.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 12,
-  "outsiders_count": 5,
-  "previous_day": "2026-11-04",
+  "hits_count": 5,
+  "outsiders_count": 3,
+  "previous_day": "2026-11-05",
   "leaderboards": {
-    "as_of": "2026-11-05",
+    "as_of": "2026-11-06",
     "tracking_start": "2026-09-13",
     "days_included": [
-      "2026-10-30",
       "2026-10-31",
       "2026-11-01",
       "2026-11-02",
       "2026-11-03",
       "2026-11-04",
-      "2026-11-05"
+      "2026-11-05",
+      "2026-11-06"
     ],
     "month_days_included": [
       "2026-11-01",
       "2026-11-02",
       "2026-11-03",
       "2026-11-04",
-      "2026-11-05"
+      "2026-11-05",
+      "2026-11-06"
     ],
     "week": {
-      "label": "Rolling week · Oct 30–Nov 5",
+      "label": "Rolling week · Oct 31–Nov 6",
       "range": [
-        "2026-10-30",
-        "2026-11-05"
+        "2026-10-31",
+        "2026-11-06"
       ],
       "entries": [
         {
           "handle": "@minchoi",
           "name": "minchoi",
-          "hits": 22,
+          "hits": 19,
           "days": 7,
-          "views": 1976051,
+          "views": 1917967,
           "best": 1520323,
           "best_url": "https://x.com/minchoi/status/2117633564736938471"
         },
         {
           "handle": "@EHuanglu",
           "name": "EHuanglu",
-          "hits": 13,
-          "days": 7,
-          "views": 1507512,
+          "hits": 12,
+          "days": 6,
+          "views": 1499632,
           "best": 759133,
           "best_url": "https://x.com/EHuanglu/status/2118181550617710877"
         },
         {
           "handle": "@azed_ai",
           "name": "azed_ai",
-          "hits": 14,
+          "hits": 13,
           "days": 6,
-          "views": 159483,
-          "best": 45067,
-          "best_url": "https://x.com/azed_ai/status/2117595974285533435"
+          "views": 186118,
+          "best": 45172,
+          "best_url": "https://x.com/azed_ai/status/2118615382101762484"
         },
         {
           "handle": "@techhalla",
           "name": "techhalla",
-          "hits": 9,
-          "days": 6,
-          "views": 154740,
-          "best": 42137,
-          "best_url": "https://x.com/techhalla/status/2116173675992961400"
+          "hits": 8,
+          "days": 5,
+          "views": 112603,
+          "best": 40827,
+          "best_url": "https://x.com/techhalla/status/2116319170681798952"
         },
         {
           "handle": "@CharaspowerAI",
           "name": "CharaspowerAI",
-          "hits": 2,
-          "days": 2,
-          "views": 116145,
+          "hits": 1,
+          "days": 1,
+          "views": 98040,
           "best": 98040,
           "best_url": "https://x.com/CharaspowerAI/status/2118055783908925927"
         },
         {
           "handle": "@AIWarper",
           "name": "AIWarper",
-          "hits": 4,
-          "days": 3,
-          "views": 70074,
+          "hits": 5,
+          "days": 4,
+          "views": 77673,
           "best": 31162,
           "best_url": "https://x.com/AIWarper/status/2118423800429916381"
         },
         {
-          "handle": "@MayorKingAI",
-          "name": "MayorKingAI",
-          "hits": 1,
+          "handle": "@maxescu",
+          "name": "maxescu",
+          "hits": 2,
           "days": 1,
-          "views": 6548,
-          "best": 6548,
-          "best_url": "https://x.com/MayorKingAI/status/2116203953129992244"
-        },
-        {
-          "handle": "@ai_artworkgen",
-          "name": "ai_artworkgen",
-          "hits": 1,
-          "days": 1,
-          "views": 5098,
-          "best": 5098,
-          "best_url": "https://x.com/ai_artworkgen/status/2116217421077848340"
+          "views": 16911,
+          "best": 8583,
+          "best_url": "https://x.com/maxescu/status/2118735426810724634"
         }
       ]
     },
@@ -421,15 +277,15 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-05"
+        "2026-11-06"
       ],
       "entries": [
         {
           "handle": "@minchoi",
           "name": "minchoi",
-          "hits": 15,
-          "days": 5,
-          "views": 1872948,
+          "hits": 16,
+          "days": 6,
+          "views": 1882670,
           "best": 1520323,
           "best_url": "https://x.com/minchoi/status/2117633564736938471"
         },
@@ -445,11 +301,11 @@
         {
           "handle": "@azed_ai",
           "name": "azed_ai",
-          "hits": 12,
-          "days": 5,
-          "views": 140946,
-          "best": 45067,
-          "best_url": "https://x.com/azed_ai/status/2117595974285533435"
+          "hits": 13,
+          "days": 6,
+          "views": 186118,
+          "best": 45172,
+          "best_url": "https://x.com/azed_ai/status/2118615382101762484"
         },
         {
           "handle": "@CharaspowerAI",
@@ -463,9 +319,9 @@
         {
           "handle": "@AIWarper",
           "name": "AIWarper",
-          "hits": 4,
-          "days": 3,
-          "views": 70074,
+          "hits": 5,
+          "days": 4,
+          "views": 77673,
           "best": 31162,
           "best_url": "https://x.com/AIWarper/status/2118423800429916381"
         },
@@ -477,6 +333,15 @@
           "views": 62525,
           "best": 22135,
           "best_url": "https://x.com/techhalla/status/2116996433047880080"
+        },
+        {
+          "handle": "@maxescu",
+          "name": "maxescu",
+          "hits": 2,
+          "days": 1,
+          "views": 16911,
+          "best": 8583,
+          "best_url": "https://x.com/maxescu/status/2118735426810724634"
         }
       ]
     }
@@ -513,112 +378,106 @@
   },
   "day_roster": [
     {
-      "handle": "@EHuanglu",
-      "posts": 4,
-      "total_views": 790277,
-      "best_views": 759133
+      "handle": "@azed_ai",
+      "posts": 6,
+      "total_views": 59308,
+      "best_views": 45172
+    },
+    {
+      "handle": "@maxescu",
+      "posts": 2,
+      "total_views": 16911,
+      "best_views": 8583
     },
     {
       "handle": "@minchoi",
-      "posts": 6,
-      "total_views": 164937,
-      "best_views": 90263
+      "posts": 1,
+      "total_views": 9722,
+      "best_views": 9722
     },
     {
       "handle": "@AIWarper",
       "posts": 1,
-      "total_views": 31162,
-      "best_views": 31162
-    },
-    {
-      "handle": "@azed_ai",
-      "posts": 5,
-      "total_views": 14453,
-      "best_views": 5407
-    },
-    {
-      "handle": "@ai_artworkgen",
-      "posts": 4,
-      "total_views": 9855,
-      "best_views": 4876
-    },
-    {
-      "handle": "@techhalla",
-      "posts": 2,
-      "total_views": 7981,
-      "best_views": 4470
+      "total_views": 7599,
+      "best_views": 7599
     },
     {
       "handle": "@CharaspowerAI",
       "posts": 4,
-      "total_views": 5498,
-      "best_views": 1584
+      "total_views": 5455,
+      "best_views": 1633
+    },
+    {
+      "handle": "@techhalla",
+      "posts": 1,
+      "total_views": 4684,
+      "best_views": 4684
     },
     {
       "handle": "@MayorKingAI",
-      "posts": 2,
-      "total_views": 3825,
-      "best_views": 2381
+      "posts": 1,
+      "total_views": 1397,
+      "best_views": 1397
     },
     {
-      "handle": "@maxescu",
+      "handle": "@ai_artworkgen",
       "posts": 1,
-      "total_views": 815,
-      "best_views": 815
+      "total_views": 413,
+      "best_views": 413
     }
   ],
   "you_rank": null,
   "trend_input_only_posts": [],
   "drafts": [
     {
-      "draft_en": "You can't call this AI VFX slop anymore.\n\nI cut a 90-second fantasy plate on Firefly + Seedance — same discipline as a real VFX vendor: locked camera, consistent character, graded refs.\n\nThis is what AI filmmaking looks like when you treat it like a shot, not a toy 👇",
+      "draft_en": "2D to 3D, one character, zero modeling.\n\nI took a flat concept sketch, generated a full turnaround, then dropped it into a moving shot with real camera parallax.\n\nThis is the step that turns AI art into AI VFX 👇",
       "draft_keywords": [
         "AI VFX",
-        "AI filmmaking",
-        "Seedance",
+        "2D to 3D",
+        "character design",
         "Firefly"
       ],
-      "video_tip": "12-15s: open on a locked medium shot of the character, cut to a 2s before/after (raw gen → graded plate), then a 6s hero move with the camera slowly pushing in. End on the title card. No music ducking — keep one continuous score."
+      "video_tip": "10-12s: 2s on the flat 2D sketch, hard cut to a 3s 360° turnaround, then a 5s shot of the character inside a scene with a slow orbit camera. Split-screen 'sketch | final' on the last frame."
     },
     {
-      "draft_en": "Left = AI output.\nRight = what I fed it.\n\nOne reference plate, one Seedance 2.5 pass, zero visible cuts.\n\nSteal the framing below 🎸",
+      "draft_en": "Stop spamming credits on 40 video gens to get one usable shot.\n\nBlock the scene in 3D first: camera path, lens, lighting. Then let the video model paint over it.\n\nSame shot, 3 gens instead of 40. VFX people have worked this way forever.",
       "draft_keywords": [
+        "AI filmmaking",
         "Seedance",
-        "AI video",
-        "prompt share",
+        "3D scene",
         "AI VFX"
       ],
-      "video_tip": "8s split screen, left output / right input, hard cut at 4s to full-screen output only. Keep both sides the same framing and lens so the transform is the only change."
+      "video_tip": "15s: left half shows the grey 3D blockout with the camera move, right half shows the final render in sync. End with a counter graphic '40 gens → 3 gens'."
     },
     {
-      "draft_en": "I run AI VFX like a one-person vendor.\n\nOne agent breaks the brief. One generates the plates. One cleans the edges.\n\nHere's a single House-of-David-style shot from slate to final 👇",
-      "draft_keywords": [
-        "AI VFX",
-        "AI agents",
-        "AI filmmaking",
-        "AI video"
-      ],
-      "video_tip": "10-12s vertical: left column ticks agent tasks (brief / plates / cleanup), right column builds the biblical-epic plate layer by layer. Freeze on the final frame for 1.5s with a single caption."
-    },
-    {
-      "draft_en": "Gemini Omni dropped multi-turn motion transfer.\n\nI tested it on a VFX handoff: take 1 actor performance → transfer to 3 costume variants without re-animating.\n\nConsistency held. Workflow below.",
-      "draft_keywords": [
-        "AI video",
-        "AI VFX",
-        "AI filmmaking",
-        "Veo"
-      ],
-      "video_tip": "10s grid: same motion, three costume variants side by side, then wipe to a close-up of the hands/face where consistency usually breaks. Label each variant with a 1-word tag."
-    },
-    {
-      "draft_en": "Prompt share — kung fu rooftop, Seedance 2.5 🥋\n\nGritty parking deck at dusk, Manhattan haze, sodium lamps, cracked concrete.\n\nFull camera + atmosphere block free below. Remix it.",
+      "draft_en": "Seedance 2.5 or Higgsfield for VFX shots?\n\nI ran the same destruction plate through both. Same prompt, same seed image, same camera move.\n\nOne held the debris physics. One didn't. Guess which 👇",
       "draft_keywords": [
         "Seedance",
-        "free prompt",
-        "prompt share",
+        "Higgsfield",
+        "AI VFX",
         "AI video"
       ],
-      "video_tip": "6-8s: start locked wide on the rooftop, snap to a handheld close on the kick, then a slow orbit around the frozen pose. Drop the full prompt in the first reply, not the caption."
+      "video_tip": "12s: A/B split of the same destruction shot, labels hidden for the first 8s, reveal model names at the end to drive guesses in replies."
+    },
+    {
+      "draft_en": "Glass is the hardest material for AI video.\n\nRefraction, caustics, prismatic edges. Most models melt it.\n\nHere's the prompt structure I use to keep glass sharp across a full camera move (free prompt below) 👇",
+      "draft_keywords": [
+        "AI VFX",
+        "free prompt",
+        "Kling",
+        "Seedance"
+      ],
+      "video_tip": "8-10s macro push-in on a glass object shattering in slow motion, light passing through it. Keep the background dark so the refraction pops on mobile."
+    },
+    {
+      "draft_en": "Saturday Challenge: take one 2D character and bring it to life in 3D.\n\nSketch to turnaround to a 5-second shot. Any tool.\n\nPost yours below. I'll repost my favorites tomorrow 🎬",
+      "draft_keywords": [
+        "Saturday Challenge",
+        "2D to 3D",
+        "AI VFX",
+        "AI filmmaking"
+      ],
+      "video_tip": "10s example: your own sketch morphing into a 3D turnaround, then a short animated beat. Overlay the challenge rules as 3 short text cards."
     }
   ],
   "excluded_hits": []
