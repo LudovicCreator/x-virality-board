@@ -1,83 +1,68 @@
 {
-  "title": "Daily X narrative digest - 2026-11-06",
-  "date": "2026-11-06",
+  "title": "Daily X narrative digest - 2026-11-07",
+  "date": "2026-11-07",
   "timezone": "Europe/Paris",
-  "updated": "2026-11-07T09:10:03+01:00",
+  "updated": "2026-11-08T09:08:33+01:00",
   "brand_title": "LudovicCreator X Virality Score",
   "brand_handle": "@LudovicCreator",
   "hits": [
     {
-      "handle": "@azed_ai",
-      "name": "azed_ai",
-      "url": "https://x.com/azed_ai/status/2118615382101762484",
-      "status_url": "https://x.com/azed_ai/status/2118615382101762484",
-      "text": "2D to 3D magic, new character design https://t.co/8Q6DJ4rq5R",
-      "original_en": "2D to 3D magic, new character design https://t.co/8Q6DJ4rq5R",
-      "views": 45172,
-      "likes": 581,
-      "reposts": 20,
-      "bookmarks": 124,
-      "created_at": "2026-11-06T08:04:03.000Z",
+      "handle": "@EHuanglu",
+      "name": "el.cine",
+      "url": "https://x.com/EHuanglu/status/2119090260894515273",
+      "status_url": "https://x.com/EHuanglu/status/2119090260894515273",
+      "text": "AI can make 3D animation for Disney now https://t.co/cM4ctSMhC8",
+      "original_en": "AI can make 3D animation for Disney now https://t.co/cM4ctSMhC8",
+      "views": 1374003,
+      "likes": 10033,
+      "reposts": 740,
+      "bookmarks": 2749,
+      "created_at": "2026-11-07T15:31:03.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
       "handle": "@minchoi",
-      "name": "minchoi",
-      "url": "https://x.com/minchoi/status/2118742466077593604",
-      "status_url": "https://x.com/minchoi/status/2118742466077593604",
-      "text": "Anthropic just turned Claude into your personal finance assistant.\n\nConnect your bank + cards. Find hidden charges. See what's left before payday. Know where your money goes.\n\nRead-only. It can't move or invest a dime.\n\nBeta, US only https://t.co/Eiq2XxXKyW https://t.co/hUiOqr665L",
-      "original_en": "Anthropic just turned Claude into your personal finance assistant.\n\nConnect your bank + cards. Find hidden charges. See what's left before payday. Know where your money goes.\n\nRead-only. It can't move or invest a dime.\n\nBeta, US only https://t.co/Eiq2XxXKyW https://t.co/hUiOqr665L",
-      "views": 9722,
-      "likes": 68,
-      "reposts": 5,
-      "bookmarks": 16,
-      "created_at": "2026-11-06T16:29:02.000Z",
-      "highlight": false,
+      "name": "Min Choi",
+      "url": "https://x.com/minchoi/status/2119145638319550828",
+      "status_url": "https://x.com/minchoi/status/2119145638319550828",
+      "text": "This guy literally built Cursor for research papers.\n\nLattice combines Claude Code/Codex, Overleaf, PDFs, citations, notes + slides in ONE app.\n\nFREE + open source.\n\n6 wild features. Bookmark this ↓ https://t.co/chjU52fZGM",
+      "original_en": "This guy literally built Cursor for research papers.\n\nLattice combines Claude Code/Codex, Overleaf, PDFs, citations, notes + slides in ONE app.\n\nFREE + open source.\n\n6 wild features. Bookmark this ↓ https://t.co/chjU52fZGM",
+      "views": 13185,
+      "likes": 83,
+      "reposts": 8,
+      "bookmarks": 66,
+      "created_at": "2026-11-07T19:11:06.000Z",
+      "highlight": true,
       "self_quote": false
     },
     {
-      "handle": "@maxescu",
-      "name": "maxescu",
-      "url": "https://x.com/maxescu/status/2118735426810724634",
-      "status_url": "https://x.com/maxescu/status/2118735426810724634",
-      "text": "Hold up.\n\nDidn't ByteDance promise this when they launched Seedance 2.5?\n\nDid the Higgs guys outsmart them? https://t.co/lN0c07Gh2j",
-      "original_en": "Hold up.\n\nDidn't ByteDance promise this when they launched Seedance 2.5?\n\nDid the Higgs guys outsmart them? https://t.co/lN0c07Gh2j",
-      "views": 8583,
-      "likes": 52,
-      "reposts": 3,
-      "bookmarks": 48,
-      "created_at": "2026-11-06T16:01:04.000Z",
-      "highlight": false,
+      "handle": "@minchoi",
+      "name": "Min Choi",
+      "url": "https://x.com/minchoi/status/2119082714540429458",
+      "status_url": "https://x.com/minchoi/status/2119082714540429458",
+      "text": "AI isn't just generating videos anymore.\n\nWorld Labs' Frameboy lets you explore AI-generated worlds in real time.\n\nSteer the camera, and the model generates what you see next.\n\nYou can control where you go. https://t.co/PragjX5wzL https://t.co/lRBe0f2tTZ",
+      "original_en": "AI isn't just generating videos anymore.\n\nWorld Labs' Frameboy lets you explore AI-generated worlds in real time.\n\nSteer the camera, and the model generates what you see next.\n\nYou can control where you go. https://t.co/PragjX5wzL https://t.co/lRBe0f2tTZ",
+      "views": 11112,
+      "likes": 67,
+      "reposts": 6,
+      "bookmarks": 23,
+      "created_at": "2026-11-07T15:01:04.000Z",
+      "highlight": true,
       "self_quote": false
     },
     {
-      "handle": "@maxescu",
-      "name": "maxescu",
-      "url": "https://x.com/maxescu/status/2118750623961338109",
-      "status_url": "https://x.com/maxescu/status/2118750623961338109",
-      "text": "This is exceptional!\n\nYou have to read through it. The guys at Mirage are thinking outside the box. https://t.co/zfpPn0z0o8",
-      "original_en": "This is exceptional!\n\nYou have to read through it. The guys at Mirage are thinking outside the box. https://t.co/zfpPn0z0o8",
-      "views": 8328,
-      "likes": 90,
-      "reposts": 2,
-      "bookmarks": 86,
-      "created_at": "2026-11-06T17:01:27.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@AIWarper",
-      "name": "AIWarper",
-      "url": "https://x.com/AIWarper/status/2118488689458454721",
-      "status_url": "https://x.com/AIWarper/status/2118488689458454721",
-      "text": "I could cure cancer and the X algo would show it to 9 people",
-      "original_en": "I could cure cancer and the X algo would show it to 9 people",
-      "views": 7599,
-      "likes": 227,
-      "reposts": 4,
-      "bookmarks": 7,
-      "created_at": "2026-11-05T23:40:37.000Z",
+      "handle": "@techhalla",
+      "name": "TechHalla",
+      "url": "https://x.com/techhalla/status/2119112088350044636",
+      "status_url": "https://x.com/techhalla/status/2119112088350044636",
+      "text": "They Already Saw It\n\nMade using Midjourney, H3, Suno and Claude. If anyone wants any of the prompts I've used, just ask! https://t.co/ynXuE4f0Ec",
+      "original_en": "They Already Saw It\n\nMade using Midjourney, H3, Suno and Claude. If anyone wants any of the prompts I've used, just ask! https://t.co/ynXuE4f0Ec",
+      "views": 6304,
+      "likes": 128,
+      "reposts": 10,
+      "bookmarks": 28,
+      "created_at": "2026-11-07T16:57:47.000Z",
       "highlight": false,
       "self_quote": false
     }
@@ -85,33 +70,63 @@
   "virals": [],
   "outsiders": [
     {
-      "handle": "@sirlifehacker",
-      "name": "Julian",
-      "url": "https://x.com/sirlifehacker/status/2118464693266530718",
-      "status_url": "https://x.com/sirlifehacker/status/2118464693266530718",
-      "text": "my new AI filmmaking experiment: skipping video models entirely and building the whole scene in 3D with @trymirage\n\nwhy run up your credits spamming seedance on higgsfield when you can just create a scene with tesseract that has editable geometry, models, textures, lighting lol https://t.co/ct3gahm7Fu",
-      "original_en": "my new AI filmmaking experiment: skipping video models entirely and building the whole scene in 3D with @trymirage\n\nwhy run up your credits spamming seedance on higgsfield when you can just create a scene with tesseract that has editable geometry, models, textures, lighting lol https://t.co/ct3gahm7Fu",
-      "views": 20928,
-      "likes": 375,
-      "reposts": 27,
-      "bookmarks": 465,
-      "created_at": "2026-11-05T22:05:16.000Z",
+      "handle": "@EvanCole_Tech",
+      "name": "Evan Cole",
+      "url": "https://x.com/EvanCole_Tech/status/2118800477978824903",
+      "status_url": "https://x.com/EvanCole_Tech/status/2118800477978824903",
+      "text": "Ready to experience the thrill of next-generation AI filmmaking? 🏎️💨\n\nFrom roaring engines and high-speed supercar battles to breathtaking drifts and intense cinematic chase sequences, this entire racing experience was created with AI!\n\nKling 4.0 on PixVerse makes it possible to https://t.co/B0ce6p4slQ",
+      "original_en": "Ready to experience the thrill of next-generation AI filmmaking? 🏎️💨\n\nFrom roaring engines and high-speed supercar battles to breathtaking drifts and intense cinematic chase sequences, this entire racing experience was created with AI!\n\nKling 4.0 on PixVerse makes it possible to https://t.co/B0ce6p4slQ",
+      "views": 19515,
+      "likes": 19,
+      "reposts": 18,
+      "bookmarks": 9,
+      "created_at": "2026-11-06T20:19:34.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
       "handle": "@Adina_CoderX",
       "name": "Adina",
-      "url": "https://x.com/Adina_CoderX/status/2118433943112540589",
-      "status_url": "https://x.com/Adina_CoderX/status/2118433943112540589",
-      "text": "What if you could create a Hollywood-style racing film without a film crew, expensive cameras, or a production studio? 🏎️🔥\n\nHigh-speed supercars, intense racing sequences, cinematic camera movements, and breathtaking visuals — all brought to life with AI!\n\nHere's how I created https://t.co/9tapXP5vqA",
-      "original_en": "What if you could create a Hollywood-style racing film without a film crew, expensive cameras, or a production studio? 🏎️🔥\n\nHigh-speed supercars, intense racing sequences, cinematic camera movements, and breathtaking visuals — all brought to life with AI!\n\nHere's how I created https://t.co/9tapXP5vqA",
-      "views": 108156,
-      "likes": 42,
-      "reposts": 26,
-      "bookmarks": 26,
-      "created_at": "2026-11-05T20:03:05.000Z",
+      "url": "https://x.com/Adina_CoderX/status/2118796326125420865",
+      "status_url": "https://x.com/Adina_CoderX/status/2118796326125420865",
+      "text": "What lies beyond the universe? 🌌🚀\n\nOne astronaut. An unknown planet. A mysterious black hole. And a journey that could change everything.\n\nI brought this cinematic sci-fi adventure to life with stunning space visuals, immersive scenes, and breathtaking storytelling using Kling https://t.co/ezLEriR882",
+      "original_en": "What lies beyond the universe? 🌌🚀\n\nOne astronaut. An unknown planet. A mysterious black hole. And a journey that could change everything.\n\nI brought this cinematic sci-fi adventure to life with stunning space visuals, immersive scenes, and breathtaking storytelling using Kling https://t.co/ezLEriR882",
+      "views": 17033,
+      "likes": 21,
+      "reposts": 20,
+      "bookmarks": 12,
+      "created_at": "2026-11-06T20:03:04.000Z",
       "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@TechbyBella",
+      "name": "Bella",
+      "url": "https://x.com/TechbyBella/status/2118798413018071192",
+      "status_url": "https://x.com/TechbyBella/status/2118798413018071192",
+      "text": "What if the greatest adventure in human history was waiting somewhere beyond the stars? 🌌🚀\n\nA fearless astronaut, an unexplored world, and a mysterious black hole hiding secrets beyond imagination.\n\nExperience a breathtaking journey through deep space, brought to life with https://t.co/IULVyMVykj",
+      "original_en": "What if the greatest adventure in human history was waiting somewhere beyond the stars? 🌌🚀\n\nA fearless astronaut, an unexplored world, and a mysterious black hole hiding secrets beyond imagination.\n\nExperience a breathtaking journey through deep space, brought to life with https://t.co/IULVyMVykj",
+      "views": 15946,
+      "likes": 19,
+      "reposts": 18,
+      "bookmarks": 9,
+      "created_at": "2026-11-06T20:11:21.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@AvaSterling_07",
+      "name": "𝘈𝘝𝘈 𝘈𝘐",
+      "url": "https://x.com/AvaSterling_07/status/2118723007858294929",
+      "status_url": "https://x.com/AvaSterling_07/status/2118723007858294929",
+      "text": "Experience the next level of AI filmmaking with Seedance 2.5 🚀🎬\n\nStunning visuals, cinematic motion, and incredible AI-generated scenes — creativity has no limits!\n\nThe future of video creation is here. 🔥\n\n#Seedance25 #AI #AIFilmmaking #AIVideo #GenerativeAI #AIContent https://t.co/JfYd9sq9cr",
+      "original_en": "Experience the next level of AI filmmaking with Seedance 2.5 🚀🎬\n\nStunning visuals, cinematic motion, and incredible AI-generated scenes — creativity has no limits!\n\nThe future of video creation is here. 🔥\n\n#Seedance25 #AI #AIFilmmaking #AIVideo #GenerativeAI #AIContent https://t.co/JfYd9sq9cr",
+      "views": 8632,
+      "likes": 100,
+      "reposts": 1,
+      "bookmarks": 1,
+      "created_at": "2026-11-06T15:11:43.000Z",
+      "highlight": false,
       "self_quote": false
     },
     {
@@ -121,77 +136,82 @@
       "status_url": "https://x.com/Arina_hoqe/status/2118651954121556163",
       "text": "The realism is INSANE! 🤯🔥\n\n The smooth movements, cinematic details, and lifelike visuals make this AI video feel almost real. Seedance 2.5 is taking AI filmmaking to another level! 🚀 https://t.co/q0K7UT8GZX",
       "original_en": "The realism is INSANE! 🤯🔥\n\n The smooth movements, cinematic details, and lifelike visuals make this AI video feel almost real. Seedance 2.5 is taking AI filmmaking to another level! 🚀 https://t.co/q0K7UT8GZX",
-      "views": 3681,
-      "likes": 114,
-      "reposts": 13,
-      "bookmarks": 23,
+      "views": 5393,
+      "likes": 125,
+      "reposts": 14,
+      "bookmarks": 27,
       "created_at": "2026-11-06T10:29:23.000Z",
       "highlight": false,
       "self_quote": false
     }
   ],
   "patterns": [
-    "3D-first beats prompt-spam: azed_ai's '2D to 3D magic, new character design' was the day's only ★ (45.2K views, 581 likes, 124 bookmarks). Turning a flat character into a 3D turnaround is a visual that reads instantly in the feed.",
-    "Mirage / editable 3D scenes are the new talking point: maxescu quoted Mirage's 3D scene-building ('thinking outside the box', 8.3K views, 86 bookmarks) and outsider sirlifehacker's 'skip video models, build the scene in 3D with @trymirage' pulled 20.9K views and 465 bookmarks, a very high save rate.",
-    "Seedance 2.5 vs Higgsfield rivalry keeps generating takes: maxescu's 'Didn't ByteDance promise this when they launched Seedance 2.5? Did the Higgs guys outsmart them?' hit 8.6K views. Model-war framing questions drive replies.",
-    "Off-niche and meta posts still clear the floor: minchoi's Claude finance-assistant quote (9.7K) and AIWarper's algo rant 'I could cure cancer and the X algo would show it to 9 people' (7.6K views, 227 likes) show that relatable frustration lines out-engage pure showcases.",
-    "Quiet Friday overall: only 5 watchlist originals cleared 5K and just 1 cleared 10K; EHuanglu, CoffeeVectors and Salmaaboukarr had no originals in the window."
+    "Studio-grade claim + 3D animation clip: EHuanglu's 'AI can make 3D animation for Disney now' (1.37M views, 10K likes, 2.7K bookmarks) won with a one-line, bold benchmark against a famous studio and a polished Pixar-style clip.",
+    "3D is the meta for a second day: azed_ai's 2D-to-3D character design (Friday's top post) and EHuanglu's 3D animation both point to stylised 3D characters as the format the feed rewards.",
+    "Explorable worlds over clips: minchoi's World Labs Frameboy quote (11.1K) framed AI as moving from 'generating videos' to steerable real-time worlds.",
+    "Full stack credits: techhalla's 'They Already Saw It' (6.3K) listed the exact tool chain (Midjourney, H3, Suno, Claude) and offered prompts on request, which drives replies.",
+    "Low-engagement outsider views: the biggest outsider Seedance 2.5 'AI filmmaking' posts hit 15-19K views with only ~20 likes each, so views alone there are not a signal to copy."
   ],
   "no_hits": [
     {
-      "handle": "@techhalla",
-      "reason": "No original on 2026-11-06 reached 5,000 views; highest observed was 4,684 views.",
-      "max_views": 4684
+      "handle": "@maxescu",
+      "reason": "No original on 2026-11-07 reached 5,000 views; highest observed was 1,797 views.",
+      "max_views": 1797
+    },
+    {
+      "handle": "@azed_ai",
+      "reason": "No original on 2026-11-07 reached 5,000 views; highest observed was 3,482 views.",
+      "max_views": 3482
     },
     {
       "handle": "@CharaspowerAI",
-      "reason": "No original on 2026-11-06 reached 5,000 views; highest observed was 1,633 views.",
-      "max_views": 1633
+      "reason": "No original on 2026-11-07 reached 5,000 views; highest observed was 2,248 views.",
+      "max_views": 2248
     },
     {
       "handle": "@MayorKingAI",
-      "reason": "No original on 2026-11-06 reached 5,000 views; highest observed was 1,397 views.",
-      "max_views": 1397
-    },
-    {
-      "handle": "@EHuanglu",
-      "reason": "No original posts (excluding replies and reposts) found on 2026-11-06.",
-      "max_views": 0
+      "reason": "No original on 2026-11-07 reached 5,000 views; highest observed was 4,519 views.",
+      "max_views": 4519
     },
     {
       "handle": "@CoffeeVectors",
-      "reason": "No original posts (excluding replies and reposts) found on 2026-11-06.",
-      "max_views": 0
+      "reason": "No original on 2026-11-07 reached 5,000 views; highest observed was 1,415 views.",
+      "max_views": 1415
     },
     {
       "handle": "@Salmaaboukarr",
-      "reason": "No original posts (excluding replies and reposts) found on 2026-11-06.",
+      "reason": "No original on 2026-11-07 reached 5,000 views; highest observed was 1,211 views.",
+      "max_views": 1211
+    },
+    {
+      "handle": "@AIWarper",
+      "reason": "No original posts found on 2026-11-07.",
       "max_views": 0
     },
     {
       "handle": "@ai_artworkgen",
-      "reason": "No original on 2026-11-06 reached 5,000 views; highest observed was 413 views.",
-      "max_views": 413
+      "reason": "No original on 2026-11-07 reached 5,000 views; highest observed was 677 views.",
+      "max_views": 677
     }
   ],
-  "virals_narrative": "Friday was a quiet day: 5 watchlist originals cleared 5K and only 1 cleared 10K. azed_ai's 2D-to-3D character design led with 45.2K views, maxescu fuelled the Seedance 2.5 vs Higgsfield debate and the Mirage 3D-scene buzz (8.6K and 8.3K), and outsider sirlifehacker's 'build the scene in 3D instead of spamming video gens' hit 20.9K views with 465 bookmarks. The meta is shifting toward 3D-first workflows.",
-  "narrative_synthesis": "Friday was a quiet day: 5 watchlist originals cleared 5K and only 1 cleared 10K. azed_ai's 2D-to-3D character design led with 45.2K views, maxescu fuelled the Seedance 2.5 vs Higgsfield debate and the Mirage 3D-scene buzz (8.6K and 8.3K), and outsider sirlifehacker's 'build the scene in 3D instead of spamming video gens' hit 20.9K views with 465 bookmarks. The meta is shifting toward 3D-first workflows.",
+  "virals_narrative": "Saturday was a one-post day: EHuanglu's 'AI can make 3D animation for Disney now' exploded to 1.37M views, 10K likes and 2.7K bookmarks, dwarfing everything else. minchoi added two ★ (13.2K on Lattice, a 'Cursor for research papers', and 11.1K on World Labs' real-time explorable worlds), and techhalla's short film 'They Already Saw It' (Midjourney + H3 + Suno + Claude) cleared 6.3K. 4 hits ≥5K, 3 ★. The 3D-animation meta from Friday kept climbing; outsider Seedance 2.5 'AI filmmaking' posts got views but very low engagement.",
+  "narrative_synthesis": "Saturday was a one-post day: EHuanglu's 'AI can make 3D animation for Disney now' exploded to 1.37M views, 10K likes and 2.7K bookmarks, dwarfing everything else. minchoi added two ★ (13.2K on Lattice, a 'Cursor for research papers', and 11.1K on World Labs' real-time explorable worlds), and techhalla's short film 'They Already Saw It' (Midjourney + H3 + Suno + Claude) cleared 6.3K. 4 hits ≥5K, 3 ★. The 3D-animation meta from Friday kept climbing; outsider Seedance 2.5 'AI filmmaking' posts got views but very low engagement.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 5,
-  "outsiders_count": 3,
-  "previous_day": "2026-11-05",
+  "hits_count": 4,
+  "outsiders_count": 5,
+  "previous_day": "2026-11-06",
   "leaderboards": {
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-07",
     "tracking_start": "2026-09-13",
     "days_included": [
-      "2026-10-31",
       "2026-11-01",
       "2026-11-02",
       "2026-11-03",
       "2026-11-04",
       "2026-11-05",
-      "2026-11-06"
+      "2026-11-06",
+      "2026-11-07"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -199,32 +219,33 @@
       "2026-11-03",
       "2026-11-04",
       "2026-11-05",
-      "2026-11-06"
+      "2026-11-06",
+      "2026-11-07"
     ],
     "week": {
-      "label": "Rolling week · Oct 31–Nov 6",
+      "label": "Rolling week · Nov 1–Nov 7",
       "range": [
-        "2026-10-31",
-        "2026-11-06"
+        "2026-11-01",
+        "2026-11-07"
       ],
       "entries": [
         {
-          "handle": "@minchoi",
-          "name": "minchoi",
-          "hits": 19,
-          "days": 7,
-          "views": 1917967,
-          "best": 1520323,
-          "best_url": "https://x.com/minchoi/status/2117633564736938471"
+          "handle": "@EHuanglu",
+          "name": "el.cine",
+          "hits": 11,
+          "days": 6,
+          "views": 2806930,
+          "best": 1374003,
+          "best_url": "https://x.com/EHuanglu/status/2119090260894515273"
         },
         {
-          "handle": "@EHuanglu",
-          "name": "EHuanglu",
-          "hits": 12,
-          "days": 6,
-          "views": 1499632,
-          "best": 759133,
-          "best_url": "https://x.com/EHuanglu/status/2118181550617710877"
+          "handle": "@minchoi",
+          "name": "Min Choi",
+          "hits": 18,
+          "days": 7,
+          "views": 1906967,
+          "best": 1520323,
+          "best_url": "https://x.com/minchoi/status/2117633564736938471"
         },
         {
           "handle": "@azed_ai",
@@ -234,15 +255,6 @@
           "views": 186118,
           "best": 45172,
           "best_url": "https://x.com/azed_ai/status/2118615382101762484"
-        },
-        {
-          "handle": "@techhalla",
-          "name": "techhalla",
-          "hits": 8,
-          "days": 5,
-          "views": 112603,
-          "best": 40827,
-          "best_url": "https://x.com/techhalla/status/2116319170681798952"
         },
         {
           "handle": "@CharaspowerAI",
@@ -261,6 +273,15 @@
           "views": 77673,
           "best": 31162,
           "best_url": "https://x.com/AIWarper/status/2118423800429916381"
+        },
+        {
+          "handle": "@techhalla",
+          "name": "TechHalla",
+          "hits": 7,
+          "days": 5,
+          "views": 68829,
+          "best": 22135,
+          "best_url": "https://x.com/techhalla/status/2116996433047880080"
         },
         {
           "handle": "@maxescu",
@@ -277,26 +298,26 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-06"
+        "2026-11-07"
       ],
       "entries": [
         {
-          "handle": "@minchoi",
-          "name": "minchoi",
-          "hits": 16,
+          "handle": "@EHuanglu",
+          "name": "el.cine",
+          "hits": 11,
           "days": 6,
-          "views": 1882670,
-          "best": 1520323,
-          "best_url": "https://x.com/minchoi/status/2117633564736938471"
+          "views": 2806930,
+          "best": 1374003,
+          "best_url": "https://x.com/EHuanglu/status/2119090260894515273"
         },
         {
-          "handle": "@EHuanglu",
-          "name": "EHuanglu",
-          "hits": 10,
-          "days": 5,
-          "views": 1432927,
-          "best": 759133,
-          "best_url": "https://x.com/EHuanglu/status/2118181550617710877"
+          "handle": "@minchoi",
+          "name": "Min Choi",
+          "hits": 18,
+          "days": 7,
+          "views": 1906967,
+          "best": 1520323,
+          "best_url": "https://x.com/minchoi/status/2117633564736938471"
         },
         {
           "handle": "@azed_ai",
@@ -327,10 +348,10 @@
         },
         {
           "handle": "@techhalla",
-          "name": "techhalla",
-          "hits": 6,
-          "days": 4,
-          "views": 62525,
+          "name": "TechHalla",
+          "hits": 7,
+          "days": 5,
+          "views": 68829,
           "best": 22135,
           "best_url": "https://x.com/techhalla/status/2116996433047880080"
         },
@@ -378,106 +399,118 @@
   },
   "day_roster": [
     {
-      "handle": "@azed_ai",
-      "posts": 6,
-      "total_views": 59308,
-      "best_views": 45172
-    },
-    {
-      "handle": "@maxescu",
-      "posts": 2,
-      "total_views": 16911,
-      "best_views": 8583
+      "handle": "@EHuanglu",
+      "posts": 1,
+      "total_views": 1374003,
+      "best_views": 1374003
     },
     {
       "handle": "@minchoi",
-      "posts": 1,
-      "total_views": 9722,
-      "best_views": 9722
-    },
-    {
-      "handle": "@AIWarper",
-      "posts": 1,
-      "total_views": 7599,
-      "best_views": 7599
-    },
-    {
-      "handle": "@CharaspowerAI",
-      "posts": 4,
-      "total_views": 5455,
-      "best_views": 1633
+      "posts": 2,
+      "total_views": 24297,
+      "best_views": 13185
     },
     {
       "handle": "@techhalla",
-      "posts": 1,
-      "total_views": 4684,
-      "best_views": 4684
+      "posts": 3,
+      "total_views": 12958,
+      "best_views": 6304
     },
     {
       "handle": "@MayorKingAI",
       "posts": 1,
-      "total_views": 1397,
-      "best_views": 1397
+      "total_views": 4519,
+      "best_views": 4519
+    },
+    {
+      "handle": "@azed_ai",
+      "posts": 6,
+      "total_views": 14243,
+      "best_views": 3482
+    },
+    {
+      "handle": "@CharaspowerAI",
+      "posts": 4,
+      "total_views": 7455,
+      "best_views": 2248
+    },
+    {
+      "handle": "@maxescu",
+      "posts": 1,
+      "total_views": 1797,
+      "best_views": 1797
+    },
+    {
+      "handle": "@CoffeeVectors",
+      "posts": 1,
+      "total_views": 1415,
+      "best_views": 1415
+    },
+    {
+      "handle": "@Salmaaboukarr",
+      "posts": 1,
+      "total_views": 1211,
+      "best_views": 1211
     },
     {
       "handle": "@ai_artworkgen",
-      "posts": 1,
-      "total_views": 413,
-      "best_views": 413
+      "posts": 2,
+      "total_views": 1346,
+      "best_views": 677
     }
   ],
   "you_rank": null,
   "trend_input_only_posts": [],
   "drafts": [
     {
-      "draft_en": "2D to 3D, one character, zero modeling.\n\nI took a flat concept sketch, generated a full turnaround, then dropped it into a moving shot with real camera parallax.\n\nThis is the step that turns AI art into AI VFX 👇",
+      "draft_en": "Everyone says AI can do Disney-level 3D animation now.\n\nSo I tested it on a real VFX shot: one character, one take, real camera move, my own lighting.\n\nHere's where it holds up and where it still breaks 👇",
       "draft_keywords": [
         "AI VFX",
-        "2D to 3D",
-        "character design",
+        "3D animation",
+        "Seedance",
         "Firefly"
       ],
-      "video_tip": "10-12s: 2s on the flat 2D sketch, hard cut to a 3s 360° turnaround, then a 5s shot of the character inside a scene with a slow orbit camera. Split-screen 'sketch | final' on the last frame."
+      "video_tip": "12-15s: open on a polished 3D character close-up (3s), then the same shot with a handheld camera move and practical light flicker (6s), end on a split screen 'AI raw | my comp' with one visible flaw circled in red."
     },
     {
-      "draft_en": "Stop spamming credits on 40 video gens to get one usable shot.\n\nBlock the scene in 3D first: camera path, lens, lighting. Then let the video model paint over it.\n\nSame shot, 3 gens instead of 40. VFX people have worked this way forever.",
+      "draft_en": "2D sketch → 3D character → moving VFX shot.\n\nThree steps, one afternoon, no modeling software.\n\nThe 3D-animation wave is here. This is how I'd ride it as a VFX artist 👇",
       "draft_keywords": [
+        "2D to 3D",
+        "3D animation",
         "AI filmmaking",
-        "Seedance",
-        "3D scene",
-        "AI VFX"
+        "character design"
       ],
-      "video_tip": "15s: left half shows the grey 3D blockout with the camera move, right half shows the final render in sync. End with a counter graphic '40 gens → 3 gens'."
+      "video_tip": "10s triptych: 2s flat sketch, 3s 360° turnaround, 5s character walking through a live-action plate with matched shadows. Label each stage on screen."
     },
     {
-      "draft_en": "Seedance 2.5 or Higgsfield for VFX shots?\n\nI ran the same destruction plate through both. Same prompt, same seed image, same camera move.\n\nOne held the debris physics. One didn't. Guess which 👇",
+      "draft_en": "AI isn't just generating clips anymore. You can walk inside the shot.\n\nI blocked a whole VFX scene as an explorable world first, then picked my camera.\n\nDirecting > prompting.",
+      "draft_keywords": [
+        "AI world model",
+        "AI filmmaking",
+        "AI VFX",
+        "camera"
+      ],
+      "video_tip": "8-12s: screen-record flying a camera through an AI-generated environment, freeze on the chosen frame, then cut to the final rendered shot from that exact angle."
+    },
+    {
+      "draft_en": "Short film made with Firefly + Seedance 2.5 + Suno.\n\nEvery shot, every prompt, the full stack.\n\nWant the prompts? Reply 'VFX' and I'll share them.",
       "draft_keywords": [
         "Seedance",
-        "Higgsfield",
-        "AI VFX",
-        "AI video"
+        "Firefly",
+        "Suno",
+        "free prompt"
       ],
-      "video_tip": "12s: A/B split of the same destruction shot, labels hidden for the first 8s, reveal model names at the end to drive guesses in replies."
+      "video_tip": "20-30s cinematic cut with a 1s title card listing the tool chain; keep the strongest VFX beat in the first 2 seconds so the autoplay hooks."
     },
     {
-      "draft_en": "Glass is the hardest material for AI video.\n\nRefraction, caustics, prismatic edges. Most models melt it.\n\nHere's the prompt structure I use to keep glass sharp across a full camera move (free prompt below) 👇",
-      "draft_keywords": [
-        "AI VFX",
-        "free prompt",
-        "Kling",
-        "Seedance"
-      ],
-      "video_tip": "8-10s macro push-in on a glass object shattering in slow motion, light passing through it. Keep the background dark so the refraction pops on mobile."
-    },
-    {
-      "draft_en": "Saturday Challenge: take one 2D character and bring it to life in 3D.\n\nSketch to turnaround to a 5-second shot. Any tool.\n\nPost yours below. I'll repost my favorites tomorrow 🎬",
+      "draft_en": "Saturday Challenge: take one 2D character and turn it into a 3D animated shot.\n\nAny tool. Post it under this tweet.\n\nI'll feature my favourite ones tomorrow ✨",
       "draft_keywords": [
         "Saturday Challenge",
-        "2D to 3D",
-        "AI VFX",
-        "AI filmmaking"
+        "3D animation",
+        "AI art",
+        "community"
       ],
-      "video_tip": "10s example: your own sketch morphing into a 3D turnaround, then a short animated beat. Overlay the challenge rules as 3 short text cards."
+      "video_tip": "6-8s example: your own 2D character morphing into a 3D version that turns its head to camera, with a 'YOUR TURN' end card."
     }
   ],
   "excluded_hits": []
