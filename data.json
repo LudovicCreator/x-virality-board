@@ -1,629 +1,570 @@
 {
-  "title": "Daily X narrative digest - 2026-11-16",
-  "date": "2026-11-16",
-  "timezone": "Europe/Paris",
-  "updated": "2026-11-17T09:24:31+01:00",
-  "brand_title": "LudovicCreator X Virality Score",
-  "brand_handle": "@LudovicCreator",
-  "hits": [
-    {
-      "handle": "@techhalla",
-      "name": "TechHalla",
-      "url": "https://x.com/techhalla/status/2122310961692569716",
-      "status_url": "https://x.com/techhalla/status/2122310961692569716",
-      "text": "Men in Black but it's 1977 👽 https://t.co/wbnylMQtYn",
-      "original_en": "Men in Black but it's 1977 👽 https://t.co/wbnylMQtYn",
-      "views": 31933,
-      "likes": 832,
-      "reposts": 106,
-      "bookmarks": 168,
-      "created_at": "2026-11-16T12:48:58.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "url": "https://x.com/minchoi/status/2122361843557777795",
-      "status_url": "https://x.com/minchoi/status/2122361843557777795",
-      "text": "AI got insanely visual this week.\n\nA $250 robot hands you tools. A World Series home run you can fly around. Rooms you can relight.\n\n10 wild examples: 👇",
-      "original_en": "AI got insanely visual this week.\n\nA $250 robot hands you tools. A World Series home run you can fly around. Rooms you can relight.\n\n10 wild examples: 👇",
-      "views": 19032,
-      "likes": 69,
-      "reposts": 4,
-      "bookmarks": 36,
-      "created_at": "2026-11-16T16:11:09.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "url": "https://x.com/minchoi/status/2122138368981213661",
-      "status_url": "https://x.com/minchoi/status/2122138368981213661",
-      "text": "Jensen Huang might be coming BACK to NVIDIA. 🤯\n\nJust DAYS after stepping down as CEO, he's reportedly discussing a return.\n\nSilicon Valley allies are even forming a \"war room\" to bring him back.\n\nPer Financial Times https://t.co/EHxYMQoXvi https://t.co/66T23mxyp0",
-      "original_en": "Jensen Huang might be coming BACK to NVIDIA. 🤯\n\nJust DAYS after stepping down as CEO, he's reportedly discussing a return.\n\nSilicon Valley allies are even forming a \"war room\" to bring him back.\n\nPer Financial Times https://t.co/EHxYMQoXvi https://t.co/66T23mxyp0",
-      "views": 16008,
-      "likes": 142,
-      "reposts": 16,
-      "bookmarks": 9,
-      "created_at": "2026-11-16T01:23:09.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "url": "https://x.com/minchoi/status/2122437854311907412",
-      "status_url": "https://x.com/minchoi/status/2122437854311907412",
-      "text": "Grok Bot ad on The Sphere at Las Vegas 👀 https://t.co/e50lNkFV4m",
-      "original_en": "Grok Bot ad on The Sphere at Las Vegas 👀 https://t.co/e50lNkFV4m",
-      "views": 8432,
-      "likes": 79,
-      "reposts": 5,
-      "bookmarks": 7,
-      "created_at": "2026-11-16T21:13:12.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@AIWarper",
-      "name": "A.I.Warper",
-      "url": "https://x.com/AIWarper/status/2122352975717060822",
-      "status_url": "https://x.com/AIWarper/status/2122352975717060822",
-      "text": "Experimented with H3 Image lora training over the weekend on a large dataset of analog photography images I had laying around\n\nA = Base Model\nB = 2000 Steps https://t.co/UOJH0Knc9w",
-      "original_en": "Experimented with H3 Image lora training over the weekend on a large dataset of analog photography images I had laying around\n\nA = Base Model\nB = 2000 Steps https://t.co/UOJH0Knc9w",
-      "views": 7827,
-      "likes": 93,
-      "reposts": 4,
-      "bookmarks": 59,
-      "created_at": "2026-11-16T15:35:55.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@AIWarper",
-      "name": "A.I.Warper",
-      "url": "https://x.com/AIWarper/status/2122148107463077888",
-      "status_url": "https://x.com/AIWarper/status/2122148107463077888",
-      "text": "Seedream 5.5 is quite nice\n\nThis is text-2-image with some inspiration from the Midjourney explore page.\n\nI like it. https://t.co/1F6lAayDT2",
-      "original_en": "Seedream 5.5 is quite nice\n\nThis is text-2-image with some inspiration from the Midjourney explore page.\n\nI like it. https://t.co/1F6lAayDT2",
-      "views": 7298,
-      "likes": 181,
-      "reposts": 8,
-      "bookmarks": 70,
-      "created_at": "2026-11-16T02:01:51.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@EHuanglu",
-      "name": "el.cine",
-      "url": "https://x.com/EHuanglu/status/2122299953691468133",
-      "status_url": "https://x.com/EHuanglu/status/2122299953691468133",
-      "text": "finally an AI music model that actually listens to timestamps\n\nlove the direction @mp3addi is taking with Taan. being able to drop a video clip in as the prompt so the music actually hits your cuts\n\nand tweak single parts without nuking the whole track is huge for AI filmmaking. https://t.co/6XFrrb3z5h",
-      "original_en": "finally an AI music model that actually listens to timestamps\n\nlove the direction @mp3addi is taking with Taan. being able to drop a video clip in as the prompt so the music actually hits your cuts\n\nand tweak single parts without nuking the whole track is huge for AI filmmaking. https://t.co/6XFrrb3z5h",
-      "views": 5818,
-      "likes": 43,
-      "reposts": 5,
-      "bookmarks": 39,
-      "created_at": "2026-11-16T12:05:14.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@azed_ai",
-      "name": "Amira Zairi",
-      "url": "https://x.com/azed_ai/status/2122282551628931254",
-      "status_url": "https://x.com/azed_ai/status/2122282551628931254",
-      "text": "Prompt Share: Minimalist Full-Body Cartoon Characters\n\nPrompt:\nA minimalist full-body cartoon illustration of [subject] on a clean white background, wearing [outfit], [doing action], with [facial expression], cute rounded proportions, simple flat shapes, tiny oval black eyes, https://t.co/8CHU5N1dRP",
-      "original_en": "Prompt Share: Minimalist Full-Body Cartoon Characters\n\nPrompt:\nA minimalist full-body cartoon illustration of [subject] on a clean white background, wearing [outfit], [doing action], with [facial expression], cute rounded proportions, simple flat shapes, tiny oval black eyes, https://t.co/8CHU5N1dRP",
-      "views": 5787,
-      "likes": 189,
-      "reposts": 17,
-      "bookmarks": 132,
-      "created_at": "2026-11-16T10:56:05.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@azed_ai",
-      "name": "Amira Zairi",
-      "url": "https://x.com/azed_ai/status/2122388849402024133",
-      "status_url": "https://x.com/azed_ai/status/2122388849402024133",
-      "text": "Another useful update from @ElevenLabs\n\nTheir mobile app now supports customizable video captions, and after testing it myself, I can say it's incredibly handy.\n\nYou can add captions in a few taps, adjust their appearance, and edit the text directly on the timeline\n\nHere's my https://t.co/TqjucCUBXz",
-      "original_en": "Another useful update from @ElevenLabs\n\nTheir mobile app now supports customizable video captions, and after testing it myself, I can say it's incredibly handy.\n\nYou can add captions in a few taps, adjust their appearance, and edit the text directly on the timeline\n\nHere's my https://t.co/TqjucCUBXz",
-      "views": 5150,
-      "likes": 39,
-      "reposts": 2,
-      "bookmarks": 4,
-      "created_at": "2026-11-16T17:58:28.000Z",
-      "highlight": false,
-      "self_quote": false
-    }
-  ],
-  "virals": [],
-  "outsiders": [
-    {
-      "handle": "@nicravesh",
-      "name": "nicravesh",
-      "url": "https://x.com/nicravesh/status/2122400427404898413",
-      "status_url": "https://x.com/nicravesh/status/2122400427404898413",
-      "text": "Kling 4.0 vs Seedance 2.5\n\nSame prompt: a hoverbike courier racing through a rainy neon city.\nBoth at 720p, 5 seconds.\n\nLeft: Kling 4.0 → 11.5 credits\nRight: Seedance 2.5 → 38 credits\n\nNeon reflections on wet streets are the real test for AI video. Is Seedance's quality worth https://t.co/w0UUB0HPD4",
-      "original_en": "Kling 4.0 vs Seedance 2.5\n\nSame prompt: a hoverbike courier racing through a rainy neon city.\nBoth at 720p, 5 seconds.\n\nLeft: Kling 4.0 → 11.5 credits\nRight: Seedance 2.5 → 38 credits\n\nNeon reflections on wet streets are the real test for AI video. Is Seedance's quality worth https://t.co/w0UUB0HPD4",
-      "views": 429,
-      "likes": 15,
-      "reposts": 1,
-      "bookmarks": 0,
-      "created_at": "2026-11-16T18:44:28.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@tasos_dallas_17",
-      "name": "tasos_dallas_17",
-      "url": "https://x.com/tasos_dallas_17/status/2122395500749951073",
-      "status_url": "https://x.com/tasos_dallas_17/status/2122395500749951073",
-      "text": "I don’t think the biggest advantage in video ads in 2026 will come from using more tools.\n\nIt will come from how fast you can turn a script into a finished ad.\n\nThe AI video ecosystem is exploding.\n\nNew tools are launching every week.\n\nSome write your hooks.\nSome generate scenes. https://t.co/hEWJmN1VYe",
-      "original_en": "I don’t think the biggest advantage in video ads in 2026 will come from using more tools.\n\nIt will come from how fast you can turn a script into a finished ad.\n\nThe AI video ecosystem is exploding.\n\nNew tools are launching every week.\n\nSome write your hooks.\nSome generate scenes. https://t.co/hEWJmN1VYe",
-      "views": 316,
-      "likes": 6,
-      "reposts": 0,
-      "bookmarks": 2,
-      "created_at": "2026-11-16T18:24:54.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@ChazLoumeau",
-      "name": "ChazLoumeau",
-      "url": "https://x.com/ChazLoumeau/status/2122314710414434601",
-      "status_url": "https://x.com/ChazLoumeau/status/2122314710414434601",
-      "text": "You don't need a separate AI video app anymore.\n\nHiggsfield now plugs into Claude: type an idea, get a finished video from Seedance, Veo or Kling.\n\nSetup: Customize → Connectors → add https://t.co/Flocd9lSED → sign in.\n\nNew users: 3 days free, then paid unless you cancel. https://t.co/2JIx4sIUQ6",
-      "original_en": "You don't need a separate AI video app anymore.\n\nHiggsfield now plugs into Claude: type an idea, get a finished video from Seedance, Veo or Kling.\n\nSetup: Customize → Connectors → add https://t.co/Flocd9lSED → sign in.\n\nNew users: 3 days free, then paid unless you cancel. https://t.co/2JIx4sIUQ6",
-      "views": 29,
-      "likes": 0,
-      "reposts": 0,
-      "bookmarks": 0,
-      "created_at": "2026-11-16T13:03:52.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@budzbos",
-      "name": "budzbos",
-      "url": "https://x.com/budzbos/status/2122028990667857947",
-      "status_url": "https://x.com/budzbos/status/2122028990667857947",
-      "text": "How are these Al animation channels able to upload 1-6 hour videos so frequently? Cloud Al or local generation?\n\nI've been researching AI-generated anime/storytelling channels and I'm confused about the economics behind them.\n\nI found channels uploading videos that are 1–6 hours https://t.co/MTV6imZFi7",
-      "original_en": "How are these Al animation channels able to upload 1-6 hour videos so frequently? Cloud Al or local generation?\n\nI've been researching AI-generated anime/storytelling channels and I'm confused about the economics behind them.\n\nI found channels uploading videos that are 1–6 hours https://t.co/MTV6imZFi7",
-      "views": 28,
-      "likes": 2,
-      "reposts": 0,
-      "bookmarks": 0,
-      "created_at": "2026-11-15T18:08:31.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@viralanceai",
-      "name": "viralanceai",
-      "url": "https://x.com/viralanceai/status/2121966140356436384",
-      "status_url": "https://x.com/viralanceai/status/2121966140356436384",
-      "text": "Same prompt. 3 AI video models.\n\n\"A barista pours latte art that swirls into a glowing golden phoenix rising from the cup, cinematic close-up\"\n\nVEO 3.1 vs Kling 3.0 vs Seedance 2.5\n\nWhich one wins? 👇 https://t.co/5KONaiw5t4",
-      "original_en": "Same prompt. 3 AI video models.\n\n\"A barista pours latte art that swirls into a glowing golden phoenix rising from the cup, cinematic close-up\"\n\nVEO 3.1 vs Kling 3.0 vs Seedance 2.5\n\nWhich one wins? 👇 https://t.co/5KONaiw5t4",
-      "views": 14,
-      "likes": 0,
-      "reposts": 0,
-      "bookmarks": 0,
-      "created_at": "2026-11-15T13:58:46.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@dusazxyz",
-      "name": "dusazxyz",
-      "url": "https://x.com/dusazxyz/status/2122297025693905167",
-      "status_url": "https://x.com/dusazxyz/status/2122297025693905167",
-      "text": "I built Cinematographly, a Claude Code plugin that directs short AI video, brief to Resolve timeline.\n\nA hook checks every paid Higgsfield or Kling call: open job, your approval, budget. If it can't run, nothing's spent.\n\nFree for teams of 3 or fewer: https://t.co/C4o60RDFUY https://t.co/RRB67uVfEO",
-      "original_en": "I built Cinematographly, a Claude Code plugin that directs short AI video, brief to Resolve timeline.\n\nA hook checks every paid Higgsfield or Kling call: open job, your approval, budget. If it can't run, nothing's spent.\n\nFree for teams of 3 or fewer: https://t.co/C4o60RDFUY https://t.co/RRB67uVfEO",
-      "views": 5,
-      "likes": 0,
-      "reposts": 0,
-      "bookmarks": 0,
-      "created_at": "2026-11-16T11:53:35.000Z",
-      "highlight": false,
-      "self_quote": false
-    }
-  ],
-  "patterns": [
-    "'X but it's 197x' is the format of the month: techhalla's 'Men in Black but it's 1977' led the day at 31.9K views / 832 likes - a one-line title, 70s film look, zero tool talk (after Pirates 1974 and Futurama 1971 on 15.11).",
-    "Weekly 'AI got insanely visual' roundups keep working: minchoi's '10 wild examples' thread (robot, fly-around home run, relightable rooms) hit 19.0K; his Jensen Huang/NVIDIA news post 16.0K and 'Grok Bot ad on The Sphere' 8.4K.",
-    "Model A/B tests get bookmarks: AIWarper's H3 Image LoRA (analog photo dataset, base vs 2000 steps) 7.8K and 'Seedream 5.5 is quite nice' 7.3K.",
-    "Tool-for-filmmakers posts clear the floor: EHuanglu on Taan (AI music that follows video cuts/timestamps) 5.8K; azed_ai's Prompt Share (minimalist cartoon characters) 5.8K and ElevenLabs video captions 5.2K.",
-    "maxescu's serialized 'Adventures of Kekius Maximus' (4 episodes in one day) stayed under 4.1K: episodic drops split the reach. Outsider sample was thin; Kling 4.0 vs Seedance 2.5 same-prompt comparisons keep showing up."
-  ],
-  "no_hits": [
-    {
-      "handle": "@maxescu",
-      "reason": "No original on 2026-11-16 reached 5,000 views; highest observed was 4,051 views.",
-      "max_views": 4051
-    },
-    {
-      "handle": "@CharaspowerAI",
-      "reason": "No original on 2026-11-16 reached 5,000 views; highest observed was 1,524 views.",
-      "max_views": 1524
-    },
-    {
-      "handle": "@MayorKingAI",
-      "reason": "No original on 2026-11-16 reached 5,000 views; highest observed was 4,321 views.",
-      "max_views": 4321
-    },
-    {
-      "handle": "@CoffeeVectors",
-      "reason": "No original posts found on 2026-11-16.",
-      "max_views": 0
-    },
-    {
-      "handle": "@Salmaaboukarr",
-      "reason": "No original posts found on 2026-11-16.",
-      "max_views": 0
-    },
-    {
-      "handle": "@ai_artworkgen",
-      "reason": "No original posts found on 2026-11-16.",
-      "max_views": 0
-    }
-  ],
-  "virals_narrative": "Monday: 9 watchlist hits >=5K, 3 stars. techhalla's 'Men in Black but it's 1977' dominated (31.9K / 832 likes), confirming the '...but it's 197x' format for a third straight day. minchoi had three hits (weekly 'AI got insanely visual' roundup 19.0K, Jensen Huang/NVIDIA news 16.0K, Grok Bot Sphere ad 8.4K). AIWarper's H3 Image LoRA and Seedream 5.5 tests, EHuanglu's Taan AI music, and azed_ai's prompt share + ElevenLabs captions all cleared 5K. maxescu's 4-episode Kekius Maximus series stayed below the floor.",
-  "narrative_synthesis": "Monday: 9 watchlist hits >=5K, 3 stars. techhalla's 'Men in Black but it's 1977' dominated (31.9K / 832 likes), confirming the '...but it's 197x' format for a third straight day. minchoi had three hits (weekly 'AI got insanely visual' roundup 19.0K, Jensen Huang/NVIDIA news 16.0K, Grok Bot Sphere ad 8.4K). AIWarper's H3 Image LoRA and Seedream 5.5 tests, EHuanglu's Taan AI music, and azed_ai's prompt share + ElevenLabs captions all cleared 5K. maxescu's 4-episode Kekius Maximus series stayed below the floor.",
-  "virals_window": "last ~48h",
-  "virals_target": 20,
-  "hits_count": 9,
-  "outsiders_count": 6,
-  "previous_day": "2026-11-15",
-  "leaderboards": {
-    "as_of": "2026-11-16",
-    "tracking_start": "2026-09-13",
-    "days_included": [
-      "2026-11-10",
-      "2026-11-11",
-      "2026-11-12",
-      "2026-11-13",
-      "2026-11-14",
-      "2026-11-15",
-      "2026-11-16"
-    ],
-    "month_days_included": [
-      "2026-11-01",
-      "2026-11-02",
-      "2026-11-03",
-      "2026-11-04",
-      "2026-11-05",
-      "2026-11-06",
-      "2026-11-07",
-      "2026-11-08",
-      "2026-11-09",
-      "2026-11-10",
-      "2026-11-11",
-      "2026-11-12",
-      "2026-11-14",
-      "2026-11-15",
-      "2026-11-16"
-    ],
-    "week": {
-      "label": "Rolling week · Nov 10–Nov 16",
-      "range": [
-        "2026-11-10",
-        "2026-11-16"
-      ],
-      "entries": [
-        {
-          "handle": "@techhalla",
-          "name": "TechHalla",
-          "hits": 12,
-          "days": 6,
-          "views": 875868,
-          "best": 401489,
-          "best_url": "https://x.com/techhalla/status/2121579235085259242"
-        },
-        {
-          "handle": "@minchoi",
-          "name": "Min Choi",
-          "hits": 28,
-          "days": 6,
-          "views": 583841,
-          "best": 135208,
-          "best_url": "https://x.com/minchoi/status/2121634011676356615"
-        },
-        {
-          "handle": "@EHuanglu",
-          "name": "el.cine",
-          "hits": 10,
-          "days": 6,
-          "views": 492464,
-          "best": 174375,
-          "best_url": "https://x.com/EHuanglu/status/2119947980400976267"
-        },
-        {
-          "handle": "@CharaspowerAI",
-          "name": "Pierrick Chevallier | IA",
-          "hits": 2,
-          "days": 2,
-          "views": 186428,
-          "best": 94797,
-          "best_url": "https://x.com/CharaspowerAI/status/2120124332798013592"
-        },
-        {
-          "handle": "@azed_ai",
-          "name": "Amira Zairi",
-          "hits": 11,
-          "days": 6,
-          "views": 77499,
-          "best": 12253,
-          "best_url": "https://x.com/azed_ai/status/2120064683004850603"
-        },
-        {
-          "handle": "@AIWarper",
-          "name": "A.I.Warper",
-          "hits": 5,
-          "days": 3,
-          "views": 40325,
-          "best": 10327,
-          "best_url": "https://x.com/AIWarper/status/2120919911619080626"
-        },
-        {
-          "handle": "@Salmaaboukarr",
-          "name": "Salma",
-          "hits": 1,
-          "days": 1,
-          "views": 13378,
-          "best": 13378,
-          "best_url": "https://x.com/Salmaaboukarr/status/2120250975990731245"
-        },
-        {
-          "handle": "@maxescu",
-          "name": "Alex Patrascu",
-          "hits": 2,
-          "days": 1,
-          "views": 13260,
-          "best": 7394,
-          "best_url": "https://x.com/maxescu/status/2120918028649214093"
-        },
-        {
-          "handle": "@MayorKingAI",
-          "name": "MayorkingAI",
-          "hits": 1,
-          "days": 1,
-          "views": 6449,
-          "best": 6449,
-          "best_url": "https://x.com/MayorKingAI/status/2120198834508955990"
-        }
-      ]
-    },
-    "month": {
-      "label": "November 2026 · from Nov 1",
-      "range": [
-        "2026-11-01",
-        "2026-11-16"
-      ],
-      "entries": [
-        {
-          "handle": "@EHuanglu",
-          "name": "el.cine",
-          "hits": 23,
-          "days": 13,
-          "views": 3317189,
-          "best": 1374003,
-          "best_url": "https://x.com/EHuanglu/status/2119090260894515273"
-        },
-        {
-          "handle": "@minchoi",
-          "name": "Min Choi",
-          "hits": 51,
-          "days": 15,
-          "views": 2758794,
-          "best": 1520323,
-          "best_url": "https://x.com/minchoi/status/2117633564736938471"
-        },
-        {
-          "handle": "@techhalla",
-          "name": "TechHalla",
-          "hits": 23,
-          "days": 13,
-          "views": 1279564,
-          "best": 401489,
-          "best_url": "https://x.com/techhalla/status/2121579235085259242"
-        },
-        {
-          "handle": "@azed_ai",
-          "name": "Amira Zairi",
-          "hits": 29,
-          "days": 14,
-          "views": 316771,
-          "best": 45172,
-          "best_url": "https://x.com/azed_ai/status/2118615382101762484"
-        },
-        {
-          "handle": "@CharaspowerAI",
-          "name": "Pierrick Chevallier | IA",
-          "hits": 3,
-          "days": 3,
-          "views": 284468,
-          "best": 98040,
-          "best_url": "https://x.com/CharaspowerAI/status/2118055783908925927"
-        },
-        {
-          "handle": "@AIWarper",
-          "name": "A.I.Warper",
-          "hits": 11,
-          "days": 8,
-          "views": 126890,
-          "best": 31162,
-          "best_url": "https://x.com/AIWarper/status/2118423800429916381"
-        },
-        {
-          "handle": "@maxescu",
-          "name": "Alex Patrascu",
-          "hits": 4,
-          "days": 2,
-          "views": 30171,
-          "best": 8583,
-          "best_url": "https://x.com/maxescu/status/2118735426810724634"
-        },
-        {
-          "handle": "@MayorKingAI",
-          "name": "MayorkingAI",
-          "hits": 2,
-          "days": 2,
-          "views": 17316,
-          "best": 10867,
-          "best_url": "https://x.com/MayorKingAI/status/2119871192861737223"
-        },
-        {
-          "handle": "@Salmaaboukarr",
-          "name": "Salma",
-          "hits": 1,
-          "days": 1,
-          "views": 13378,
-          "best": 13378,
-          "best_url": "https://x.com/Salmaaboukarr/status/2120250975990731245"
-        }
-      ]
-    }
+ "title": "Daily X narrative digest - 2026-11-17",
+ "date": "2026-11-17",
+ "timezone": "Europe/Paris",
+ "updated": "2026-11-18T09:22:41+01:00",
+ "brand_title": "LudovicCreator X Virality Score",
+ "brand_handle": "@LudovicCreator",
+ "hits": [
+  {
+   "handle": "@CharaspowerAI",
+   "name": "Pierrick Chevallier | IA",
+   "url": "https://x.com/CharaspowerAI/status/2122718728983118234",
+   "status_url": "https://x.com/CharaspowerAI/status/2122718728983118234",
+   "text": "Okay… AI image generation is getting SCARY realistic. 🤯🔥\nI just pushed Kling Image 4.0 through a series of real-world creative tests.\nFrom animals to full advertising visuals, the results genuinely surprised me.\nAll generated with Kling Image 4.0.\n\nLet me show you what I https://t.co/rHMk9ci8wZ",
+   "original_en": "Okay… AI image generation is getting SCARY realistic. 🤯🔥\nI just pushed Kling Image 4.0 through a series of real-world creative tests.\nFrom animals to full advertising visuals, the results genuinely surprised me.\nAll generated with Kling Image 4.0.\n\nLet me show you what I https://t.co/rHMk9ci8wZ",
+   "views": 78228,
+   "likes": 22,
+   "reposts": 2,
+   "bookmarks": 3,
+   "created_at": "2026-11-17T15:49:17.000Z",
+   "highlight": true,
+   "self_quote": false
   },
-  "board_features": {
-    "count_up": true,
-    "live_pulse": true,
-    "theme_toggle": true,
-    "themes": [
-      "night",
-      "day"
-    ],
-    "grok_ambient": true,
-    "week_month_boards": true,
-    "day_roster_best_total": true,
-    "day_compare_chart": true,
-    "week_strip": true,
-    "no_hits_reasons": true,
-    "marker_class": "xvs-dash-2026",
-    "top10_drafts_v4": true,
-    "trend_keywords": true,
-    "trend_radar": true,
-    "x_keyword_table": true,
-    "experiment": true,
-    "self_quote_badge": true
+  {
+   "handle": "@EHuanglu",
+   "name": "el.cine",
+   "url": "https://x.com/EHuanglu/status/2122569119509950524",
+   "status_url": "https://x.com/EHuanglu/status/2122569119509950524",
+   "text": "traditional studios are gonna have a hard time explaining their quotes when a 3mins 3D AI animation like this costs $350 now https://t.co/LO6PmQa6hj",
+   "original_en": "traditional studios are gonna have a hard time explaining their quotes when a 3mins 3D AI animation like this costs $350 now https://t.co/LO6PmQa6hj",
+   "views": 58495,
+   "likes": 356,
+   "reposts": 17,
+   "bookmarks": 143,
+   "created_at": "2026-11-17T05:54:48.000Z",
+   "highlight": true,
+   "self_quote": false
   },
-  "operator": {
-    "handle": "@LudovicCreator",
-    "name": "Ludovic (Lumen Velar)",
-    "profile_url": "https://x.com/LudovicCreator"
+  {
+   "handle": "@Salmaaboukarr",
+   "name": "Salma",
+   "url": "https://x.com/Salmaaboukarr/status/2122733277949886710",
+   "status_url": "https://x.com/Salmaaboukarr/status/2122733277949886710",
+   "text": "instagram just rolled out a new tool that flags stolen or copied videos...\n\nlooks like copycats could have their reach throttled or videos hidden https://t.co/FPXdtCXoGM",
+   "original_en": "instagram just rolled out a new tool that flags stolen or copied videos...\n\nlooks like copycats could have their reach throttled or videos hidden https://t.co/FPXdtCXoGM",
+   "views": 20915,
+   "likes": 230,
+   "reposts": 14,
+   "bookmarks": 113,
+   "created_at": "2026-11-17T16:47:06.000Z",
+   "highlight": true,
+   "self_quote": false
   },
-  "ui": {
-    "default_theme": "night"
+  {
+   "handle": "@maxescu",
+   "name": "Alex Patrascu",
+   "url": "https://x.com/maxescu/status/2122727841515106643",
+   "status_url": "https://x.com/maxescu/status/2122727841515106643",
+   "text": "Kling Image 4.0 is out!\n\nHow does it compare to the other top image models?\n\n16 models tested, prompt below 👇 https://t.co/wvv9DASxh2",
+   "original_en": "Kling Image 4.0 is out!\n\nHow does it compare to the other top image models?\n\n16 models tested, prompt below 👇 https://t.co/wvv9DASxh2",
+   "views": 17368,
+   "likes": 197,
+   "reposts": 9,
+   "bookmarks": 142,
+   "created_at": "2026-11-17T16:25:30.000Z",
+   "highlight": true,
+   "self_quote": false
   },
-  "day_roster": [
-    {
-      "handle": "@techhalla",
-      "posts": 2,
-      "total_views": 36404,
-      "best_views": 31933
-    },
-    {
-      "handle": "@minchoi",
-      "posts": 3,
-      "total_views": 43472,
-      "best_views": 19032
-    },
-    {
-      "handle": "@AIWarper",
-      "posts": 2,
-      "total_views": 15125,
-      "best_views": 7827
-    },
-    {
-      "handle": "@EHuanglu",
-      "posts": 1,
-      "total_views": 5818,
-      "best_views": 5818
-    },
-    {
-      "handle": "@azed_ai",
-      "posts": 5,
-      "total_views": 20427,
-      "best_views": 5787
-    },
-    {
-      "handle": "@MayorKingAI",
-      "posts": 2,
-      "total_views": 6999,
-      "best_views": 4321
-    },
-    {
-      "handle": "@maxescu",
-      "posts": 5,
-      "total_views": 9681,
-      "best_views": 4051
-    },
-    {
-      "handle": "@CharaspowerAI",
-      "posts": 4,
-      "total_views": 5305,
-      "best_views": 1524
-    }
+  {
+   "handle": "@minchoi",
+   "name": "Min Choi",
+   "url": "https://x.com/minchoi/status/2122542403894800705",
+   "status_url": "https://x.com/minchoi/status/2122542403894800705",
+   "text": "This is wild.\n\nGenshin Impact maker miHoYo unveiled Gamer.\n\nThis AI plays games like you do: it watches the screen and uses keyboard + mouse. No game API.\n\n10 wild examples: 🧵👇 https://t.co/YT6kEHUpZj",
+   "original_en": "This is wild.\n\nGenshin Impact maker miHoYo unveiled Gamer.\n\nThis AI plays games like you do: it watches the screen and uses keyboard + mouse. No game API.\n\n10 wild examples: 🧵👇 https://t.co/YT6kEHUpZj",
+   "views": 17040,
+   "likes": 60,
+   "reposts": 7,
+   "bookmarks": 24,
+   "created_at": "2026-11-17T04:08:38.000Z",
+   "highlight": true,
+   "self_quote": false
+  },
+  {
+   "handle": "@techhalla",
+   "name": "TechHalla",
+   "url": "https://x.com/techhalla/status/2122788583790514284",
+   "status_url": "https://x.com/techhalla/status/2122788583790514284",
+   "text": "Karate Kid but it's 1971 🥋 https://t.co/6RVMZB3lIi",
+   "original_en": "Karate Kid but it's 1971 🥋 https://t.co/6RVMZB3lIi",
+   "views": 12865,
+   "likes": 391,
+   "reposts": 60,
+   "bookmarks": 74,
+   "created_at": "2026-11-17T20:26:52.000Z",
+   "highlight": true,
+   "self_quote": false
+  },
+  {
+   "handle": "@minchoi",
+   "name": "Min Choi",
+   "url": "https://x.com/minchoi/status/2122785001200566623",
+   "status_url": "https://x.com/minchoi/status/2122785001200566623",
+   "text": "Claude can now fold your iPhone to test your app.\n\nClaude Code on desktop runs your app on iPhone Duo in the iOS simulator, right next to the chat.\n\nIt folds and unfolds the device to check every layout for you.\n\nPublic beta now.\n\nhttps://t.co/HSgd7UULLP https://t.co/DRwFsTLK12",
+   "original_en": "Claude can now fold your iPhone to test your app.\n\nClaude Code on desktop runs your app on iPhone Duo in the iOS simulator, right next to the chat.\n\nIt folds and unfolds the device to check every layout for you.\n\nPublic beta now.\n\nhttps://t.co/HSgd7UULLP https://t.co/DRwFsTLK12",
+   "views": 9644,
+   "likes": 56,
+   "reposts": 3,
+   "bookmarks": 24,
+   "created_at": "2026-11-17T20:12:38.000Z",
+   "highlight": false,
+   "self_quote": false
+  }
+ ],
+ "virals": [],
+ "outsiders": [
+  {
+   "handle": "@YouArtStudio",
+   "name": "YouArt",
+   "url": "https://x.com/YouArtStudio/status/2122693057002770487",
+   "status_url": "https://x.com/YouArtStudio/status/2122693057002770487",
+   "text": "Higgsfield is breaking creators. We're here to change that.\n\nToday, we're introducing the most affordable Seedance MCP on the market.\n\n$0.0918/sec. Pay as you go. 50% cheaper.\n\nWe're literally selling below cost.\n\nNo more overpriced AI video generation.\n\nLet's bring freedom back https://t.co/EqVSZ7NuNC",
+   "original_en": "Higgsfield is breaking creators. We're here to change that.\n\nToday, we're introducing the most affordable Seedance MCP on the market.\n\n$0.0918/sec. Pay as you go. 50% cheaper.\n\nWe're literally selling below cost.\n\nNo more overpriced AI video generation.\n\nLet's bring freedom back https://t.co/EqVSZ7NuNC",
+   "views": 75303,
+   "likes": 336,
+   "reposts": 117,
+   "bookmarks": 265,
+   "created_at": "2026-11-17T14:07:17.000Z",
+   "highlight": true,
+   "self_quote": false
+  },
+  {
+   "handle": "@omidaziz",
+   "name": "omid",
+   "url": "https://x.com/omidaziz/status/2122783998921642347",
+   "status_url": "https://x.com/omidaziz/status/2122783998921642347",
+   "text": "Every AI video model I’m testing still struggles with opening a can.\n\nSeedance 2.5 gets close but the interaction looks awkward.\n\nKling 4 and Omni 1.2 Flash both have major physics hallucinations. https://t.co/BBZxHo1V90",
+   "original_en": "Every AI video model I’m testing still struggles with opening a can.\n\nSeedance 2.5 gets close but the interaction looks awkward.\n\nKling 4 and Omni 1.2 Flash both have major physics hallucinations. https://t.co/BBZxHo1V90",
+   "views": 24112,
+   "likes": 63,
+   "reposts": 1,
+   "bookmarks": 22,
+   "created_at": "2026-11-17T20:08:39.000Z",
+   "highlight": true,
+   "self_quote": false
+  },
+  {
+   "handle": "@openart_ai",
+   "name": "OpenArt",
+   "url": "https://x.com/openart_ai/status/2122396358787448833",
+   "status_url": "https://x.com/openart_ai/status/2122396358787448833",
+   "text": "OPENART BLACK FRIDAY IS OFFICIALLY LIVE!\n\nOur BIGGEST sale of the year is here, and we're going all out! 🔥\n\n• UP TO 40% OFF annual plans\n• 50% OFF Seedance 2.0 Fast &amp; Mini\n• 50% OFF Wan 3.0 Video &amp; Prime\n• 50% OFF Kling 4.0\n• 40% OFF Grok Imagine Video 1.5 Lite &amp; Grok 1.5 https://t.co/hXmKndEleV",
+   "original_en": "OPENART BLACK FRIDAY IS OFFICIALLY LIVE!\n\nOur BIGGEST sale of the year is here, and we're going all out! 🔥\n\n• UP TO 40% OFF annual plans\n• 50% OFF Seedance 2.0 Fast &amp; Mini\n• 50% OFF Wan 3.0 Video &amp; Prime\n• 50% OFF Kling 4.0\n• 40% OFF Grok Imagine Video 1.5 Lite &amp; Grok 1.5 https://t.co/hXmKndEleV",
+   "views": 4053,
+   "likes": 48,
+   "reposts": 7,
+   "bookmarks": 7,
+   "created_at": "2026-11-16T18:28:18.000Z",
+   "highlight": false,
+   "self_quote": false
+  },
+  {
+   "handle": "@OwenGregorian",
+   "name": "Owen Gregorian",
+   "url": "https://x.com/OwenGregorian/status/2122824679186415732",
+   "status_url": "https://x.com/OwenGregorian/status/2122824679186415732",
+   "text": "Scientists taught AI to read lips in total silence, and the results are pretty impressive | Vikhyaat Vivek, Digital Trends\n\nHaving a conversation in a crowded room where the music is so loud that you can barely hear the person standing in front of you has you trying to become a https://t.co/LKf1yb3xEA",
+   "original_en": "Scientists taught AI to read lips in total silence, and the results are pretty impressive | Vikhyaat Vivek, Digital Trends\n\nHaving a conversation in a crowded room where the music is so loud that you can barely hear the person standing in front of you has you trying to become a https://t.co/LKf1yb3xEA",
+   "views": 2409,
+   "likes": 20,
+   "reposts": 1,
+   "bookmarks": 6,
+   "created_at": "2026-11-17T22:50:18.000Z",
+   "highlight": false,
+   "self_quote": false
+  }
+ ],
+ "patterns": [
+  "Kling Image 4.0 launch day owned the feed: CharaspowerAI's 'getting SCARY realistic' test series led on views (78.2K, but only 22 likes - reach without engagement), maxescu's '16 models tested, prompt below' comparison hit 17.4K / 142 bookmarks.",
+  "Cost-vs-studio framing is the engagement winner: EHuanglu's 'a 3-min 3D AI animation like this costs $350 now' hit 58.5K / 356 likes / 143 bookmarks.",
+  "'X but it's 197x' for a 4th day: techhalla's 'Karate Kid but it's 1971' 12.9K with the best like rate of the day (391 likes) - one-line title, zero tool talk.",
+  "Creator-platform news travels: Salmaaboukarr on Instagram flagging copied videos 20.9K / 113 bookmarks; minchoi's 'This is wild' AI news (miHoYo game-playing AI 17.0K, Claude Code iPhone fold 9.6K).",
+  "Outsiders: Seedance MCP / Higgsfield price war (YouArtStudio 75.3K) and 'every AI video model still struggles with opening a can' (omidaziz 24.1K) - physics-fail tests get attention."
+ ],
+ "no_hits": [
+  {
+   "handle": "@azed_ai",
+   "reason": "No original on 2026-11-17 reached 5,000 views; highest observed was 3,556 views.",
+   "max_views": 3556
+  },
+  {
+   "handle": "@MayorKingAI",
+   "reason": "No original on 2026-11-17 reached 5,000 views; highest observed was 1,691 views.",
+   "max_views": 1691
+  },
+  {
+   "handle": "@CoffeeVectors",
+   "reason": "No original posts found on 2026-11-17.",
+   "max_views": 0
+  },
+  {
+   "handle": "@AIWarper",
+   "reason": "No original on 2026-11-17 reached 5,000 views; highest observed was 3,124 views.",
+   "max_views": 3124
+  },
+  {
+   "handle": "@ai_artworkgen",
+   "reason": "No original posts found on 2026-11-17.",
+   "max_views": 0
+  }
+ ],
+ "virals_narrative": "Tuesday: 7 watchlist hits >=5K, 6 stars. Kling Image 4.0 launch day: CharaspowerAI's realism tests led on views (78.2K, low engagement) and maxescu's 16-model comparison hit 17.4K. EHuanglu's '$350 3D AI animation vs studio quotes' was the real engagement winner (58.5K / 356 likes / 143 bookmarks). techhalla kept the '...but it's 197x' streak with Karate Kid 1971 (12.9K / 391 likes). Salmaaboukarr's Instagram copy-detection news 20.9K; minchoi two AI-news hits.",
+ "narrative_synthesis": "Tuesday: 7 watchlist hits >=5K, 6 stars. Kling Image 4.0 launch day: CharaspowerAI's realism tests led on views (78.2K, low engagement) and maxescu's 16-model comparison hit 17.4K. EHuanglu's '$350 3D AI animation vs studio quotes' was the real engagement winner (58.5K / 356 likes / 143 bookmarks). techhalla kept the '...but it's 197x' streak with Karate Kid 1971 (12.9K / 391 likes). Salmaaboukarr's Instagram copy-detection news 20.9K; minchoi two AI-news hits.",
+ "virals_window": "last ~48h",
+ "virals_target": 20,
+ "hits_count": 7,
+ "outsiders_count": 4,
+ "previous_day": "2026-11-16",
+ "leaderboards": {
+  "as_of": "2026-11-16",
+  "tracking_start": "2026-09-13",
+  "days_included": [
+   "2026-11-10",
+   "2026-11-11",
+   "2026-11-12",
+   "2026-11-13",
+   "2026-11-14",
+   "2026-11-15",
+   "2026-11-16"
   ],
-  "you_rank": null,
-  "trend_input_only_posts": [],
-  "drafts": [
-    {
-      "draft_en": "House of David, but it's 1976 🎞️\n\nSame epic. Shot on grain, miniatures and matte paintings.\n\nWould you watch this version?",
-      "draft_keywords": [
-        "but it's 1976",
-        "AI filmmaking",
-        "AI VFX",
-        "nostalgia"
-      ],
-      "video_tip": "10-12s: 4 shots with heavy 70s film grain, halation, matte-painting skies and a mono title card. No tool names in the post; prompt + tools (Firefly etc.) in the first reply."
-    },
-    {
-      "draft_en": "AI VFX got insanely real this week.\n\nRelit rooms. Impossible camera moves. Sets that never existed.\n\n7 shots I made, and how 👇",
-      "draft_keywords": [
-        "AI VFX",
-        "this week",
-        "how it works",
-        "AI video"
-      ],
-      "video_tip": "Thread opener = 8s montage of your 3 strongest shots, one per beat; then 1 shot per reply with a single-line 'how'. Keep the opener text under 25 words."
-    },
-    {
-      "draft_en": "Same shot. Kling 4.0 vs Seedance 2.5.\n\nOne explosion, one prompt, one budget.\n\nWhich one would you put in a real film?",
-      "draft_keywords": [
-        "Kling 4.0",
-        "Seedance 2.5",
-        "AI VFX",
-        "comparison"
-      ],
-      "video_tip": "10s split screen, identical destruction prompt, small model label under each side, end on freeze frame + 'A or B?'."
-    },
-    {
-      "draft_en": "I trained a LoRA on 2,000 frames of old 35mm film.\n\nLeft: base model. Right: after training.\n\nThe grain finally looks real.",
-      "draft_keywords": [
-        "LoRA",
-        "H3 Image",
-        "film look",
-        "AI VFX"
-      ],
-      "video_tip": "Image carousel or 6s wipe: base vs trained on the same prompt, 3 pairs. Bookmark bait: add your training settings in the reply."
-    },
-    {
-      "draft_en": "Saturday Challenge preview 🎬\n\nPick a blockbuster. Send it back to the 70s.\n\nBest one gets featured on my page.",
-      "draft_keywords": [
-        "Saturday Challenge",
-        "but it's 1977",
-        "AI filmmaking",
-        "community"
-      ],
-      "video_tip": "8s teaser: your own 70s-style example (2-3 shots), end card with the challenge rules. Post Thursday/Friday to build entries before Saturday."
-    }
+  "month_days_included": [
+   "2026-11-01",
+   "2026-11-02",
+   "2026-11-03",
+   "2026-11-04",
+   "2026-11-05",
+   "2026-11-06",
+   "2026-11-07",
+   "2026-11-08",
+   "2026-11-09",
+   "2026-11-10",
+   "2026-11-11",
+   "2026-11-12",
+   "2026-11-14",
+   "2026-11-15",
+   "2026-11-16"
   ],
-  "excluded_hits": []
+  "week": {
+   "label": "Rolling week · Nov 10–Nov 16",
+   "range": [
+    "2026-11-10",
+    "2026-11-16"
+   ],
+   "entries": [
+    {
+     "handle": "@techhalla",
+     "name": "TechHalla",
+     "hits": 12,
+     "days": 6,
+     "views": 875868,
+     "best": 401489,
+     "best_url": "https://x.com/techhalla/status/2121579235085259242"
+    },
+    {
+     "handle": "@minchoi",
+     "name": "Min Choi",
+     "hits": 28,
+     "days": 6,
+     "views": 583841,
+     "best": 135208,
+     "best_url": "https://x.com/minchoi/status/2121634011676356615"
+    },
+    {
+     "handle": "@EHuanglu",
+     "name": "el.cine",
+     "hits": 10,
+     "days": 6,
+     "views": 492464,
+     "best": 174375,
+     "best_url": "https://x.com/EHuanglu/status/2119947980400976267"
+    },
+    {
+     "handle": "@CharaspowerAI",
+     "name": "Pierrick Chevallier | IA",
+     "hits": 2,
+     "days": 2,
+     "views": 186428,
+     "best": 94797,
+     "best_url": "https://x.com/CharaspowerAI/status/2120124332798013592"
+    },
+    {
+     "handle": "@azed_ai",
+     "name": "Amira Zairi",
+     "hits": 11,
+     "days": 6,
+     "views": 77499,
+     "best": 12253,
+     "best_url": "https://x.com/azed_ai/status/2120064683004850603"
+    },
+    {
+     "handle": "@AIWarper",
+     "name": "A.I.Warper",
+     "hits": 5,
+     "days": 3,
+     "views": 40325,
+     "best": 10327,
+     "best_url": "https://x.com/AIWarper/status/2120919911619080626"
+    },
+    {
+     "handle": "@Salmaaboukarr",
+     "name": "Salma",
+     "hits": 1,
+     "days": 1,
+     "views": 13378,
+     "best": 13378,
+     "best_url": "https://x.com/Salmaaboukarr/status/2120250975990731245"
+    },
+    {
+     "handle": "@maxescu",
+     "name": "Alex Patrascu",
+     "hits": 2,
+     "days": 1,
+     "views": 13260,
+     "best": 7394,
+     "best_url": "https://x.com/maxescu/status/2120918028649214093"
+    },
+    {
+     "handle": "@MayorKingAI",
+     "name": "MayorkingAI",
+     "hits": 1,
+     "days": 1,
+     "views": 6449,
+     "best": 6449,
+     "best_url": "https://x.com/MayorKingAI/status/2120198834508955990"
+    }
+   ]
+  },
+  "month": {
+   "label": "November 2026 · from Nov 1",
+   "range": [
+    "2026-11-01",
+    "2026-11-16"
+   ],
+   "entries": [
+    {
+     "handle": "@EHuanglu",
+     "name": "el.cine",
+     "hits": 23,
+     "days": 13,
+     "views": 3317189,
+     "best": 1374003,
+     "best_url": "https://x.com/EHuanglu/status/2119090260894515273"
+    },
+    {
+     "handle": "@minchoi",
+     "name": "Min Choi",
+     "hits": 51,
+     "days": 15,
+     "views": 2758794,
+     "best": 1520323,
+     "best_url": "https://x.com/minchoi/status/2117633564736938471"
+    },
+    {
+     "handle": "@techhalla",
+     "name": "TechHalla",
+     "hits": 23,
+     "days": 13,
+     "views": 1279564,
+     "best": 401489,
+     "best_url": "https://x.com/techhalla/status/2121579235085259242"
+    },
+    {
+     "handle": "@azed_ai",
+     "name": "Amira Zairi",
+     "hits": 29,
+     "days": 14,
+     "views": 316771,
+     "best": 45172,
+     "best_url": "https://x.com/azed_ai/status/2118615382101762484"
+    },
+    {
+     "handle": "@CharaspowerAI",
+     "name": "Pierrick Chevallier | IA",
+     "hits": 3,
+     "days": 3,
+     "views": 284468,
+     "best": 98040,
+     "best_url": "https://x.com/CharaspowerAI/status/2118055783908925927"
+    },
+    {
+     "handle": "@AIWarper",
+     "name": "A.I.Warper",
+     "hits": 11,
+     "days": 8,
+     "views": 126890,
+     "best": 31162,
+     "best_url": "https://x.com/AIWarper/status/2118423800429916381"
+    },
+    {
+     "handle": "@maxescu",
+     "name": "Alex Patrascu",
+     "hits": 4,
+     "days": 2,
+     "views": 30171,
+     "best": 8583,
+     "best_url": "https://x.com/maxescu/status/2118735426810724634"
+    },
+    {
+     "handle": "@MayorKingAI",
+     "name": "MayorkingAI",
+     "hits": 2,
+     "days": 2,
+     "views": 17316,
+     "best": 10867,
+     "best_url": "https://x.com/MayorKingAI/status/2119871192861737223"
+    },
+    {
+     "handle": "@Salmaaboukarr",
+     "name": "Salma",
+     "hits": 1,
+     "days": 1,
+     "views": 13378,
+     "best": 13378,
+     "best_url": "https://x.com/Salmaaboukarr/status/2120250975990731245"
+    }
+   ]
+  }
+ },
+ "board_features": {
+  "count_up": true,
+  "live_pulse": true,
+  "theme_toggle": true,
+  "themes": [
+   "night",
+   "day"
+  ],
+  "grok_ambient": true,
+  "week_month_boards": true,
+  "day_roster_best_total": true,
+  "day_compare_chart": true,
+  "week_strip": true,
+  "no_hits_reasons": true,
+  "marker_class": "xvs-dash-2026",
+  "top10_drafts_v4": true,
+  "trend_keywords": true,
+  "trend_radar": true,
+  "x_keyword_table": true,
+  "experiment": true,
+  "self_quote_badge": true
+ },
+ "operator": {
+  "handle": "@LudovicCreator",
+  "name": "Ludovic (Lumen Velar)",
+  "profile_url": "https://x.com/LudovicCreator"
+ },
+ "ui": {
+  "default_theme": "night"
+ },
+ "day_roster": [
+  {
+   "handle": "@CharaspowerAI",
+   "posts": 5,
+   "total_views": 84479,
+   "best_views": 78228
+  },
+  {
+   "handle": "@EHuanglu",
+   "posts": 2,
+   "total_views": 62194,
+   "best_views": 58495
+  },
+  {
+   "handle": "@Salmaaboukarr",
+   "posts": 1,
+   "total_views": 20915,
+   "best_views": 20915
+  },
+  {
+   "handle": "@maxescu",
+   "posts": 5,
+   "total_views": 25013,
+   "best_views": 17368
+  },
+  {
+   "handle": "@minchoi",
+   "posts": 2,
+   "total_views": 26684,
+   "best_views": 17040
+  },
+  {
+   "handle": "@techhalla",
+   "posts": 2,
+   "total_views": 17275,
+   "best_views": 12865
+  },
+  {
+   "handle": "@azed_ai",
+   "posts": 6,
+   "total_views": 13179,
+   "best_views": 3556
+  },
+  {
+   "handle": "@AIWarper",
+   "posts": 1,
+   "total_views": 3124,
+   "best_views": 3124
+  },
+  {
+   "handle": "@MayorKingAI",
+   "posts": 1,
+   "total_views": 1691,
+   "best_views": 1691
+  }
+ ],
+ "you_rank": null,
+ "trend_input_only_posts": [],
+ "drafts": [
+  {
+   "draft_en": "A studio quoted $40K for this VFX shot.\n\nI made it in an afternoon with AI.\n\nSame brief. Same deadline. Judge for yourself 👇",
+   "draft_keywords": [
+    "AI VFX",
+    "cost",
+    "studio",
+    "AI filmmaking"
+   ],
+   "video_tip": "12s: 3s of the plain plate, hard cut to your finished VFX shot, end on a lower-third 'cost: 1 afternoon'. Only use a quote figure you can stand behind; tools + breakdown in the first reply."
+  },
+  {
+   "draft_en": "Kling Image 4.0 vs Firefly vs Midjourney.\n\nSame VFX keyframe prompt. No retouching.\n\nWhich one would you send to the edit? Prompt below 👇",
+   "draft_keywords": [
+    "Kling Image 4.0",
+    "Firefly",
+    "Midjourney",
+    "comparison"
+   ],
+   "video_tip": "Carousel of 3-4 frames or a 6s wipe, model name small in the corner, identical prompt. Put the prompt in reply 1 for bookmarks."
+  },
+  {
+   "draft_en": "House of David, but it's 1971 🎞️\n\nSame epic. Grain, matte paintings and miniatures.\n\nWould you watch this version?",
+   "draft_keywords": [
+    "but it's 1971",
+    "AI filmmaking",
+    "AI VFX",
+    "nostalgia"
+   ],
+   "video_tip": "10-12s: 4 shots with 70s grain, halation, matte-painting skies and a mono title card. No tool names in the post; prompts in the first reply."
+  },
+  {
+   "draft_en": "Every AI video model still fails at this one shot.\n\nI tested 5 of them on a simple VFX task: shattering glass.\n\nOnly one got close.",
+   "draft_keywords": [
+    "AI video",
+    "Seedance 2.5",
+    "Kling",
+    "physics test"
+   ],
+   "video_tip": "Grid of 4-5 clips, same prompt, label each model, slow-mo on the failures, end on the winner full-frame."
+  },
+  {
+   "draft_en": "Saturday Challenge 🎬\n\nPick a classic film. Send it back to the 70s.\n\n'___ but it's 1974'. Best one gets featured on my page.",
+   "draft_keywords": [
+    "Saturday Challenge",
+    "but it's 197x",
+    "AI filmmaking",
+    "community"
+   ],
+   "video_tip": "8s teaser: your own 70s-style example (2-3 shots), end card with the rules. Post Thursday/Friday to build entries."
+  }
+ ],
+ "excluded_hits": []
 }
