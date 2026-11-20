@@ -1,239 +1,161 @@
 {
-  "title": "Daily X narrative digest - 2026-11-18",
-  "date": "2026-11-18",
+  "title": "Daily X narrative digest - 2026-11-19",
+  "date": "2026-11-19",
   "timezone": "Europe/Paris",
-  "updated": "2026-11-19T09:21:08+01:00",
+  "updated": "2026-11-20T09:18:21+01:00",
   "brand_title": "LudovicCreator X Virality Score",
   "brand_handle": "@LudovicCreator",
   "hits": [
     {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "url": "https://x.com/minchoi/status/2122906746310004762",
-      "status_url": "https://x.com/minchoi/status/2122906746310004762",
-      "text": "None of these are REAL. 🤯\n\nKling Image 4.0 made every one.\n\nReal-looking skin. Natural light. Messy imperfections. Native 8K.\n\n7 wild examples + full prompts.\n\nBookmark this 👇\n\n1. Friends group photo polaroid: https://t.co/4gbvtCcjuw",
-      "original_en": "None of these are REAL. 🤯\n\nKling Image 4.0 made every one.\n\nReal-looking skin. Natural light. Messy imperfections. Native 8K.\n\n7 wild examples + full prompts.\n\nBookmark this 👇\n\n1. Friends group photo polaroid: https://t.co/4gbvtCcjuw",
-      "views": 40897,
-      "likes": 85,
-      "reposts": 7,
-      "bookmarks": 81,
-      "created_at": "2026-11-18T04:16:24.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
       "handle": "@techhalla",
       "name": "TechHalla",
-      "url": "https://x.com/techhalla/status/2123031610375438342",
-      "status_url": "https://x.com/techhalla/status/2123031610375438342",
-      "text": "I don't even have a PS5 but I got a whole plan to play GTA 6 tomorrow 🎮 https://t.co/oEUojBvV3l",
-      "original_en": "I don't even have a PS5 but I got a whole plan to play GTA 6 tomorrow 🎮 https://t.co/oEUojBvV3l",
-      "views": 26294,
-      "likes": 245,
-      "reposts": 21,
-      "bookmarks": 28,
-      "created_at": "2026-11-18T12:32:34.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "url": "https://x.com/minchoi/status/2122935054393548837",
-      "status_url": "https://x.com/minchoi/status/2122935054393548837",
-      "text": "We are cooked\n\n100% AI 🤯 https://t.co/nFCYJjpo8p https://t.co/cGHf8nXtzr",
-      "original_en": "We are cooked\n\n100% AI 🤯 https://t.co/nFCYJjpo8p https://t.co/cGHf8nXtzr",
-      "views": 23511,
-      "likes": 83,
-      "reposts": 6,
-      "bookmarks": 32,
-      "created_at": "2026-11-18T06:08:53.000Z",
-      "highlight": true,
-      "self_quote": true,
-      "self_quote_label": "self-quote"
-    },
-    {
-      "handle": "@EHuanglu",
-      "name": "el.cine",
-      "url": "https://x.com/EHuanglu/status/2122922736205070605",
-      "status_url": "https://x.com/EHuanglu/status/2122922736205070605",
-      "text": "this AI animation looks better than Disney https://t.co/CzUjPQytb7",
-      "original_en": "this AI animation looks better than Disney https://t.co/CzUjPQytb7",
-      "views": 20077,
-      "likes": 185,
-      "reposts": 25,
-      "bookmarks": 71,
-      "created_at": "2026-11-18T05:19:56.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "url": "https://x.com/minchoi/status/2123135682415935579",
-      "status_url": "https://x.com/minchoi/status/2123135682415935579",
-      "text": "Holy smokes... I just made this entire music video with my AI assistant.\n\nSuno MCP is now available to everyone. It works right inside Claude, ChatGPT, Gemini, Cursor and more.\n\nI wrote the style and lyrics with Claude, Suno turned them into the song, then Claude Code cut the https://t.co/rsau7QUPXH",
-      "original_en": "Holy smokes... I just made this entire music video with my AI assistant.\n\nSuno MCP is now available to everyone. It works right inside Claude, ChatGPT, Gemini, Cursor and more.\n\nI wrote the style and lyrics with Claude, Suno turned them into the song, then Claude Code cut the https://t.co/rsau7QUPXH",
-      "views": 19920,
-      "likes": 128,
-      "reposts": 10,
-      "bookmarks": 121,
-      "created_at": "2026-11-18T19:26:07.000Z",
+      "url": "https://x.com/techhalla/status/2123448539439337531",
+      "status_url": "https://x.com/techhalla/status/2123448539439337531",
+      "text": "Pulp Fiction but it's 1973 🔫 https://t.co/q0L6p07Nnb",
+      "original_en": "Pulp Fiction but it's 1973 🔫 https://t.co/q0L6p07Nnb",
+      "views": 99309,
+      "likes": 625,
+      "reposts": 65,
+      "bookmarks": 129,
+      "created_at": "2026-11-19T16:09:18.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
       "handle": "@maxescu",
       "name": "Alex Patrascu",
-      "url": "https://x.com/maxescu/status/2123023232035135927",
-      "status_url": "https://x.com/maxescu/status/2123023232035135927",
-      "text": "Which model is the best for skin texture?\n\nI tested the same prompt in 16 different AI image models.\n\nYou can find all the outputs in the carousel below, in a completely random order.\n\nThe prompt is in the next post 👇 https://t.co/WJMIsHTLaq",
-      "original_en": "Which model is the best for skin texture?\n\nI tested the same prompt in 16 different AI image models.\n\nYou can find all the outputs in the carousel below, in a completely random order.\n\nThe prompt is in the next post 👇 https://t.co/WJMIsHTLaq",
-      "views": 10402,
-      "likes": 122,
+      "url": "https://x.com/maxescu/status/2123517448968081910",
+      "status_url": "https://x.com/maxescu/status/2123517448968081910",
+      "text": "Model selection is important these days.\n\nExactly the same prompts: https://t.co/Fmjmg9Dydq",
+      "original_en": "Model selection is important these days.\n\nExactly the same prompts: https://t.co/Fmjmg9Dydq",
+      "views": 18346,
+      "likes": 119,
       "reposts": 10,
-      "bookmarks": 152,
-      "created_at": "2026-11-18T11:59:17.000Z",
+      "bookmarks": 66,
+      "created_at": "2026-11-19T20:43:07.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@EHuanglu",
+      "name": "el.cine",
+      "url": "https://x.com/EHuanglu/status/2123268272011514240",
+      "status_url": "https://x.com/EHuanglu/status/2123268272011514240",
+      "text": "AI video is now ready for cinema\n\n4K documentary used to take months and millions\n\nnow Seedance 2.5 4K made in 3 days.. and Flash is twice as fast at 34% lower cost\n\nhere's why its crazy: https://t.co/2Wjx4lHf9o",
+      "original_en": "AI video is now ready for cinema\n\n4K documentary used to take months and millions\n\nnow Seedance 2.5 4K made in 3 days.. and Flash is twice as fast at 34% lower cost\n\nhere's why its crazy: https://t.co/2Wjx4lHf9o",
+      "views": 16467,
+      "likes": 210,
+      "reposts": 26,
+      "bookmarks": 110,
+      "created_at": "2026-11-19T04:12:59.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
       "handle": "@minchoi",
       "name": "Min Choi",
-      "url": "https://x.com/minchoi/status/2123061382543258053",
-      "status_url": "https://x.com/minchoi/status/2123061382543258053",
-      "text": "🚨Nvidia just stopped shipping its AI chips to China.\n\nPer Reuters, Nvidia's interim CEO confirmed it, and the special licensing deal behind those chips is now in doubt. https://t.co/MnxmtchbBj https://t.co/AAotLscwCd",
-      "original_en": "🚨Nvidia just stopped shipping its AI chips to China.\n\nPer Reuters, Nvidia's interim CEO confirmed it, and the special licensing deal behind those chips is now in doubt. https://t.co/MnxmtchbBj https://t.co/AAotLscwCd",
-      "views": 10011,
-      "likes": 38,
+      "url": "https://x.com/minchoi/status/2123280192281936120",
+      "status_url": "https://x.com/minchoi/status/2123280192281936120",
+      "text": "The Claude Code team says Claude writes and reviews ~90% of their code.\n\nNobody reads every diff. Verification does the work.\n\nThese 7 rules are what let them run dozens of Claudes in parallel instead of 1 or 2 🧵\n\nBookmark this one. https://t.co/LO0HYaKpXb",
+      "original_en": "The Claude Code team says Claude writes and reviews ~90% of their code.\n\nNobody reads every diff. Verification does the work.\n\nThese 7 rules are what let them run dozens of Claudes in parallel instead of 1 or 2 🧵\n\nBookmark this one. https://t.co/LO0HYaKpXb",
+      "views": 14771,
+      "likes": 58,
       "reposts": 5,
-      "bookmarks": 7,
-      "created_at": "2026-11-18T14:30:52.000Z",
+      "bookmarks": 64,
+      "created_at": "2026-11-19T05:00:21.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "url": "https://x.com/minchoi/status/2123174900441731218",
-      "status_url": "https://x.com/minchoi/status/2123174900441731218",
-      "text": "AI can now make a full music video from one chat 🤯\nhttps://t.co/6XHhzN5haR https://t.co/DD1Mj6xkQL",
-      "original_en": "AI can now make a full music video from one chat 🤯\nhttps://t.co/6XHhzN5haR https://t.co/DD1Mj6xkQL",
-      "views": 8120,
-      "likes": 24,
-      "reposts": 3,
-      "bookmarks": 19,
-      "created_at": "2026-11-18T22:01:57.000Z",
-      "highlight": false,
-      "self_quote": true,
-      "self_quote_label": "self-quote"
+      "handle": "@azed_ai",
+      "name": "Amira Zairi",
+      "url": "https://x.com/azed_ai/status/2123456298234564922",
+      "status_url": "https://x.com/azed_ai/status/2123456298234564922",
+      "text": "Is X even worth our time anymore?\n\nEvery update seems to make the experience worse, while other social platforms keep improving\n\nI've already started posting elsewhere, and in 2027, I want to be much more consistent across different platforms\n\nI genuinely don't think X is a good",
+      "original_en": "Is X even worth our time anymore?\n\nEvery update seems to make the experience worse, while other social platforms keep improving\n\nI've already started posting elsewhere, and in 2027, I want to be much more consistent across different platforms\n\nI genuinely don't think X is a good",
+      "views": 12530,
+      "likes": 185,
+      "reposts": 4,
+      "bookmarks": 16,
+      "created_at": "2026-11-19T16:40:08.000Z",
+      "highlight": true,
+      "self_quote": false
     },
     {
       "handle": "@techhalla",
       "name": "TechHalla",
-      "url": "https://x.com/techhalla/status/2123178026892431431",
-      "status_url": "https://x.com/techhalla/status/2123178026892431431",
-      "text": "this feels like editing videos in 2030\n\nMagnific Illusion just dropped and it's insane! here's how to use it 👇 https://t.co/DXU1OYUWdR",
-      "original_en": "this feels like editing videos in 2030\n\nMagnific Illusion just dropped and it's insane! here's how to use it 👇 https://t.co/DXU1OYUWdR",
-      "views": 5267,
-      "likes": 41,
-      "reposts": 2,
-      "bookmarks": 16,
-      "created_at": "2026-11-18T22:14:23.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@AIWarper",
-      "name": "A.I.Warper",
-      "url": "https://x.com/AIWarper/status/2123110201415139771",
-      "status_url": "https://x.com/AIWarper/status/2123110201415139771",
-      "text": "Seedance 5.5 is a great model\n\nWith a pass through color / post on these images, they've be very useable in my opinion.\n\nJust raw text-2-image testing which I love doing with new models https://t.co/RWaveFnT1o",
-      "original_en": "Seedance 5.5 is a great model\n\nWith a pass through color / post on these images, they've be very useable in my opinion.\n\nJust raw text-2-image testing which I love doing with new models https://t.co/RWaveFnT1o",
-      "views": 5051,
-      "likes": 101,
-      "reposts": 2,
-      "bookmarks": 26,
-      "created_at": "2026-11-18T17:44:52.000Z",
+      "url": "https://x.com/techhalla/status/2123337289984344335",
+      "status_url": "https://x.com/techhalla/status/2123337289984344335",
+      "text": "Tintin but it's 1977 ⛵️ https://t.co/SUFFBVYv6k",
+      "original_en": "Tintin but it's 1977 ⛵️ https://t.co/SUFFBVYv6k",
+      "views": 8947,
+      "likes": 352,
+      "reposts": 39,
+      "bookmarks": 73,
+      "created_at": "2026-11-19T08:47:14.000Z",
       "highlight": false,
       "self_quote": false
     }
   ],
   "virals": [],
-  "outsiders": [
-    {
-      "handle": "@Texas_Twins_Dad",
-      "name": "Texas Twins Dad",
-      "url": "https://x.com/Texas_Twins_Dad/status/2122817443731054842",
-      "status_url": "https://x.com/Texas_Twins_Dad/status/2122817443731054842",
-      "text": "Grok Bot is best at orchestration. It can code through cursor, it can build in your terminal through Grok build, and it will create AI video through Grok Imagine. But Grok Bot is optimized at orchestrating and automating workflows. https://t.co/2927PCo70a",
-      "original_en": "Grok Bot is best at orchestration. It can code through cursor, it can build in your terminal through Grok build, and it will create AI video through Grok Imagine. But Grok Bot is optimized at orchestrating and automating workflows. https://t.co/2927PCo70a",
-      "views": 2288,
-      "likes": 22,
-      "reposts": 1,
-      "bookmarks": 13,
-      "created_at": "2026-11-17T22:21:33.000Z",
-      "highlight": false,
-      "self_quote": false
-    }
-  ],
+  "outsiders": [],
   "patterns": [
-    "Kling Image 4.0 'None of these are REAL' realism day 2: minchoi's 7 examples + full prompts led at 40.9K / 81 bookmarks, and his self-quote 'We are cooked, 100% AI' added 23.5K. maxescu's 16-model skin-texture test 10.4K with 152 bookmarks (best bookmark ratio of the day).",
-    "Pop-culture timing beats tool talk: techhalla's 'no PS5 but a whole plan to play GTA 6 tomorrow' was the top like count (26.3K / 245 likes), zero tool names.",
-    "'Better than Disney/studio' comparison keeps working for EHuanglu (20.1K / 185 likes / 71 bookmarks), after yesterday's '$350 vs studio quotes'.",
-    "AI agent workflows go mainstream: minchoi's full music video via Suno MCP + Claude 19.9K / 121 bookmarks; techhalla's Magnific Illusion how-to 5.3K; AIWarper raw Seedance 5.5 text-to-image tests 5.1K.",
-    "Outsider search was weak (mostly low-view 'which AI video model?' polls); no outsider cleared 5K in the sample."
+    "Retro re-imagining format exploded: techhalla's 'Pulp Fiction but it's 1973' hit 99.3K / 625 likes / 129 bookmarks (top of the day by 5x), and the same format 'Tintin but it's 1977' added 8.9K / 352 likes. Formula: famous IP + 'but it's 197X' + zero tool talk.",
+    "Same-prompt model comparison keeps earning saves: maxescu's 'Model selection is important. Exactly the same prompts' 18.3K / 66 bookmarks.",
+    "Cinema-grade claim + new model version: EHuanglu's 'AI video is now ready for cinema' (Seedance 2.5 4K documentary in 3 days) 16.5K / 110 bookmarks, best bookmark ratio among AI-video hits.",
+    "Off-niche but strong: minchoi's Claude Code '7 rules' thread 14.8K; azed_ai's platform-meta question 'Is X even worth our time anymore?' 12.5K / 185 likes (community debate bait).",
+    "Outsider search sample was weak (recent low-view posts only); no outsider cleared 5K."
   ],
   "no_hits": [
     {
-      "handle": "@azed_ai",
-      "reason": "No original on 2026-11-18 reached 5,000 views; highest observed was 4,560 views.",
-      "max_views": 4560
-    },
-    {
       "handle": "@CharaspowerAI",
-      "reason": "No original on 2026-11-18 reached 5,000 views; highest observed was 1,619 views.",
-      "max_views": 1619
+      "reason": "No original on 2026-11-19 reached 5,000 views; highest observed was 1,589 views.",
+      "max_views": 1589
     },
     {
       "handle": "@MayorKingAI",
-      "reason": "No original on 2026-11-18 reached 5,000 views; highest observed was 852 views.",
-      "max_views": 852
+      "reason": "No original on 2026-11-19 reached 5,000 views; highest observed was 1,459 views.",
+      "max_views": 1459
     },
     {
       "handle": "@CoffeeVectors",
-      "reason": "No original posts found on 2026-11-18.",
+      "reason": "No original posts found on 2026-11-19.",
       "max_views": 0
     },
     {
       "handle": "@Salmaaboukarr",
-      "reason": "No original posts found on 2026-11-18.",
+      "reason": "No original posts found on 2026-11-19.",
       "max_views": 0
     },
     {
+      "handle": "@AIWarper",
+      "reason": "No original on 2026-11-19 reached 5,000 views; highest observed was 2,014 views.",
+      "max_views": 2014
+    },
+    {
       "handle": "@ai_artworkgen",
-      "reason": "No original on 2026-11-18 reached 5,000 views; highest observed was 4,066 views.",
-      "max_views": 4066
+      "reason": "No original on 2026-11-19 reached 5,000 views; highest observed was 921 views.",
+      "max_views": 921
     }
   ],
-  "virals_narrative": "Wednesday: 10 watchlist hits >=5K, 7 stars. Kling Image 4.0 realism showcase day 2: minchoi's 'None of these are REAL' 40.9K (+23.5K self-quote), maxescu's 16-model skin test 10.4K / 152 bookmarks. techhalla's GTA 6 eve post had the most likes (26.3K / 245). EHuanglu's 'better than Disney' 20.1K. minchoi's Suno MCP music video 19.9K / 121 bookmarks. No original from Salmaaboukarr or CoffeeVectors on D.",
-  "narrative_synthesis": "Wednesday: 10 watchlist hits >=5K, 7 stars. Kling Image 4.0 realism showcase day 2: minchoi's 'None of these are REAL' 40.9K (+23.5K self-quote), maxescu's 16-model skin test 10.4K / 152 bookmarks. techhalla's GTA 6 eve post had the most likes (26.3K / 245). EHuanglu's 'better than Disney' 20.1K. minchoi's Suno MCP music video 19.9K / 121 bookmarks. No original from Salmaaboukarr or CoffeeVectors on D.",
+  "virals_narrative": "Thursday: 6 watchlist hits >=5K, 5 stars. techhalla's retro re-imagining 'Pulp Fiction but it's 1973' dominated at 99.3K / 625 likes (+ 'Tintin but it's 1977' 8.9K). maxescu's same-prompt model comparison 18.3K, EHuanglu's Seedance 2.5 4K 'ready for cinema' 16.5K / 110 bookmarks, minchoi's Claude Code rules 14.8K, azed_ai's 'Is X worth it?' 12.5K. No original from CoffeeVectors or Salmaaboukarr on D.",
+  "narrative_synthesis": "Thursday: 6 watchlist hits >=5K, 5 stars. techhalla's retro re-imagining 'Pulp Fiction but it's 1973' dominated at 99.3K / 625 likes (+ 'Tintin but it's 1977' 8.9K). maxescu's same-prompt model comparison 18.3K, EHuanglu's Seedance 2.5 4K 'ready for cinema' 16.5K / 110 bookmarks, minchoi's Claude Code rules 14.8K, azed_ai's 'Is X worth it?' 12.5K. No original from CoffeeVectors or Salmaaboukarr on D.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 10,
-  "outsiders_count": 1,
-  "previous_day": "2026-11-17",
+  "hits_count": 6,
+  "outsiders_count": 0,
+  "previous_day": "2026-11-18",
   "leaderboards": {
-    "as_of": "2026-11-18",
+    "as_of": "2026-11-19",
     "tracking_start": "2026-09-13",
     "days_included": [
-      "2026-11-12",
       "2026-11-13",
       "2026-11-14",
       "2026-11-15",
       "2026-11-16",
       "2026-11-17",
-      "2026-11-18"
+      "2026-11-18",
+      "2026-11-19"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -251,77 +173,69 @@
       "2026-11-14",
       "2026-11-15",
       "2026-11-16",
-      "2026-11-18"
+      "2026-11-18",
+      "2026-11-19"
     ],
     "week": {
-      "label": "Rolling week · Nov 12–Nov 18",
+      "label": "Rolling week · Nov 13–Nov 19",
       "range": [
-        "2026-11-12",
-        "2026-11-18"
+        "2026-11-13",
+        "2026-11-19"
       ],
       "entries": [
         {
           "handle": "@techhalla",
           "name": "TechHalla",
-          "hits": 8,
+          "hits": 9,
           "days": 5,
-          "views": 530932,
+          "views": 607886,
           "best": 401489,
           "best_url": "https://x.com/techhalla/status/2121579235085259242"
         },
         {
           "handle": "@minchoi",
           "name": "Min Choi",
-          "hits": 24,
+          "hits": 16,
           "days": 5,
-          "views": 515972,
+          "views": 404104,
           "best": 135208,
           "best_url": "https://x.com/minchoi/status/2121634011676356615"
         },
         {
           "handle": "@EHuanglu",
           "name": "el.cine",
-          "hits": 8,
+          "hits": 7,
           "days": 5,
-          "views": 278006,
-          "best": 139189,
-          "best_url": "https://x.com/EHuanglu/status/2120813538407289337"
-        },
-        {
-          "handle": "@CharaspowerAI",
-          "name": "Pierrick Chevallier | IA",
-          "hits": 1,
-          "days": 1,
-          "views": 91631,
-          "best": 91631,
-          "best_url": "https://x.com/CharaspowerAI/status/2120894896693281101"
+          "views": 132666,
+          "best": 55051,
+          "best_url": "https://x.com/EHuanglu/status/2121627112981569577"
         },
         {
           "handle": "@azed_ai",
           "name": "Amira Zairi",
           "hits": 8,
           "days": 4,
-          "views": 51092,
-          "best": 10589,
-          "best_url": "https://x.com/azed_ai/status/2120856526256853353"
-        },
-        {
-          "handle": "@AIWarper",
-          "name": "A.I.Warper",
-          "hits": 5,
-          "days": 3,
-          "views": 37650,
-          "best": 10327,
-          "best_url": "https://x.com/AIWarper/status/2120919911619080626"
+          "views": 53033,
+          "best": 12530,
+          "best_url": "https://x.com/azed_ai/status/2123456298234564922"
         },
         {
           "handle": "@maxescu",
           "name": "Alex Patrascu",
+          "hits": 2,
+          "days": 2,
+          "views": 28748,
+          "best": 18346,
+          "best_url": "https://x.com/maxescu/status/2123517448968081910"
+        },
+        {
+          "handle": "@AIWarper",
+          "name": "A.I.Warper",
           "hits": 3,
           "days": 2,
-          "views": 23662,
-          "best": 10402,
-          "best_url": "https://x.com/maxescu/status/2123023232035135927"
+          "views": 20176,
+          "best": 7827,
+          "best_url": "https://x.com/AIWarper/status/2122352975717060822"
         }
       ]
     },
@@ -329,42 +243,42 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-18"
+        "2026-11-19"
       ],
       "entries": [
         {
           "handle": "@EHuanglu",
           "name": "el.cine",
-          "hits": 24,
-          "days": 14,
-          "views": 3337266,
+          "hits": 25,
+          "days": 15,
+          "views": 3353733,
           "best": 1374003,
           "best_url": "https://x.com/EHuanglu/status/2119090260894515273"
         },
         {
           "handle": "@minchoi",
           "name": "Min Choi",
-          "hits": 56,
-          "days": 16,
-          "views": 2861253,
+          "hits": 57,
+          "days": 17,
+          "views": 2876024,
           "best": 1520323,
           "best_url": "https://x.com/minchoi/status/2117633564736938471"
         },
         {
           "handle": "@techhalla",
           "name": "TechHalla",
-          "hits": 25,
-          "days": 14,
-          "views": 1311125,
+          "hits": 27,
+          "days": 15,
+          "views": 1419381,
           "best": 401489,
           "best_url": "https://x.com/techhalla/status/2121579235085259242"
         },
         {
           "handle": "@azed_ai",
           "name": "Amira Zairi",
-          "hits": 29,
-          "days": 14,
-          "views": 316771,
+          "hits": 30,
+          "days": 15,
+          "views": 329301,
           "best": 45172,
           "best_url": "https://x.com/azed_ai/status/2118615382101762484"
         },
@@ -389,11 +303,11 @@
         {
           "handle": "@maxescu",
           "name": "Alex Patrascu",
-          "hits": 5,
-          "days": 3,
-          "views": 40573,
-          "best": 10402,
-          "best_url": "https://x.com/maxescu/status/2123023232035135927"
+          "hits": 6,
+          "days": 4,
+          "views": 58919,
+          "best": 18346,
+          "best_url": "https://x.com/maxescu/status/2123517448968081910"
         },
         {
           "handle": "@MayorKingAI",
@@ -448,112 +362,112 @@
   },
   "day_roster": [
     {
-      "handle": "@minchoi",
+      "handle": "@techhalla",
       "posts": 5,
-      "total_views": 102459,
-      "best_views": 40897
+      "total_views": 119423,
+      "best_views": 99309
     },
     {
-      "handle": "@techhalla",
-      "posts": 2,
-      "total_views": 31561,
-      "best_views": 26294
+      "handle": "@maxescu",
+      "posts": 3,
+      "total_views": 20688,
+      "best_views": 18346
     },
     {
       "handle": "@EHuanglu",
       "posts": 1,
-      "total_views": 20077,
-      "best_views": 20077
+      "total_views": 16467,
+      "best_views": 16467
     },
     {
-      "handle": "@maxescu",
-      "posts": 8,
-      "total_views": 22537,
-      "best_views": 10402
-    },
-    {
-      "handle": "@AIWarper",
-      "posts": 4,
-      "total_views": 12596,
-      "best_views": 5051
+      "handle": "@minchoi",
+      "posts": 1,
+      "total_views": 14771,
+      "best_views": 14771
     },
     {
       "handle": "@azed_ai",
       "posts": 5,
-      "total_views": 13815,
-      "best_views": 4560
+      "total_views": 21583,
+      "best_views": 12530
     },
     {
-      "handle": "@ai_artworkgen",
-      "posts": 2,
-      "total_views": 4948,
-      "best_views": 4066
+      "handle": "@AIWarper",
+      "posts": 3,
+      "total_views": 4516,
+      "best_views": 2014
     },
     {
       "handle": "@CharaspowerAI",
       "posts": 4,
-      "total_views": 5704,
-      "best_views": 1619
+      "total_views": 5746,
+      "best_views": 1589
     },
     {
       "handle": "@MayorKingAI",
-      "posts": 2,
-      "total_views": 1695,
-      "best_views": 852
+      "posts": 1,
+      "total_views": 1459,
+      "best_views": 1459
+    },
+    {
+      "handle": "@ai_artworkgen",
+      "posts": 1,
+      "total_views": 921,
+      "best_views": 921
     }
   ],
   "you_rank": null,
   "trend_input_only_posts": [],
   "drafts": [
     {
-      "draft_en": "None of these VFX shots are real. 🤯\n\nExplosions, collapsing buildings, a dragon over Marseille.\n\nAll made with AI. Full prompts below. Bookmark this 👇",
+      "draft_en": "Gladiator but it's 1974. 🏛️\n\nGrainy film, zoom lenses, a sword-and-sandal epic from the Cinecittà era.\n\n100% AI. Which film should I time-travel next?",
       "draft_keywords": [
-        "AI VFX",
-        "Kling",
-        "not real",
-        "full prompts"
-      ],
-      "video_tip": "15s montage of 5-6 of your best VFX shots, 2s each, a tiny 'AI' counter in the corner; end on the most realistic one held 3s. Prompts numbered in the replies so people bookmark."
-    },
-    {
-      "draft_en": "Which AI model does the best fire & smoke?\n\nSame VFX prompt. 8 models. Random order.\n\nGuess the winner before you read the prompt 👇",
-      "draft_keywords": [
-        "AI VFX",
-        "comparison",
-        "Kling Image 4.0",
-        "Seedance"
-      ],
-      "video_tip": "Carousel or 2x4 grid of the same fire/smoke shot, unlabeled; reveal model names + the prompt in reply 1 (the 'random order' hook drove 152 bookmarks for maxescu)."
-    },
-    {
-      "draft_en": "GTA 6 drops tomorrow.\n\nSo I made the Vice City trailer I wanted to see. 🌴\n\n100% AI. Which shot would you put in the game?",
-      "draft_keywords": [
-        "GTA 6",
+        "but it's 1974",
         "AI filmmaking",
-        "AI video",
-        "pop culture"
+        "retro",
+        "AI video"
       ],
-      "video_tip": "10-12s faux trailer: neon Vice City beach, a chase, a title card. Avoid official logos/assets; post today while the release talk is peaking."
+      "video_tip": "12-15s faux 70s trailer: film grain, gate weave, soft halation, a hand-painted title card at the end. Original characters/costumes inspired by the era, no actor likenesses or official assets. Ask for the next film in the post to farm replies."
     },
     {
-      "draft_en": "This AI shot looks better than a $200M blockbuster.\n\nI'm not saying that to be edgy.\n\nPut it next to the real one and tell me I'm wrong 👇",
+      "draft_en": "Same VFX prompt. 6 models.\n\nModel choice changes everything: the fire, the debris, the camera.\n\nWhich one would you ship? 👇",
+      "draft_keywords": [
+        "same prompt",
+        "model comparison",
+        "AI VFX",
+        "Seedance 2.5"
+      ],
+      "video_tip": "2x3 grid of the same explosion/collapse shot, labeled small in a corner, synced to one beat; prompt in reply 1 so people bookmark."
+    },
+    {
+      "draft_en": "AI VFX is ready for the big screen.\n\nThis shot would have taken a VFX team weeks.\n\nI made it in an afternoon with Seedance 2.5 4K. Breakdown 👇",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "4K",
+        "AI VFX",
+        "cinema"
+      ],
+      "video_tip": "8s 4K hero shot full-frame, then a 6s breakdown: base plate -> prompt -> final. Only claim the times and tools you actually used."
+    },
+    {
+      "draft_en": "Marseille but it's 1977. 🌊\n\nVieux-Port, a Peugeot chase, sunburnt film stock.\n\nMade entirely with AI. Should I do Paris next?",
+      "draft_keywords": [
+        "but it's 1977",
+        "AI video",
+        "retro",
+        "Marseille"
+      ],
+      "video_tip": "Local twist on the retro format: 10s of 4-5 shots (port, chase, rooftop, title card) with a 70s Euro-crime color grade; your home city is an angle nobody else on the watchlist has."
+    },
+    {
+      "draft_en": "Hot take: the best AI VFX right now isn't on X.\n\nIt's buried in Discord servers and DMs.\n\nWhere do you actually share your best work? 👇",
       "draft_keywords": [
         "AI VFX",
-        "better than Hollywood",
-        "AI filmmaking",
-        "comparison"
+        "community",
+        "platform",
+        "debate"
       ],
-      "video_tip": "Split screen: your AI VFX shot vs a description-matched 'blockbuster style' reference you made yourself (no copyrighted footage), 8s, then your shot full-frame."
-    },
-    {
-      "draft_en": "I made a full VFX trailer from one chat.\n\nScript, shots, music, cut. One AI agent did the boring parts.\n\nI did the taste. Here's the workflow 👇",
-      "draft_keywords": [
-        "AI agent",
-        "MCP",
-        "AI video",
-        "workflow"
-      ],
-      "video_tip": "20s: 3s screen capture of the chat, then the finished trailer; workflow steps (tools in order) in reply 1. Only claim the steps you actually automated."
+      "video_tip": "Open with a 5s reel of your best Saturday Challenge entries, then text card with the question; ties the platform debate to your community series."
     }
   ],
   "excluded_hits": []
