@@ -1,161 +1,257 @@
 {
-  "title": "Daily X narrative digest - 2026-11-19",
-  "date": "2026-11-19",
+  "title": "Daily X narrative digest - 2026-11-20",
+  "date": "2026-11-20",
   "timezone": "Europe/Paris",
-  "updated": "2026-11-20T09:18:21+01:00",
+  "updated": "2026-11-21T09:18:17+01:00",
   "brand_title": "LudovicCreator X Virality Score",
   "brand_handle": "@LudovicCreator",
   "hits": [
     {
-      "handle": "@techhalla",
-      "name": "TechHalla",
-      "url": "https://x.com/techhalla/status/2123448539439337531",
-      "status_url": "https://x.com/techhalla/status/2123448539439337531",
-      "text": "Pulp Fiction but it's 1973 🔫 https://t.co/q0L6p07Nnb",
-      "original_en": "Pulp Fiction but it's 1973 🔫 https://t.co/q0L6p07Nnb",
-      "views": 99309,
-      "likes": 625,
-      "reposts": 65,
-      "bookmarks": 129,
-      "created_at": "2026-11-19T16:09:18.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@maxescu",
-      "name": "Alex Patrascu",
-      "url": "https://x.com/maxescu/status/2123517448968081910",
-      "status_url": "https://x.com/maxescu/status/2123517448968081910",
-      "text": "Model selection is important these days.\n\nExactly the same prompts: https://t.co/Fmjmg9Dydq",
-      "original_en": "Model selection is important these days.\n\nExactly the same prompts: https://t.co/Fmjmg9Dydq",
-      "views": 18346,
-      "likes": 119,
-      "reposts": 10,
-      "bookmarks": 66,
-      "created_at": "2026-11-19T20:43:07.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
       "handle": "@EHuanglu",
       "name": "el.cine",
-      "url": "https://x.com/EHuanglu/status/2123268272011514240",
-      "status_url": "https://x.com/EHuanglu/status/2123268272011514240",
-      "text": "AI video is now ready for cinema\n\n4K documentary used to take months and millions\n\nnow Seedance 2.5 4K made in 3 days.. and Flash is twice as fast at 34% lower cost\n\nhere's why its crazy: https://t.co/2Wjx4lHf9o",
-      "original_en": "AI video is now ready for cinema\n\n4K documentary used to take months and millions\n\nnow Seedance 2.5 4K made in 3 days.. and Flash is twice as fast at 34% lower cost\n\nhere's why its crazy: https://t.co/2Wjx4lHf9o",
-      "views": 16467,
-      "likes": 210,
-      "reposts": 26,
-      "bookmarks": 110,
-      "created_at": "2026-11-19T04:12:59.000Z",
+      "url": "https://x.com/EHuanglu/status/2123637413771985208",
+      "status_url": "https://x.com/EHuanglu/status/2123637413771985208",
+      "text": "crazy now AI can make 4k movies https://t.co/nAtAYt9P0j",
+      "original_en": "crazy now AI can make 4k movies https://t.co/nAtAYt9P0j",
+      "views": 1249265,
+      "likes": 4731,
+      "reposts": 304,
+      "bookmarks": 1494,
+      "created_at": "2026-11-20T04:39:49.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
       "handle": "@minchoi",
       "name": "Min Choi",
-      "url": "https://x.com/minchoi/status/2123280192281936120",
-      "status_url": "https://x.com/minchoi/status/2123280192281936120",
-      "text": "The Claude Code team says Claude writes and reviews ~90% of their code.\n\nNobody reads every diff. Verification does the work.\n\nThese 7 rules are what let them run dozens of Claudes in parallel instead of 1 or 2 🧵\n\nBookmark this one. https://t.co/LO0HYaKpXb",
-      "original_en": "The Claude Code team says Claude writes and reviews ~90% of their code.\n\nNobody reads every diff. Verification does the work.\n\nThese 7 rules are what let them run dozens of Claudes in parallel instead of 1 or 2 🧵\n\nBookmark this one. https://t.co/LO0HYaKpXb",
-      "views": 14771,
-      "likes": 58,
-      "reposts": 5,
-      "bookmarks": 64,
-      "created_at": "2026-11-19T05:00:21.000Z",
+      "url": "https://x.com/minchoi/status/2123630368620220846",
+      "status_url": "https://x.com/minchoi/status/2123630368620220846",
+      "text": "Less than 39 hours ago, Google dropped Gemini 4 Neon.\n\nPeople feel it's \"magical\" and coming up with wild use cases.\n\n10 examples:",
+      "original_en": "Less than 39 hours ago, Google dropped Gemini 4 Neon.\n\nPeople feel it's \"magical\" and coming up with wild use cases.\n\n10 examples:",
+      "views": 102226,
+      "likes": 574,
+      "reposts": 32,
+      "bookmarks": 441,
+      "created_at": "2026-11-20T04:11:49.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
-      "handle": "@azed_ai",
-      "name": "Amira Zairi",
-      "url": "https://x.com/azed_ai/status/2123456298234564922",
-      "status_url": "https://x.com/azed_ai/status/2123456298234564922",
-      "text": "Is X even worth our time anymore?\n\nEvery update seems to make the experience worse, while other social platforms keep improving\n\nI've already started posting elsewhere, and in 2027, I want to be much more consistent across different platforms\n\nI genuinely don't think X is a good",
-      "original_en": "Is X even worth our time anymore?\n\nEvery update seems to make the experience worse, while other social platforms keep improving\n\nI've already started posting elsewhere, and in 2027, I want to be much more consistent across different platforms\n\nI genuinely don't think X is a good",
-      "views": 12530,
-      "likes": 185,
-      "reposts": 4,
-      "bookmarks": 16,
-      "created_at": "2026-11-19T16:40:08.000Z",
+      "handle": "@minchoi",
+      "name": "Min Choi",
+      "url": "https://x.com/minchoi/status/2123580166693687382",
+      "status_url": "https://x.com/minchoi/status/2123580166693687382",
+      "text": "Anthropic IPO $1.5T valuation.\n\nSam: https://t.co/SJUaPyF2y9",
+      "original_en": "Anthropic IPO $1.5T valuation.\n\nSam: https://t.co/SJUaPyF2y9",
+      "views": 24643,
+      "likes": 101,
+      "reposts": 10,
+      "bookmarks": 28,
+      "created_at": "2026-11-20T00:52:20.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@minchoi",
+      "name": "Min Choi",
+      "url": "https://x.com/minchoi/status/2123816724130599384",
+      "status_url": "https://x.com/minchoi/status/2123816724130599384",
+      "text": "Game dev will never be the same.\n\nPeople are building playable 3D games in hours and days now, mostly just by prompting AI.\n\n10 wild examples: 🧵👇 https://t.co/y3tHT2CgjE",
+      "original_en": "Game dev will never be the same.\n\nPeople are building playable 3D games in hours and days now, mostly just by prompting AI.\n\n10 wild examples: 🧵👇 https://t.co/y3tHT2CgjE",
+      "views": 17515,
+      "likes": 93,
+      "reposts": 6,
+      "bookmarks": 80,
+      "created_at": "2026-11-20T16:32:20.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@minchoi",
+      "name": "Min Choi",
+      "url": "https://x.com/minchoi/status/2123863240166035589",
+      "status_url": "https://x.com/minchoi/status/2123863240166035589",
+      "text": "Ok Google cooked with Gemini 4 Neon",
+      "original_en": "Ok Google cooked with Gemini 4 Neon",
+      "views": 16846,
+      "likes": 334,
+      "reposts": 5,
+      "bookmarks": 7,
+      "created_at": "2026-11-20T19:37:10.000Z",
       "highlight": true,
       "self_quote": false
     },
     {
       "handle": "@techhalla",
       "name": "TechHalla",
-      "url": "https://x.com/techhalla/status/2123337289984344335",
-      "status_url": "https://x.com/techhalla/status/2123337289984344335",
-      "text": "Tintin but it's 1977 ⛵️ https://t.co/SUFFBVYv6k",
-      "original_en": "Tintin but it's 1977 ⛵️ https://t.co/SUFFBVYv6k",
-      "views": 8947,
-      "likes": 352,
-      "reposts": 39,
-      "bookmarks": 73,
-      "created_at": "2026-11-19T08:47:14.000Z",
+      "url": "https://x.com/techhalla/status/2123744345803391268",
+      "status_url": "https://x.com/techhalla/status/2123744345803391268",
+      "text": "been testing tons of ways to make the perfect full lipsynced music video\n\nand this is the one that works best. Magnific tutorial 👇 https://t.co/9Vwmkg4Vg1",
+      "original_en": "been testing tons of ways to make the perfect full lipsynced music video\n\nand this is the one that works best. Magnific tutorial 👇 https://t.co/9Vwmkg4Vg1",
+      "views": 15008,
+      "likes": 215,
+      "reposts": 26,
+      "bookmarks": 287,
+      "created_at": "2026-11-20T11:44:43.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@Salmaaboukarr",
+      "name": "Salma",
+      "url": "https://x.com/Salmaaboukarr/status/2123572404030931340",
+      "status_url": "https://x.com/Salmaaboukarr/status/2123572404030931340",
+      "text": "this is what I’ve been waiting for !! 👏 https://t.co/na8a4UrLxL",
+      "original_en": "this is what I’ve been waiting for !! 👏 https://t.co/na8a4UrLxL",
+      "views": 14682,
+      "likes": 142,
+      "reposts": 3,
+      "bookmarks": 160,
+      "created_at": "2026-11-20T00:21:29.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@minchoi",
+      "name": "Min Choi",
+      "url": "https://x.com/minchoi/status/2123909096629776597",
+      "status_url": "https://x.com/minchoi/status/2123909096629776597",
+      "text": "This is wild.\n\nHuman playing GTA 6 using Neuralink brain chip 🤯\nhttps://t.co/kXeMcwHdhj https://t.co/HHy8rd7E1d",
+      "original_en": "This is wild.\n\nHuman playing GTA 6 using Neuralink brain chip 🤯\nhttps://t.co/kXeMcwHdhj https://t.co/HHy8rd7E1d",
+      "views": 8537,
+      "likes": 56,
+      "reposts": 5,
+      "bookmarks": 13,
+      "created_at": "2026-11-20T22:39:23.000Z",
+      "highlight": false,
+      "self_quote": false
+    },
+    {
+      "handle": "@EHuanglu",
+      "name": "el.cine",
+      "url": "https://x.com/EHuanglu/status/2123827083378057553",
+      "status_url": "https://x.com/EHuanglu/status/2123827083378057553",
+      "text": "fable 5.2 + seedance 2.5 is incredible https://t.co/ZeumhKIhsG https://t.co/ySXu1erw5t",
+      "original_en": "fable 5.2 + seedance 2.5 is incredible https://t.co/ZeumhKIhsG https://t.co/ySXu1erw5t",
+      "views": 6058,
+      "likes": 89,
+      "reposts": 8,
+      "bookmarks": 33,
+      "created_at": "2026-11-20T17:13:30.000Z",
       "highlight": false,
       "self_quote": false
     }
   ],
   "virals": [],
-  "outsiders": [],
+  "outsiders": [
+    {
+      "handle": "@GoooSAI",
+      "name": "GoosAi",
+      "url": "https://x.com/GoooSAI/status/2123820915515334803",
+      "status_url": "https://x.com/GoooSAI/status/2123820915515334803",
+      "text": "HOLY FUCK! THIS MOUNTAIN GOAT HAS THE MOST IMPOSSIBLE HORNS I'VE EVER SEEN!\n\nAt first, it looks like ordinary wildlife footage from a desert mountain range.\n\nBut look at its head.\n\n→ A large wild goat stands on rocky ground beside a small desert watering hole\n\n→ Its enormous https://t.co/ejARjcK2Ed https://t.co/4iCpxs3nVD",
+      "original_en": "HOLY FUCK! THIS MOUNTAIN GOAT HAS THE MOST IMPOSSIBLE HORNS I'VE EVER SEEN!\n\nAt first, it looks like ordinary wildlife footage from a desert mountain range.\n\nBut look at its head.\n\n→ A large wild goat stands on rocky ground beside a small desert watering hole\n\n→ Its enormous https://t.co/ejARjcK2Ed https://t.co/4iCpxs3nVD",
+      "views": 279511,
+      "likes": 65,
+      "reposts": 6,
+      "bookmarks": 30,
+      "created_at": "2026-11-20T16:48:59.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@EnvolDev",
+      "name": "Tony",
+      "url": "https://x.com/EnvolDev/status/2123513643463815333",
+      "status_url": "https://x.com/EnvolDev/status/2123513643463815333",
+      "text": "Gemini 4 Neon vs GPT-6.2 Sol vs Opus 5.5\n\nGemini 4 Neon is out. 👀\n\nSame Alpine Gold prompt:\nGemini 4 Neon: $11.84 · 1h 31m 11s\nGPT-6.2 Sol: $2.07 · 30m 47s\nOpus 5.5: $31.85 · 2h 45m 42s\n\nGPT-6.2 Sol: over 15x cheaper and over 5x faster than Opus 5.5. 😱\nGPT-6.2 Sol: almost 6x https://t.co/PzjCo04iSs https://t.co/1mrbqqmU0F",
+      "original_en": "Gemini 4 Neon vs GPT-6.2 Sol vs Opus 5.5\n\nGemini 4 Neon is out. 👀\n\nSame Alpine Gold prompt:\nGemini 4 Neon: $11.84 · 1h 31m 11s\nGPT-6.2 Sol: $2.07 · 30m 47s\nOpus 5.5: $31.85 · 2h 45m 42s\n\nGPT-6.2 Sol: over 15x cheaper and over 5x faster than Opus 5.5. 😱\nGPT-6.2 Sol: almost 6x https://t.co/PzjCo04iSs https://t.co/1mrbqqmU0F",
+      "views": 56386,
+      "likes": 230,
+      "reposts": 11,
+      "bookmarks": 94,
+      "created_at": "2026-11-19T20:28:00.000Z",
+      "highlight": true,
+      "self_quote": false
+    },
+    {
+      "handle": "@omidaziz",
+      "name": "omid",
+      "url": "https://x.com/omidaziz/status/2123497594324435150",
+      "status_url": "https://x.com/omidaziz/status/2123497594324435150",
+      "text": "I'm testing AI video models on handwriting. None of them get it right yet.\n\nSeedance 2.5 comes closest.\n\nKling 4 skips and merges words.\n\nOmni 1.2 Flash cheats and generates words without writing them. https://t.co/ryW1dHx1SA",
+      "original_en": "I'm testing AI video models on handwriting. None of them get it right yet.\n\nSeedance 2.5 comes closest.\n\nKling 4 skips and merges words.\n\nOmni 1.2 Flash cheats and generates words without writing them. https://t.co/ryW1dHx1SA",
+      "views": 28132,
+      "likes": 187,
+      "reposts": 11,
+      "bookmarks": 61,
+      "created_at": "2026-11-19T19:24:13.000Z",
+      "highlight": true,
+      "self_quote": false
+    }
+  ],
   "patterns": [
-    "Retro re-imagining format exploded: techhalla's 'Pulp Fiction but it's 1973' hit 99.3K / 625 likes / 129 bookmarks (top of the day by 5x), and the same format 'Tintin but it's 1977' added 8.9K / 352 likes. Formula: famous IP + 'but it's 197X' + zero tool talk.",
-    "Same-prompt model comparison keeps earning saves: maxescu's 'Model selection is important. Exactly the same prompts' 18.3K / 66 bookmarks.",
-    "Cinema-grade claim + new model version: EHuanglu's 'AI video is now ready for cinema' (Seedance 2.5 4K documentary in 3 days) 16.5K / 110 bookmarks, best bookmark ratio among AI-video hits.",
-    "Off-niche but strong: minchoi's Claude Code '7 rules' thread 14.8K; azed_ai's platform-meta question 'Is X even worth our time anymore?' 12.5K / 185 likes (community debate bait).",
-    "Outsider search sample was weak (recent low-view posts only); no outsider cleared 5K."
+    "4K AI cinema claim went mega-viral: EHuanglu's 'crazy now AI can make 4k movies' hit 1.25M views / 4.7K likes / 1.5K bookmarks, ~12x the next post. Day 2 of the 'AI is ready for cinema' meta (after his 16.5K on 19.11). Formula: one-line awe claim + raw 4K clip, no tool talk.",
+    "Gemini 4 Neon launch wave: minchoi's '10 examples' roundup 102K / 441 bookmarks + 'Google cooked' 16.8K; outsiders' same-prompt model comparisons (Gemini 4 Neon vs GPT-6.2 vs Opus 5.5, 56K) ride the same news.",
+    "Tutorials earn saves: techhalla's Magnific full lipsynced music video tutorial 15K / 287 bookmarks (bookmarks > likes), plus a one-prompt Magnific Illusion background swap.",
+    "'10 wild examples' listicle threads keep working for minchoi (game dev by prompting 17.5K) - curation format, off-niche but repeatable.",
+    "Seedance 2.5 everywhere: EHuanglu's fable 5.2 + Seedance 2.5 (6K), azed_ai's 30s Seedance 2.5 4K horror short (2.7K), outsider omidaziz's handwriting test across video models (28K)."
   ],
   "no_hits": [
     {
+      "handle": "@maxescu",
+      "reason": "No original on 2026-11-20 reached 5,000 views; highest observed was 1,734 views.",
+      "max_views": 1734
+    },
+    {
+      "handle": "@azed_ai",
+      "reason": "No original on 2026-11-20 reached 5,000 views; highest observed was 4,133 views.",
+      "max_views": 4133
+    },
+    {
       "handle": "@CharaspowerAI",
-      "reason": "No original on 2026-11-19 reached 5,000 views; highest observed was 1,589 views.",
-      "max_views": 1589
+      "reason": "No original on 2026-11-20 reached 5,000 views; highest observed was 1,603 views.",
+      "max_views": 1603
     },
     {
       "handle": "@MayorKingAI",
-      "reason": "No original on 2026-11-19 reached 5,000 views; highest observed was 1,459 views.",
-      "max_views": 1459
+      "reason": "No original on 2026-11-20 reached 5,000 views; highest observed was 2,961 views.",
+      "max_views": 2961
     },
     {
       "handle": "@CoffeeVectors",
-      "reason": "No original posts found on 2026-11-19.",
-      "max_views": 0
-    },
-    {
-      "handle": "@Salmaaboukarr",
-      "reason": "No original posts found on 2026-11-19.",
+      "reason": "No original posts found on 2026-11-20.",
       "max_views": 0
     },
     {
       "handle": "@AIWarper",
-      "reason": "No original on 2026-11-19 reached 5,000 views; highest observed was 2,014 views.",
-      "max_views": 2014
+      "reason": "No original on 2026-11-20 reached 5,000 views; highest observed was 2,458 views.",
+      "max_views": 2458
     },
     {
       "handle": "@ai_artworkgen",
-      "reason": "No original on 2026-11-19 reached 5,000 views; highest observed was 921 views.",
-      "max_views": 921
+      "reason": "No original posts found on 2026-11-20.",
+      "max_views": 0
     }
   ],
-  "virals_narrative": "Thursday: 6 watchlist hits >=5K, 5 stars. techhalla's retro re-imagining 'Pulp Fiction but it's 1973' dominated at 99.3K / 625 likes (+ 'Tintin but it's 1977' 8.9K). maxescu's same-prompt model comparison 18.3K, EHuanglu's Seedance 2.5 4K 'ready for cinema' 16.5K / 110 bookmarks, minchoi's Claude Code rules 14.8K, azed_ai's 'Is X worth it?' 12.5K. No original from CoffeeVectors or Salmaaboukarr on D.",
-  "narrative_synthesis": "Thursday: 6 watchlist hits >=5K, 5 stars. techhalla's retro re-imagining 'Pulp Fiction but it's 1973' dominated at 99.3K / 625 likes (+ 'Tintin but it's 1977' 8.9K). maxescu's same-prompt model comparison 18.3K, EHuanglu's Seedance 2.5 4K 'ready for cinema' 16.5K / 110 bookmarks, minchoi's Claude Code rules 14.8K, azed_ai's 'Is X worth it?' 12.5K. No original from CoffeeVectors or Salmaaboukarr on D.",
+  "virals_narrative": "Friday: 9 watchlist hits >=5K, 7 stars. EHuanglu's 'crazy now AI can make 4k movies' exploded to 1.25M / 4.7K likes / 1.5K bookmarks. minchoi rode the Gemini 4 Neon launch (102K '10 examples', 16.8K) plus Anthropic IPO (24.6K) and game-dev thread (17.5K). techhalla's Magnific lipsync music video tutorial 15K / 287 bookmarks, Salmaaboukarr 14.7K. No original from CoffeeVectors or ai_artworkgen on D; azed_ai peaked at 4.1K.",
+  "narrative_synthesis": "Friday: 9 watchlist hits >=5K, 7 stars. EHuanglu's 'crazy now AI can make 4k movies' exploded to 1.25M / 4.7K likes / 1.5K bookmarks. minchoi rode the Gemini 4 Neon launch (102K '10 examples', 16.8K) plus Anthropic IPO (24.6K) and game-dev thread (17.5K). techhalla's Magnific lipsync music video tutorial 15K / 287 bookmarks, Salmaaboukarr 14.7K. No original from CoffeeVectors or ai_artworkgen on D; azed_ai peaked at 4.1K.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 6,
-  "outsiders_count": 0,
-  "previous_day": "2026-11-18",
+  "hits_count": 9,
+  "outsiders_count": 3,
+  "previous_day": "2026-11-19",
   "leaderboards": {
-    "as_of": "2026-11-19",
+    "as_of": "2026-11-20",
     "tracking_start": "2026-09-13",
     "days_included": [
-      "2026-11-13",
       "2026-11-14",
       "2026-11-15",
       "2026-11-16",
       "2026-11-17",
       "2026-11-18",
-      "2026-11-19"
+      "2026-11-19",
+      "2026-11-20"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -174,41 +270,42 @@
       "2026-11-15",
       "2026-11-16",
       "2026-11-18",
-      "2026-11-19"
+      "2026-11-19",
+      "2026-11-20"
     ],
     "week": {
-      "label": "Rolling week · Nov 13–Nov 19",
+      "label": "Rolling week · Nov 14–Nov 20",
       "range": [
-        "2026-11-13",
-        "2026-11-19"
+        "2026-11-14",
+        "2026-11-20"
       ],
       "entries": [
         {
+          "handle": "@EHuanglu",
+          "name": "el.cine",
+          "hits": 9,
+          "days": 6,
+          "views": 1387989,
+          "best": 1249265,
+          "best_url": "https://x.com/EHuanglu/status/2123637413771985208"
+        },
+        {
           "handle": "@techhalla",
           "name": "TechHalla",
-          "hits": 9,
-          "days": 5,
-          "views": 607886,
+          "hits": 10,
+          "days": 6,
+          "views": 622894,
           "best": 401489,
           "best_url": "https://x.com/techhalla/status/2121579235085259242"
         },
         {
           "handle": "@minchoi",
           "name": "Min Choi",
-          "hits": 16,
-          "days": 5,
-          "views": 404104,
+          "hits": 21,
+          "days": 6,
+          "views": 573871,
           "best": 135208,
           "best_url": "https://x.com/minchoi/status/2121634011676356615"
-        },
-        {
-          "handle": "@EHuanglu",
-          "name": "el.cine",
-          "hits": 7,
-          "days": 5,
-          "views": 132666,
-          "best": 55051,
-          "best_url": "https://x.com/EHuanglu/status/2121627112981569577"
         },
         {
           "handle": "@azed_ai",
@@ -236,6 +333,15 @@
           "views": 20176,
           "best": 7827,
           "best_url": "https://x.com/AIWarper/status/2122352975717060822"
+        },
+        {
+          "handle": "@Salmaaboukarr",
+          "name": "Salma",
+          "hits": 1,
+          "days": 1,
+          "views": 14682,
+          "best": 14682,
+          "best_url": "https://x.com/Salmaaboukarr/status/2123572404030931340"
         }
       ]
     },
@@ -243,33 +349,33 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-19"
+        "2026-11-20"
       ],
       "entries": [
         {
           "handle": "@EHuanglu",
           "name": "el.cine",
-          "hits": 25,
-          "days": 15,
-          "views": 3353733,
+          "hits": 27,
+          "days": 16,
+          "views": 4609056,
           "best": 1374003,
           "best_url": "https://x.com/EHuanglu/status/2119090260894515273"
         },
         {
           "handle": "@minchoi",
           "name": "Min Choi",
-          "hits": 57,
-          "days": 17,
-          "views": 2876024,
+          "hits": 62,
+          "days": 18,
+          "views": 3045791,
           "best": 1520323,
           "best_url": "https://x.com/minchoi/status/2117633564736938471"
         },
         {
           "handle": "@techhalla",
           "name": "TechHalla",
-          "hits": 27,
-          "days": 15,
-          "views": 1419381,
+          "hits": 28,
+          "days": 16,
+          "views": 1434389,
           "best": 401489,
           "best_url": "https://x.com/techhalla/status/2121579235085259242"
         },
@@ -310,6 +416,15 @@
           "best_url": "https://x.com/maxescu/status/2123517448968081910"
         },
         {
+          "handle": "@Salmaaboukarr",
+          "name": "Salma",
+          "hits": 2,
+          "days": 2,
+          "views": 28060,
+          "best": 14682,
+          "best_url": "https://x.com/Salmaaboukarr/status/2123572404030931340"
+        },
+        {
           "handle": "@MayorKingAI",
           "name": "MayorkingAI",
           "hits": 2,
@@ -317,15 +432,6 @@
           "views": 17316,
           "best": 10867,
           "best_url": "https://x.com/MayorKingAI/status/2119871192861737223"
-        },
-        {
-          "handle": "@Salmaaboukarr",
-          "name": "Salma",
-          "hits": 1,
-          "days": 1,
-          "views": 13378,
-          "best": 13378,
-          "best_url": "https://x.com/Salmaaboukarr/status/2120250975990731245"
         }
       ]
     }
@@ -362,112 +468,112 @@
   },
   "day_roster": [
     {
-      "handle": "@techhalla",
-      "posts": 5,
-      "total_views": 119423,
-      "best_views": 99309
-    },
-    {
-      "handle": "@maxescu",
-      "posts": 3,
-      "total_views": 20688,
-      "best_views": 18346
-    },
-    {
       "handle": "@EHuanglu",
-      "posts": 1,
-      "total_views": 16467,
-      "best_views": 16467
+      "posts": 2,
+      "total_views": 1255323,
+      "best_views": 1249265
     },
     {
       "handle": "@minchoi",
+      "posts": 5,
+      "total_views": 169767,
+      "best_views": 102226
+    },
+    {
+      "handle": "@techhalla",
+      "posts": 2,
+      "total_views": 18263,
+      "best_views": 15008
+    },
+    {
+      "handle": "@Salmaaboukarr",
       "posts": 1,
-      "total_views": 14771,
-      "best_views": 14771
+      "total_views": 14682,
+      "best_views": 14682
     },
     {
       "handle": "@azed_ai",
-      "posts": 5,
-      "total_views": 21583,
-      "best_views": 12530
-    },
-    {
-      "handle": "@AIWarper",
-      "posts": 3,
-      "total_views": 4516,
-      "best_views": 2014
-    },
-    {
-      "handle": "@CharaspowerAI",
-      "posts": 4,
-      "total_views": 5746,
-      "best_views": 1589
+      "posts": 6,
+      "total_views": 14156,
+      "best_views": 4133
     },
     {
       "handle": "@MayorKingAI",
       "posts": 1,
-      "total_views": 1459,
-      "best_views": 1459
+      "total_views": 2961,
+      "best_views": 2961
     },
     {
-      "handle": "@ai_artworkgen",
-      "posts": 1,
-      "total_views": 921,
-      "best_views": 921
+      "handle": "@AIWarper",
+      "posts": 2,
+      "total_views": 4587,
+      "best_views": 2458
+    },
+    {
+      "handle": "@maxescu",
+      "posts": 3,
+      "total_views": 4313,
+      "best_views": 1734
+    },
+    {
+      "handle": "@CharaspowerAI",
+      "posts": 4,
+      "total_views": 5913,
+      "best_views": 1603
     }
   ],
   "you_rank": null,
   "trend_input_only_posts": [],
   "drafts": [
     {
-      "draft_en": "Gladiator but it's 1974. 🏛️\n\nGrainy film, zoom lenses, a sword-and-sandal epic from the Cinecittà era.\n\n100% AI. Which film should I time-travel next?",
+      "draft_en": "AI can now make 4K VFX shots.\n\nNo studio. No render farm. Just me in Marseille.\n\nThis is what one afternoon looks like now 👇",
       "draft_keywords": [
-        "but it's 1974",
+        "4K",
+        "AI VFX",
         "AI filmmaking",
-        "retro",
-        "AI video"
+        "Seedance 2.5"
       ],
-      "video_tip": "12-15s faux 70s trailer: film grain, gate weave, soft halation, a hand-painted title card at the end. Original characters/costumes inspired by the era, no actor likenesses or official assets. Ask for the next film in the post to farm replies."
+      "video_tip": "Lead with your single best 4K hero shot, full-frame, 8-10s, no text overlay for the first 2s; mirror EHuanglu's one-line awe format. Only claim the tools and time you actually used."
     },
     {
-      "draft_en": "Same VFX prompt. 6 models.\n\nModel choice changes everything: the fire, the debris, the camera.\n\nWhich one would you ship? 👇",
+      "draft_en": "Same VFX prompt. 4 video models.\n\nSeedance 2.5 vs Kling vs Veo vs Grok Imagine.\n\nOne of them nailed the debris physics. Which one? 👇",
       "draft_keywords": [
         "same prompt",
         "model comparison",
-        "AI VFX",
-        "Seedance 2.5"
+        "Seedance 2.5",
+        "Kling"
       ],
-      "video_tip": "2x3 grid of the same explosion/collapse shot, labeled small in a corner, synced to one beat; prompt in reply 1 so people bookmark."
+      "video_tip": "2x2 grid of the same explosion/collapse shot, small labels in a corner, synced to one beat; prompt in reply 1 so people bookmark."
     },
     {
-      "draft_en": "AI VFX is ready for the big screen.\n\nThis shot would have taken a VFX team weeks.\n\nI made it in an afternoon with Seedance 2.5 4K. Breakdown 👇",
+      "draft_en": "How I build a full VFX shot with AI, step by step.\n\nPlate -> prompt -> Magnific upscale -> final grade.\n\nFull breakdown 🧵👇",
       "draft_keywords": [
-        "Seedance 2.5",
+        "Magnific",
+        "tutorial",
+        "AI VFX",
+        "breakdown"
+      ],
+      "video_tip": "Tutorial format earned 287 bookmarks for techhalla: 15s split-screen breakdown (before/after wipe at each step), then the steps as a thread. Save-bait > like-bait."
+    },
+    {
+      "draft_en": "Gemini 4 Neon just dropped.\n\nI asked it to write a VFX shot list, then made every shot with AI video.\n\nHere's the result 👇",
+      "draft_keywords": [
+        "Gemini 4 Neon",
+        "AI video",
+        "AI filmmaking",
+        "shot list"
+      ],
+      "video_tip": "Ride the launch wave fast: screenshot of the shot list for 2s, then 4-5 generated shots matching it. Only post if you really ran it; the news window is ~48h."
+    },
+    {
+      "draft_en": "Saturday Challenge: one prompt, your best 4K shot.\n\nTheme: impossible weather over a real city.\n\nDrop yours below, best one gets featured next week 👇",
+      "draft_keywords": [
+        "Saturday Challenge",
         "4K",
         "AI VFX",
-        "cinema"
+        "prompt share"
       ],
-      "video_tip": "8s 4K hero shot full-frame, then a 6s breakdown: base plate -> prompt -> final. Only claim the times and tools you actually used."
-    },
-    {
-      "draft_en": "Marseille but it's 1977. 🌊\n\nVieux-Port, a Peugeot chase, sunburnt film stock.\n\nMade entirely with AI. Should I do Paris next?",
-      "draft_keywords": [
-        "but it's 1977",
-        "AI video",
-        "retro",
-        "Marseille"
-      ],
-      "video_tip": "Local twist on the retro format: 10s of 4-5 shots (port, chase, rooftop, title card) with a 70s Euro-crime color grade; your home city is an angle nobody else on the watchlist has."
-    },
-    {
-      "draft_en": "Hot take: the best AI VFX right now isn't on X.\n\nIt's buried in Discord servers and DMs.\n\nWhere do you actually share your best work? 👇",
-      "draft_keywords": [
-        "AI VFX",
-        "community",
-        "platform",
-        "debate"
-      ],
-      "video_tip": "Open with a 5s reel of your best Saturday Challenge entries, then text card with the question; ties the platform debate to your community series."
+      "video_tip": "Open with your own 6-8s example (storm over Vieux-Port), prompt in the post or reply 1; ties the 4K meta to your weekly community series."
     }
   ],
   "excluded_hits": []
