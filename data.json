@@ -1,68 +1,113 @@
 {
- "title": "Daily X narrative digest - 2026-11-22",
- "date": "2026-11-22",
+ "title": "Daily X narrative digest - 2026-11-23",
+ "date": "2026-11-23",
  "timezone": "Europe/Paris",
- "updated": "2026-11-23T09:26:24+01:00",
+ "updated": "2026-11-24T09:21:16+01:00",
  "brand_title": "LudovicCreator X Virality Score",
  "brand_handle": "@LudovicCreator",
  "hits": [
   {
-   "handle": "@EHuanglu",
-   "name": "el.cine",
-   "url": "https://x.com/EHuanglu/status/2124610110257590735",
-   "status_url": "https://x.com/EHuanglu/status/2124610110257590735",
-   "text": "AI made king of fighters in live action https://t.co/zFH4Xqk17u",
-   "original_en": "AI made king of fighters in live action https://t.co/zFH4Xqk17u",
-   "views": 201554,
-   "likes": 1273,
-   "reposts": 123,
-   "bookmarks": 431,
-   "created_at": "2026-11-22T21:04:58.000Z",
+   "handle": "@minchoi",
+   "name": "Min Choi",
+   "url": "https://x.com/minchoi/status/2124719179022426450",
+   "status_url": "https://x.com/minchoi/status/2124719179022426450",
+   "text": "This is literally my new workflow now:\n\nRealtime Research → Grok Bot\nPlanning &amp; Orchestration → Grok Bot\nDay-to-day Coding/Debug → Opus 5.5\nWrite &amp; Run Tests → Sonnet 5.5\nComplex Coding/Debug → Fable 5.2\nFrontend → Fable 5.2\n\nBookmark this.",
+   "original_en": "This is literally my new workflow now:\n\nRealtime Research → Grok Bot\nPlanning &amp; Orchestration → Grok Bot\nDay-to-day Coding/Debug → Opus 5.5\nWrite &amp; Run Tests → Sonnet 5.5\nComplex Coding/Debug → Fable 5.2\nFrontend → Fable 5.2\n\nBookmark this.",
+   "views": 378419,
+   "likes": 1572,
+   "reposts": 158,
+   "bookmarks": 1213,
+   "created_at": "2026-11-23T04:18:22.000Z",
    "highlight": true,
    "self_quote": false
   },
   {
    "handle": "@techhalla",
    "name": "TechHalla",
-   "url": "https://x.com/techhalla/status/2124457346894016998",
-   "status_url": "https://x.com/techhalla/status/2124457346894016998",
-   "text": "Back to the Future but it's 1973 🥼 https://t.co/NW1q2sJv4M",
-   "original_en": "Back to the Future but it's 1973 🥼 https://t.co/NW1q2sJv4M",
-   "views": 65991,
-   "likes": 1284,
-   "reposts": 168,
-   "bookmarks": 272,
-   "created_at": "2026-11-22T10:57:56.000Z",
+   "url": "https://x.com/techhalla/status/2124874108743610647",
+   "status_url": "https://x.com/techhalla/status/2124874108743610647",
+   "text": "Game of Thrones but it's 1973 🗡️ https://t.co/GZkdoV9QRX",
+   "original_en": "Game of Thrones but it's 1973 🗡️ https://t.co/GZkdoV9QRX",
+   "views": 55430,
+   "likes": 604,
+   "reposts": 77,
+   "bookmarks": 102,
+   "created_at": "2026-11-23T14:34:00.000Z",
    "highlight": true,
    "self_quote": false
   },
   {
    "handle": "@minchoi",
    "name": "Min Choi",
-   "url": "https://x.com/minchoi/status/2124544765014233454",
-   "status_url": "https://x.com/minchoi/status/2124544765014233454",
-   "text": "This is wild\n\nYour Tesla can now show you what FSD is planning, then let you control it.\n\nFSD v15 is rolling out with 25x better handling of safety critical cases.\n\nhttps://t.co/0tOFXMfqTD https://t.co/LjPRu8U9I9",
-   "original_en": "This is wild\n\nYour Tesla can now show you what FSD is planning, then let you control it.\n\nFSD v15 is rolling out with 25x better handling of safety critical cases.\n\nhttps://t.co/0tOFXMfqTD https://t.co/LjPRu8U9I9",
-   "views": 9863,
-   "likes": 49,
-   "reposts": 1,
-   "bookmarks": 7,
-   "created_at": "2026-11-22T16:45:18.000Z",
+   "url": "https://x.com/minchoi/status/2124881488587948530",
+   "status_url": "https://x.com/minchoi/status/2124881488587948530",
+   "text": "🚨HE IS BACK!\n\nJensen Huang has been reinstated as President, CEO and Board Directo by NVIDIA Board https://t.co/J1JFGcx7qZ",
+   "original_en": "🚨HE IS BACK!\n\nJensen Huang has been reinstated as President, CEO and Board Directo by NVIDIA Board https://t.co/J1JFGcx7qZ",
+   "views": 55279,
+   "likes": 918,
+   "reposts": 128,
+   "bookmarks": 189,
+   "created_at": "2026-11-23T15:03:19.000Z",
+   "highlight": true,
+   "self_quote": false
+  },
+  {
+   "handle": "@techhalla",
+   "name": "TechHalla",
+   "url": "https://x.com/techhalla/status/2124647766307537098",
+   "status_url": "https://x.com/techhalla/status/2124647766307537098",
+   "text": "anyone can throw prompts at it with an unlimited budget\n\nthe hard part is finding a pipeline that gives you TOTAL CONTROL without wasting credits.\n\nspatial/character consistency and zero artifacts.\n\nMagnific prompts 👇 https://t.co/3KGy4fhlT1",
+   "original_en": "anyone can throw prompts at it with an unlimited budget\n\nthe hard part is finding a pipeline that gives you TOTAL CONTROL without wasting credits.\n\nspatial/character consistency and zero artifacts.\n\nMagnific prompts 👇 https://t.co/3KGy4fhlT1",
+   "views": 21461,
+   "likes": 133,
+   "reposts": 11,
+   "bookmarks": 217,
+   "created_at": "2026-11-22T23:34:36.000Z",
+   "highlight": true,
+   "self_quote": false
+  },
+  {
+   "handle": "@techhalla",
+   "name": "TechHalla",
+   "url": "https://x.com/techhalla/status/2124812480358895741",
+   "status_url": "https://x.com/techhalla/status/2124812480358895741",
+   "text": "wish I'd known about this AI filmmaking hack sooner...\n\nwould have saved me somuch time and money! https://t.co/vgMpKr5woU https://t.co/gEfhxF8Roo",
+   "original_en": "wish I'd known about this AI filmmaking hack sooner...\n\nwould have saved me somuch time and money! https://t.co/vgMpKr5woU https://t.co/gEfhxF8Roo",
+   "views": 13242,
+   "likes": 177,
+   "reposts": 9,
+   "bookmarks": 278,
+   "created_at": "2026-11-23T10:29:07.000Z",
+   "highlight": true,
+   "self_quote": false
+  },
+  {
+   "handle": "@techhalla",
+   "name": "TechHalla",
+   "url": "https://x.com/techhalla/status/2124830523138707948",
+   "status_url": "https://x.com/techhalla/status/2124830523138707948",
+   "text": "what's the part of AI video that still feels broken for you?\n\nif I have a workflow for it I'll drop it. if not I'll build one",
+   "original_en": "what's the part of AI video that still feels broken for you?\n\nif I have a workflow for it I'll drop it. if not I'll build one",
+   "views": 7765,
+   "likes": 81,
+   "reposts": 4,
+   "bookmarks": 30,
+   "created_at": "2026-11-23T11:40:48.000Z",
    "highlight": false,
    "self_quote": false
   },
   {
    "handle": "@azed_ai",
    "name": "Amira Zairi",
-   "url": "https://x.com/azed_ai/status/2124532646399320512",
-   "status_url": "https://x.com/azed_ai/status/2124532646399320512",
-   "text": "I made a little film about a little girl's lunchbox 😍\n\nIt's called “The Wow Lunch”I made the images in Midjourney, then animated them with Seedance 2.5 right from Claude using the @higgsfield MCP\n\nCheck my prompt  👇🏻 https://t.co/LNIJnkaWcg",
-   "original_en": "I made a little film about a little girl's lunchbox 😍\n\nIt's called “The Wow Lunch”I made the images in Midjourney, then animated them with Seedance 2.5 right from Claude using the @higgsfield MCP\n\nCheck my prompt  👇🏻 https://t.co/LNIJnkaWcg",
-   "views": 5962,
-   "likes": 74,
-   "reposts": 11,
-   "bookmarks": 32,
-   "created_at": "2026-11-22T15:57:09.000Z",
+   "url": "https://x.com/azed_ai/status/2124820022094917711",
+   "status_url": "https://x.com/azed_ai/status/2124820022094917711",
+   "text": "Prompt Share: Minimalist Black Ink Illustration\n\nPrompt:\nA minimalist black ink illustration of [subject] [performing action], wearing [outfit], clean expressive brushstrokes, varied line thickness, relaxed natural posture, simplified facial features, selective solid black https://t.co/fDXHlXIXpj",
+   "original_en": "Prompt Share: Minimalist Black Ink Illustration\n\nPrompt:\nA minimalist black ink illustration of [subject] [performing action], wearing [outfit], clean expressive brushstrokes, varied line thickness, relaxed natural posture, simplified facial features, selective solid black https://t.co/fDXHlXIXpj",
+   "views": 6069,
+   "likes": 180,
+   "reposts": 19,
+   "bookmarks": 115,
+   "created_at": "2026-11-23T10:59:05.000Z",
    "highlight": false,
    "self_quote": false
   }
@@ -70,117 +115,122 @@
  "virals": [],
  "outsiders": [
   {
-   "handle": "@DavidmComfort",
-   "name": "David Michael Comfort",
-   "url": "https://x.com/DavidmComfort/status/2124495235267113190",
-   "status_url": "https://x.com/DavidmComfort/status/2124495235267113190",
-   "text": "AI filmmaking has a long way to go. I’ve identified some challenges in making AI video look “filmic.” I’m going to spend some time in the next week or so trying to overcome these challenges https://t.co/rd2RjYyI6e",
-   "original_en": "AI filmmaking has a long way to go. I’ve identified some challenges in making AI video look “filmic.” I’m going to spend some time in the next week or so trying to overcome these challenges https://t.co/rd2RjYyI6e",
-   "views": 3398,
-   "likes": 62,
-   "reposts": 4,
-   "bookmarks": 67,
-   "created_at": "2026-11-22T13:28:29.000Z",
+   "handle": "@Nely_Brooks",
+   "name": "Mr. Brooks Whale",
+   "url": "https://x.com/Nely_Brooks/status/2124780682186781008",
+   "status_url": "https://x.com/Nely_Brooks/status/2124780682186781008",
+   "text": "The creativity behind this AI video is incredible \n\nGenerated with Seedance 2.5\n\nSeedance 2.5 keeps pushing AI video beyond simple animation. The real magic is in turning imagination into scenes that feel cinematic, fluid, and full of detail. 🚀\nThe gap between an idea and a https://t.co/6CdqWDKNSq",
+   "original_en": "The creativity behind this AI video is incredible \n\nGenerated with Seedance 2.5\n\nSeedance 2.5 keeps pushing AI video beyond simple animation. The real magic is in turning imagination into scenes that feel cinematic, fluid, and full of detail. 🚀\nThe gap between an idea and a https://t.co/6CdqWDKNSq",
+   "views": 9295,
+   "likes": 87,
+   "reposts": 59,
+   "bookmarks": 7,
+   "created_at": "2026-11-23T08:22:45.000Z",
    "highlight": false,
    "self_quote": false
   },
   {
-   "handle": "@john_my07",
-   "name": "Johnn",
-   "url": "https://x.com/john_my07/status/2124523761160569129",
-   "status_url": "https://x.com/john_my07/status/2124523761160569129",
-   "text": "#ElevenLabsAmbassador\nA chaotic zombie outbreak brought to life with Seedance 2.5 on @ElevenCreative, combining cinematic visuals, immersive audio and the power of AI storytelling.\n\nExploring how @ElevenLabs is pushing the boundaries of AI filmmaking and opening up new ways to https://t.co/SMZprtbe7k",
-   "original_en": "#ElevenLabsAmbassador\nA chaotic zombie outbreak brought to life with Seedance 2.5 on @ElevenCreative, combining cinematic visuals, immersive audio and the power of AI storytelling.\n\nExploring how @ElevenLabs is pushing the boundaries of AI filmmaking and opening up new ways to https://t.co/SMZprtbe7k",
-   "views": 22609,
-   "likes": 221,
-   "reposts": 25,
-   "bookmarks": 161,
-   "created_at": "2026-11-22T15:21:51.000Z",
+   "handle": "@xmliisu",
+   "name": "Melisa♡",
+   "url": "https://x.com/xmliisu/status/2124575293453070529",
+   "status_url": "https://x.com/xmliisu/status/2124575293453070529",
+   "text": "This AI video is so emotional 🥺\n\nSeedance 2.5 https://t.co/RZkesYCpHu",
+   "original_en": "This AI video is so emotional 🥺\n\nSeedance 2.5 https://t.co/RZkesYCpHu",
+   "views": 127345,
+   "likes": 1968,
+   "reposts": 230,
+   "bookmarks": 717,
+   "created_at": "2026-11-22T18:46:37.000Z",
    "highlight": true,
    "self_quote": false
   },
   {
-   "handle": "@kicknost",
-   "name": "Kicknost",
-   "url": "https://x.com/kicknost/status/2124360172818886675",
-   "status_url": "https://x.com/kicknost/status/2124360172818886675",
-   "text": "One Breath, Many Ways.\nA cinematic journey through martial arts traditions around the world, created entirely with AI.\n\nMade using Seedance 2.5 on @fal  for FREE!\n\nThe workflow:\n🎬 3 separate generations\n⏱️ 10 seconds each = 30 seconds total\n✍️ 100% Text-to-Video\n🔗 3 https://t.co/NszxaJajlr https://t.co/sdxxfkmXKM",
-   "original_en": "One Breath, Many Ways.\nA cinematic journey through martial arts traditions around the world, created entirely with AI.\n\nMade using Seedance 2.5 on @fal  for FREE!\n\nThe workflow:\n🎬 3 separate generations\n⏱️ 10 seconds each = 30 seconds total\n✍️ 100% Text-to-Video\n🔗 3 https://t.co/NszxaJajlr https://t.co/sdxxfkmXKM",
-   "views": 2012,
-   "likes": 28,
-   "reposts": 8,
-   "bookmarks": 2,
-   "created_at": "2026-11-22T04:31:48.000Z",
-   "highlight": false,
+   "handle": "@AiWithIqra",
+   "name": "Iqra",
+   "url": "https://x.com/AiWithIqra/status/2124456373203386758",
+   "status_url": "https://x.com/AiWithIqra/status/2124456373203386758",
+   "text": "This Ai video is absolutely masterpiece 🤯\n\nSeedance 2.5 https://t.co/qcYWL4BA2h",
+   "original_en": "This Ai video is absolutely masterpiece 🤯\n\nSeedance 2.5 https://t.co/qcYWL4BA2h",
+   "views": 156116,
+   "likes": 260,
+   "reposts": 14,
+   "bookmarks": 100,
+   "created_at": "2026-11-22T10:54:04.000Z",
+   "highlight": true,
    "self_quote": false
   },
   {
-   "handle": "@SimplyAnnisa",
-   "name": "Anissa",
-   "url": "https://x.com/SimplyAnnisa/status/2124397167041544394",
-   "status_url": "https://x.com/SimplyAnnisa/status/2124397167041544394",
-   "text": "This AI video is an absolute masterpiece.\n\nMade with seedance 2.5 on @higgsfield https://t.co/Wu9fLMOqMu",
-   "original_en": "This AI video is an absolute masterpiece.\n\nMade with seedance 2.5 on @higgsfield https://t.co/Wu9fLMOqMu",
-   "views": 2486,
-   "likes": 77,
-   "reposts": 13,
-   "bookmarks": 6,
-   "created_at": "2026-11-22T06:58:48.000Z",
-   "highlight": false,
+   "handle": "@AiWithRimsha",
+   "name": "Rimsha",
+   "url": "https://x.com/AiWithRimsha/status/2124456131347239379",
+   "status_url": "https://x.com/AiWithRimsha/status/2124456131347239379",
+   "text": "This AI video is an Absolute Masterpiece🔥\n\nSeedance 2.5 is unbelievable + Prompt below: https://t.co/Wb1FLlICVt",
+   "original_en": "This AI video is an Absolute Masterpiece🔥\n\nSeedance 2.5 is unbelievable + Prompt below: https://t.co/Wb1FLlICVt",
+   "views": 633687,
+   "likes": 1355,
+   "reposts": 65,
+   "bookmarks": 447,
+   "created_at": "2026-11-22T10:53:06.000Z",
+   "highlight": true,
    "self_quote": false
   }
  ],
  "patterns": [
-  "Live-action remake of a game IP exploded: EHuanglu's 'AI made king of fighters in live action' hit 201K views / 1.3K likes / 431 bookmarks, 3x the next post. Formula: beloved franchise + 'in live action', one-line caption, pure visual.",
-  "The decade-swap format is a repeatable winner: techhalla's 'Back to the Future but it's 1973' 66K / 1.3K likes / 272 bookmarks, right after his 'Matrix but it's 1981' 56K the day before. Same 6-word caption template.",
-  "Short narrative AI films with a tool credit land solidly: azed_ai's 'The Wow Lunch' (Midjourney images animated with Seedance 2) 6K / 32 bookmarks.",
-  "Model face-offs keep getting saves but modest reach on a Sunday: AIWarper Flux 3 vs Kling 4 vs Kling 4 Flash 3K / 19 bookmarks; CharaspowerAI Minimax H3 ice + destruction VFX 1.8K / 24 bookmarks.",
-  "Off-niche tech news still reaches: minchoi on Tesla FSD v15 9.9K."
+  "Tool-stack 'bookmark this' lists win reach: minchoi's 'my new workflow now' (one tool per task, ends 'Bookmark this.') hit 378K views / 1.6K likes / 1.2K bookmarks, 7x anything else.",
+  "Decade swap is now a 3-day streak for techhalla: 'Game of Thrones but it's 1973' 55K / 604 likes, after Matrix 1981 (56K) and Back to the Future 1973 (66K). Same 'X but it's YEAR' caption.",
+  "Control-and-pipeline hooks earn saves: techhalla's 'the hard part is a pipeline with TOTAL CONTROL... Magnific prompts' 21K / 217 bookmarks and 'AI filmmaking hack' 13K / 278 bookmarks (bookmark rate ~1-2%, far above the day's average).",
+  "Engagement question works as a hit too: techhalla 'what part of AI video still feels broken for you?' 7.8K, and azed_ai Prompt Share (ink illustration template) 6K / 115 bookmarks.",
+  "Outsider meta: Seedance 2.5 'This AI video is a masterpiece + prompt below' reposts reached 634K / 156K / 127K. Off-niche news (Jensen Huang reinstated at NVIDIA) also carried minchoi to 55K."
  ],
  "no_hits": [
   {
    "handle": "@maxescu",
-   "reason": "No original on 2026-11-22 reached 5,000 views; highest observed was 2,254 views.",
-   "max_views": 2254
+   "reason": "No original on 2026-11-23 reached 5,000 views; highest observed was 1,925 views.",
+   "max_views": 1925
   },
   {
    "handle": "@CharaspowerAI",
-   "reason": "No original on 2026-11-22 reached 5,000 views; highest observed was 1,783 views.",
-   "max_views": 1783
+   "reason": "No original on 2026-11-23 reached 5,000 views; highest observed was 2,478 views.",
+   "max_views": 2478
   },
   {
    "handle": "@MayorKingAI",
-   "reason": "No original on 2026-11-22 reached 5,000 views; highest observed was 1,192 views.",
-   "max_views": 1192
+   "reason": "No original on 2026-11-23 reached 5,000 views; highest observed was 2,857 views.",
+   "max_views": 2857
+  },
+  {
+   "handle": "@EHuanglu",
+   "reason": "No original on 2026-11-23 reached 5,000 views; highest observed was 4,794 views.",
+   "max_views": 4794
   },
   {
    "handle": "@CoffeeVectors",
-   "reason": "No original posts found on 2026-11-22.",
+   "reason": "No original posts found on 2026-11-23.",
    "max_views": 0
   },
   {
    "handle": "@Salmaaboukarr",
-   "reason": "No original posts found on 2026-11-22.",
+   "reason": "No original posts found on 2026-11-23.",
    "max_views": 0
   },
   {
    "handle": "@AIWarper",
-   "reason": "No original on 2026-11-22 reached 5,000 views; highest observed was 3,016 views.",
-   "max_views": 3016
+   "reason": "No original on 2026-11-23 reached 5,000 views; highest observed was 2,527 views.",
+   "max_views": 2527
   },
   {
    "handle": "@ai_artworkgen",
-   "reason": "No original on 2026-11-22 reached 5,000 views; highest observed was 1,643 views.",
-   "max_views": 1643
+   "reason": "No original on 2026-11-23 reached 5,000 views; highest observed was 580 views.",
+   "max_views": 580
   }
  ],
- "virals_narrative": "Sunday: 4 watchlist hits >=5K, 2 stars. EHuanglu's 'AI made king of fighters in live action' led with 201K / 1.3K likes / 431 bookmarks. techhalla's 'Back to the Future but it's 1973' 66K / 272 bookmarks (decade-swap format, 2nd day in a row). minchoi Tesla FSD v15 9.9K; azed_ai short film 'The Wow Lunch' (Midjourney + Seedance 2) 6K. No hit for maxescu, CharaspowerAI, MayorKingAI, CoffeeVectors, Salmaaboukarr, AIWarper, ai_artworkgen.",
- "narrative_synthesis": "Sunday: 4 watchlist hits >=5K, 2 stars. EHuanglu's 'AI made king of fighters in live action' led with 201K / 1.3K likes / 431 bookmarks. techhalla's 'Back to the Future but it's 1973' 66K / 272 bookmarks (decade-swap format, 2nd day in a row). minchoi Tesla FSD v15 9.9K; azed_ai short film 'The Wow Lunch' (Midjourney + Seedance 2) 6K. No hit for maxescu, CharaspowerAI, MayorKingAI, CoffeeVectors, Salmaaboukarr, AIWarper, ai_artworkgen.",
+ "virals_narrative": "Monday: 7 watchlist hits >=5K, 5 stars. minchoi's AI tool-stack list 'This is literally my new workflow now... Bookmark this.' led with 378K / 1.2K bookmarks. techhalla had 4 hits: 'Game of Thrones but it's 1973' 55K, Magnific control-pipeline post 21K, 'AI filmmaking hack' 13K, broken-AI-video question 7.8K. minchoi Jensen Huang news 55K; azed_ai Prompt Share 6K. No hit for maxescu, CharaspowerAI, MayorKingAI, EHuanglu, CoffeeVectors, Salmaaboukarr, AIWarper, ai_artworkgen.",
+ "narrative_synthesis": "Monday: 7 watchlist hits >=5K, 5 stars. minchoi's AI tool-stack list 'This is literally my new workflow now... Bookmark this.' led with 378K / 1.2K bookmarks. techhalla had 4 hits: 'Game of Thrones but it's 1973' 55K, Magnific control-pipeline post 21K, 'AI filmmaking hack' 13K, broken-AI-video question 7.8K. minchoi Jensen Huang news 55K; azed_ai Prompt Share 6K. No hit for maxescu, CharaspowerAI, MayorKingAI, EHuanglu, CoffeeVectors, Salmaaboukarr, AIWarper, ai_artworkgen.",
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 4,
+ "hits_count": 7,
  "outsiders_count": 4,
- "previous_day": "2026-11-21",
+ "previous_day": "2026-11-22",
  "leaderboards": {
   "as_of": "2026-11-20",
   "tracking_start": "2026-09-13",
@@ -408,112 +458,114 @@
  },
  "day_roster": [
   {
-   "handle": "@EHuanglu",
-   "posts": 1,
-   "total_views": 201554,
-   "best_views": 201554
+   "handle": "@minchoi",
+   "posts": 2,
+   "total_views": 433698,
+   "best_views": 378419
   },
   {
    "handle": "@techhalla",
-   "posts": 1,
-   "total_views": 65991,
-   "best_views": 65991
-  },
-  {
-   "handle": "@minchoi",
-   "posts": 1,
-   "total_views": 9863,
-   "best_views": 9863
+   "posts": 4,
+   "total_views": 97898,
+   "best_views": 55430
   },
   {
    "handle": "@azed_ai",
-   "posts": 5,
-   "total_views": 16986,
-   "best_views": 5962
+   "posts": 6,
+   "total_views": 16740,
+   "best_views": 6069
+  },
+  {
+   "handle": "@EHuanglu",
+   "posts": 3,
+   "total_views": 10925,
+   "best_views": 4794
+  },
+  {
+   "handle": "@MayorKingAI",
+   "posts": 2,
+   "total_views": 5289,
+   "best_views": 2857
   },
   {
    "handle": "@AIWarper",
-   "posts": 2,
-   "total_views": 5168,
-   "best_views": 3016
-  },
-  {
-   "handle": "@maxescu",
-   "posts": 2,
-   "total_views": 3476,
-   "best_views": 2254
+   "posts": 5,
+   "total_views": 9254,
+   "best_views": 2527
   },
   {
    "handle": "@CharaspowerAI",
    "posts": 4,
-   "total_views": 6270,
-   "best_views": 1783
+   "total_views": 6926,
+   "best_views": 2478
+  },
+  {
+   "handle": "@maxescu",
+   "posts": 6,
+   "total_views": 6997,
+   "best_views": 1925
   },
   {
    "handle": "@ai_artworkgen",
-   "posts": 4,
-   "total_views": 4525,
-   "best_views": 1643
-  },
-  {
-   "handle": "@MayorKingAI",
    "posts": 1,
-   "total_views": 1192,
-   "best_views": 1192
+   "total_views": 580,
+   "best_views": 580
   }
  ],
  "you_rank": null,
  "trend_input_only_posts": [],
  "drafts": [
   {
-   "draft_en": "Street Fighter, but in live action.\n\nNo cameras. No stunt team.\n\nJust AI VFX 🥋",
+   "draft_en": "My AI VFX stack right now:\n\nLook dev → Firefly\nUpscale & detail → Magnific\nShots → Seedance 2.5\nMotion tests → Kling\nComp & grade → After Effects\n\nBookmark this.",
    "draft_keywords": [
-    "live action",
     "AI VFX",
-    "game remake",
-    "AI filmmaking"
+    "workflow",
+    "Magnific",
+    "Seedance",
+    "Firefly"
    ],
-   "video_tip": "Ride EHuanglu's 201K 'King of Fighters in live action' format: 15-20s of iconic character intros and one signature move, photoreal lighting, hard cuts on impacts, one-line caption. Tools/workflow in reply 1."
+   "video_tip": "Mirror minchoi's 378K / 1.2K-bookmark list format, but show it: 15s rapid montage, one clip per line with the tool name burned in, ending on the final shot. Only list tools you really use.",
+   "best": true
   },
   {
-   "draft_en": "Jurassic Park, but it's 1925.\n\nSame scenes. Silent-film era.\n\nMade with AI 🎞️",
+   "draft_en": "House of the Dragon, but it's 1925.\n\nSilent film. Same dragons.\n\nMade with AI 🎞️",
    "draft_keywords": [
-    "retro remake",
     "decade swap",
     "AI VFX",
+    "AI filmmaking",
+    "retro remake"
+   ],
+   "video_tip": "techhalla's decade swap hit 56K, 66K, 55K three days in a row: black & white, film flicker, intertitle cards, iris transitions. Keep the 'X, but it's YEAR' caption."
+  },
+  {
+   "draft_en": "Anyone can throw prompts at a model.\n\nThe hard part is shot-to-shot control: same face, same light, zero artifacts.\n\nHere's the pipeline I use on real VFX jobs 👇",
+   "draft_keywords": [
+    "AI VFX",
+    "pipeline",
+    "consistency",
     "AI filmmaking"
    ],
-   "video_tip": "techhalla's decade-swap hit 56K then 66K on back-to-back days: black & white, film flicker, iris transitions, intertitle cards. Keep the caption to the 'X, but it's YEAR' template."
+   "video_tip": "Before/after split of one sequence: raw generation flicker vs your controlled pipeline. Steps + prompts in reply 1 to earn bookmarks like techhalla's 21K / 217-save post."
   },
   {
-   "draft_en": "Same VFX shot. Kling 4 vs Flux 3 vs Minimax H3.\n\nOne of them finally gets fire + ice right.\n\nWhich one wins? 👇",
+   "draft_en": "What part of AI VFX still feels broken for you?\n\nDrop it below. If I have a fix, I'll share the workflow. If not, it's next Saturday's challenge.",
    "draft_keywords": [
-    "Kling 4",
-    "Flux 3",
-    "Minimax H3",
-    "model comparison"
-   ],
-   "video_tip": "3-way split screen, same start frame and prompt, one destruction or elemental shot; only post if you actually ran all three. Prompt in reply to earn bookmarks."
-  },
-  {
-   "draft_en": "I made a 60-second short film about a robot's first day of school.\n\nImages in Firefly, animated with AI video.\n\nFull story 👇",
-   "draft_keywords": [
-    "AI short film",
-    "Firefly",
-    "AI video",
-    "storytelling"
-   ],
-   "video_tip": "azed_ai's 'The Wow Lunch' shows tiny-story shorts with a tool credit work: clear 3-beat arc, consistent character, warm grade, music-led cuts. Fits your Firefly ambassador angle."
-  },
-  {
-   "draft_en": "Saturday Challenge: take a video game you love and turn it into a live-action movie scene.\n\nMine below.\n\nDrop yours 👇",
-   "draft_keywords": [
+    "AI VFX",
+    "community",
     "Saturday Challenge",
-    "live action",
-    "game remake",
-    "AI VFX"
+    "AI video"
    ],
-   "video_tip": "Open with your own 8s live-action game shot; ties the day's top meta (201K King of Fighters) to your weekly community series."
+   "video_tip": "Pair it with a 6s blooper reel of your own AI fails (warped hands, melting props). Ties techhalla's 7.8K question post to your Saturday Challenge."
+  },
+  {
+   "draft_en": "Seedance 2.5 test: one practical plate, one AI creature, one take.\n\nNo 3D. No tracking.\n\nPrompt below 👇",
+   "draft_keywords": [
+    "Seedance 2.5",
+    "AI VFX",
+    "free prompt",
+    "AI video"
+   ],
+   "video_tip": "Ride the Seedance 2.5 'prompt below' wave (634K outsider): real footage plate + AI insert, show the raw plate first for 1s, then the reveal. Full prompt in reply."
   }
  ],
  "excluded_hits": []
