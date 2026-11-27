@@ -1,563 +1,707 @@
 {
-  "title": "Daily X narrative digest - 2026-11-25",
-  "date": "2026-11-25",
-  "timezone": "Europe/Paris",
-  "updated": "2026-11-26T09:25:37+01:00",
-  "brand_title": "LudovicCreator X Virality Score",
-  "brand_handle": "@LudovicCreator",
-  "hits": [
-    {
-      "handle": "@EHuanglu",
-      "name": "el.cine",
-      "url": "https://x.com/EHuanglu/status/2125497019510980654",
-      "status_url": "https://x.com/EHuanglu/status/2125497019510980654",
-      "text": "AI just killed my 14yrs video editing experience https://t.co/KE55V92fHf https://t.co/xhOUHllHDq",
-      "original_en": "AI just killed my 14yrs video editing experience https://t.co/KE55V92fHf https://t.co/xhOUHllHDq",
-      "views": 166125,
-      "likes": 1489,
-      "reposts": 152,
-      "bookmarks": 1117,
-      "created_at": "2026-11-25T07:49:13.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@EHuanglu",
-      "name": "el.cine",
-      "url": "https://x.com/EHuanglu/status/2125592808845345017",
-      "status_url": "https://x.com/EHuanglu/status/2125592808845345017",
-      "text": "magi-2 made this AI video for $2.4\n\ncant believe higgsfield will open source this 400B parameters model soon https://t.co/SSFxsqO93z",
-      "original_en": "magi-2 made this AI video for $2.4\n\ncant believe higgsfield will open source this 400B parameters model soon https://t.co/SSFxsqO93z",
-      "views": 45859,
-      "likes": 578,
-      "reposts": 44,
-      "bookmarks": 312,
-      "created_at": "2026-11-25T14:09:51.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@techhalla",
-      "name": "TechHalla",
-      "url": "https://x.com/techhalla/status/2125721704941166851",
-      "status_url": "https://x.com/techhalla/status/2125721704941166851",
-      "text": "One Piece but it's 1977 🏴‍☠️ https://t.co/1Wy8nEW4ZD",
-      "original_en": "One Piece but it's 1977 🏴‍☠️ https://t.co/1Wy8nEW4ZD",
-      "views": 45267,
-      "likes": 1197,
-      "reposts": 149,
-      "bookmarks": 300,
-      "created_at": "2026-11-25T22:42:03.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "url": "https://x.com/minchoi/status/2125559225162027140",
-      "status_url": "https://x.com/minchoi/status/2125559225162027140",
-      "text": "This Claude prompt is literally a $150/hr app developer🤯 https://t.co/kEbkhu5pj2",
-      "original_en": "This Claude prompt is literally a $150/hr app developer🤯 https://t.co/kEbkhu5pj2",
-      "views": 32079,
-      "likes": 329,
-      "reposts": 24,
-      "bookmarks": 562,
-      "created_at": "2026-11-25T11:56:24.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@MayorKingAI",
-      "name": "MayorkingAI",
-      "url": "https://x.com/MayorKingAI/status/2125620576836554877",
-      "status_url": "https://x.com/MayorKingAI/status/2125620576836554877",
-      "text": "From a prompt to a snowy village in feudal Japan.\n\nWith CineMap by @TapNow_AI, I built and modified the world, added props and characters, and directed cameras just by talking. Then I rendered it with Seedance 2.5.\n\nBlack Friday deals are up to 50% off, with a chance to enjoy https://t.co/u3lJ8UKGHq",
-      "original_en": "From a prompt to a snowy village in feudal Japan.\n\nWith CineMap by @TapNow_AI, I built and modified the world, added props and characters, and directed cameras just by talking. Then I rendered it with Seedance 2.5.\n\nBlack Friday deals are up to 50% off, with a chance to enjoy https://t.co/u3lJ8UKGHq",
-      "views": 25455,
-      "likes": 25,
-      "reposts": 3,
-      "bookmarks": 5,
-      "created_at": "2026-11-25T16:00:12.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@AIWarper",
-      "name": "A.I.Warper",
-      "url": "https://x.com/AIWarper/status/2125653198707056794",
-      "status_url": "https://x.com/AIWarper/status/2125653198707056794",
-      "text": "I've known Taz from the open source community for years now.\n\nThis individual has been training anime models for as long as I can remember. I don't think i've ever seen them doing anything else.\n\nThis person deserves 10x the followers honestly https://t.co/eqZtVLC5wQ",
-      "original_en": "I've known Taz from the open source community for years now.\n\nThis individual has been training anime models for as long as I can remember. I don't think i've ever seen them doing anything else.\n\nThis person deserves 10x the followers honestly https://t.co/eqZtVLC5wQ",
-      "views": 15550,
-      "likes": 444,
-      "reposts": 25,
-      "bookmarks": 258,
-      "created_at": "2026-11-25T18:09:49.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@minchoi",
-      "name": "Min Choi",
-      "url": "https://x.com/minchoi/status/2125614837078384749",
-      "status_url": "https://x.com/minchoi/status/2125614837078384749",
-      "text": "Claude is becoming a one-person app studio.\n\nAsk it to build a tool, click \"Install as app\", and it opens on your Mac or Windows machine like any other app.\n\nOwn icon. Own window. Notifications. Menu bar.\n\nNo packaging, no signing, no API key. https://t.co/Xa0wDuWPgI",
-      "original_en": "Claude is becoming a one-person app studio.\n\nAsk it to build a tool, click \"Install as app\", and it opens on your Mac or Windows machine like any other app.\n\nOwn icon. Own window. Notifications. Menu bar.\n\nNo packaging, no signing, no API key. https://t.co/Xa0wDuWPgI",
-      "views": 13445,
-      "likes": 102,
-      "reposts": 8,
-      "bookmarks": 59,
-      "created_at": "2026-11-25T15:37:23.000Z",
-      "highlight": true,
-      "self_quote": false
-    },
-    {
-      "handle": "@azed_ai",
-      "name": "Amira Zairi",
-      "url": "https://x.com/azed_ai/status/2125544300683620503",
-      "status_url": "https://x.com/azed_ai/status/2125544300683620503",
-      "text": "Prompt share: Surrealist Haute Couture\nPrompt:\nA full-body fashion illustration of one elegant model wearing a [theme]-inspired surrealist haute couture gown, avant-garde deconstructivist silhouette, sculptural tailoring, intricate 3D embroidery, layered velvet, translucent https://t.co/OU5ZNGnwMW",
-      "original_en": "Prompt share: Surrealist Haute Couture\nPrompt:\nA full-body fashion illustration of one elegant model wearing a [theme]-inspired surrealist haute couture gown, avant-garde deconstructivist silhouette, sculptural tailoring, intricate 3D embroidery, layered velvet, translucent https://t.co/OU5ZNGnwMW",
-      "views": 8468,
-      "likes": 145,
-      "reposts": 17,
-      "bookmarks": 40,
-      "created_at": "2026-11-25T10:57:06.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@azed_ai",
-      "name": "Amira Zairi",
-      "url": "https://x.com/azed_ai/status/2125500001535381520",
-      "status_url": "https://x.com/azed_ai/status/2125500001535381520",
-      "text": "Playing around with another 2D to 3D character concept https://t.co/1VOYHZ6DXo",
-      "original_en": "Playing around with another 2D to 3D character concept https://t.co/1VOYHZ6DXo",
-      "views": 7812,
-      "likes": 152,
-      "reposts": 11,
-      "bookmarks": 29,
-      "created_at": "2026-11-25T08:01:04.000Z",
-      "highlight": false,
-      "self_quote": false
-    },
-    {
-      "handle": "@azed_ai",
-      "name": "Amira Zairi",
-      "url": "https://x.com/azed_ai/status/2125455205643034920",
-      "status_url": "https://x.com/azed_ai/status/2125455205643034920",
-      "text": "Good morning to all the lovely people I've met here, I hope you're doing well and that today brings you nothing but good things\n\n--sref 4070000895 https://t.co/P1SXxCrYUG",
-      "original_en": "Good morning to all the lovely people I've met here, I hope you're doing well and that today brings you nothing but good things\n\n--sref 4070000895 https://t.co/P1SXxCrYUG",
-      "views": 5515,
-      "likes": 104,
-      "reposts": 11,
-      "bookmarks": 7,
-      "created_at": "2026-11-25T05:03:04.000Z",
-      "highlight": false,
-      "self_quote": false
-    }
-  ],
-  "virals": [],
-  "outsiders": [],
-  "patterns": [
-    "Same-format sequel wins again: EHuanglu 'AI just killed my 14yrs video editing experience' 166K views / 1.1K bookmarks, a follow-up to yesterday's 355K 'AI taking over video editing..'. Provocative personal one-liner + demo video is the meta two days running.",
-    "MAGI-2 launch at Higgsfield is the day's tool wave: EHuanglu '$2.4 AI video, Higgsfield will open source this 400B model' 45.9K; outsiders flood 'Created with MAGI-2 at Higgsfield' storyboard-to-video demos (low reach each, high volume).",
-    "Decade swap is back up: techhalla 'One Piece but it's 1977' 45.3K / 1.2K likes, after the 8.4K dip on God of War 1976. Pop IP + era restyle still travels when the IP is big.",
-    "Claude-as-app-builder posts dominate minchoi: '$150/hr app developer' prompt 32.1K / 562 bookmarks, 'one-person app studio' 13.4K. Off-niche for VFX but proof that 'prompt = expensive pro' framing earns saves.",
-    "World-building/directing demos and prompt shares hold mid-tier: MayorKingAI CineMap feudal Japan village 25.5K (only 25 likes, likely promoted reach), azed_ai surrealist haute couture prompt share 8.5K, 2D-to-3D character concept 7.8K."
-  ],
-  "no_hits": [
-    {
-      "handle": "@maxescu",
-      "reason": "No original on 2026-11-25 reached 5,000 views; highest observed was 2,738 views.",
-      "max_views": 2738
-    },
-    {
-      "handle": "@CharaspowerAI",
-      "reason": "No original on 2026-11-25 reached 5,000 views; highest observed was 1,571 views.",
-      "max_views": 1571
-    },
-    {
-      "handle": "@CoffeeVectors",
-      "reason": "No original on 2026-11-25 reached 5,000 views; highest observed was 886 views.",
-      "max_views": 886
-    },
-    {
-      "handle": "@Salmaaboukarr",
-      "reason": "No original on 2026-11-25 reached 5,000 views; highest observed was 1,671 views.",
-      "max_views": 1671
-    },
-    {
-      "handle": "@ai_artworkgen",
-      "reason": "No original on 2026-11-25 reached 5,000 views; highest observed was 1,162 views.",
-      "max_views": 1162
-    }
-  ],
-  "virals_narrative": "25.11: 10 hits >=5k (7 stars). EHuanglu's editing-is-dead sequel (166K) and MAGI-2/Higgsfield open-source hype (45.9K) lead; techhalla's decade swap rebounds (One Piece 1977, 45.3K).",
-  "narrative_synthesis": "25.11: 10 hits >=5k (7 stars). EHuanglu's editing-is-dead sequel (166K) and MAGI-2/Higgsfield open-source hype (45.9K) lead; techhalla's decade swap rebounds (One Piece 1977, 45.3K).",
-  "virals_window": "last ~48h",
-  "virals_target": 20,
-  "hits_count": 10,
-  "outsiders_count": 0,
-  "previous_day": "2026-11-24",
-  "leaderboards": {
-    "as_of": "2026-11-25",
-    "tracking_start": "2026-09-13",
-    "days_included": [
-      "2026-11-19",
-      "2026-11-20",
-      "2026-11-21",
-      "2026-11-22",
-      "2026-11-23",
-      "2026-11-24",
-      "2026-11-25"
-    ],
-    "month_days_included": [
-      "2026-11-01",
-      "2026-11-02",
-      "2026-11-03",
-      "2026-11-04",
-      "2026-11-05",
-      "2026-11-06",
-      "2026-11-07",
-      "2026-11-08",
-      "2026-11-09",
-      "2026-11-10",
-      "2026-11-11",
-      "2026-11-12",
-      "2026-11-14",
-      "2026-11-15",
-      "2026-11-16",
-      "2026-11-18",
-      "2026-11-19",
-      "2026-11-20",
-      "2026-11-24",
-      "2026-11-25"
-    ],
-    "week": {
-      "label": "Rolling week · Nov 19–Nov 25",
-      "range": [
-        "2026-11-19",
-        "2026-11-25"
-      ],
-      "entries": [
-        {
-          "handle": "@EHuanglu",
-          "name": "el.cine",
-          "hits": 7,
-          "days": 4,
-          "views": 1856993,
-          "best": 1249265,
-          "best_url": "https://x.com/EHuanglu/status/2123637413771985208"
-        },
-        {
-          "handle": "@minchoi",
-          "name": "Min Choi",
-          "hits": 11,
-          "days": 4,
-          "views": 284289,
-          "best": 102226,
-          "best_url": "https://x.com/minchoi/status/2123630368620220846"
-        },
-        {
-          "handle": "@techhalla",
-          "name": "TechHalla",
-          "hits": 6,
-          "days": 4,
-          "views": 188407,
-          "best": 99309,
-          "best_url": "https://x.com/techhalla/status/2123448539439337531"
-        },
-        {
-          "handle": "@azed_ai",
-          "name": "Amira Zairi",
-          "hits": 7,
-          "days": 3,
-          "views": 74769,
-          "best": 26641,
-          "best_url": "https://x.com/azed_ai/status/2125188847663464903"
-        },
-        {
-          "handle": "@MayorKingAI",
-          "name": "MayorkingAI",
-          "hits": 1,
-          "days": 1,
-          "views": 25455,
-          "best": 25455,
-          "best_url": "https://x.com/MayorKingAI/status/2125620576836554877"
-        },
-        {
-          "handle": "@maxescu",
-          "name": "Alex Patrascu",
-          "hits": 1,
-          "days": 1,
-          "views": 18346,
-          "best": 18346,
-          "best_url": "https://x.com/maxescu/status/2123517448968081910"
-        },
-        {
-          "handle": "@AIWarper",
-          "name": "A.I.Warper",
-          "hits": 1,
-          "days": 1,
-          "views": 15550,
-          "best": 15550,
-          "best_url": "https://x.com/AIWarper/status/2125653198707056794"
-        },
-        {
-          "handle": "@Salmaaboukarr",
-          "name": "Salma",
-          "hits": 1,
-          "days": 1,
-          "views": 14682,
-          "best": 14682,
-          "best_url": "https://x.com/Salmaaboukarr/status/2123572404030931340"
-        }
-      ]
-    },
-    "month": {
-      "label": "November 2026 · from Nov 1",
-      "range": [
-        "2026-11-01",
-        "2026-11-25"
-      ],
-      "entries": [
-        {
-          "handle": "@EHuanglu",
-          "name": "el.cine",
-          "hits": 31,
-          "days": 18,
-          "views": 5194259,
-          "best": 1374003,
-          "best_url": "https://x.com/EHuanglu/status/2119090260894515273"
-        },
-        {
-          "handle": "@minchoi",
-          "name": "Min Choi",
-          "hits": 67,
-          "days": 20,
-          "views": 3145542,
-          "best": 1520323,
-          "best_url": "https://x.com/minchoi/status/2117633564736938471"
-        },
-        {
-          "handle": "@techhalla",
-          "name": "TechHalla",
-          "hits": 31,
-          "days": 18,
-          "views": 1499532,
-          "best": 401489,
-          "best_url": "https://x.com/techhalla/status/2121579235085259242"
-        },
-        {
-          "handle": "@azed_ai",
-          "name": "Amira Zairi",
-          "hits": 36,
-          "days": 17,
-          "views": 391540,
-          "best": 45172,
-          "best_url": "https://x.com/azed_ai/status/2118615382101762484"
-        },
-        {
-          "handle": "@CharaspowerAI",
-          "name": "Pierrick Chevallier | IA",
-          "hits": 3,
-          "days": 3,
-          "views": 284468,
-          "best": 98040,
-          "best_url": "https://x.com/CharaspowerAI/status/2118055783908925927"
-        },
-        {
-          "handle": "@AIWarper",
-          "name": "A.I.Warper",
-          "hits": 13,
-          "days": 10,
-          "views": 147491,
-          "best": 31162,
-          "best_url": "https://x.com/AIWarper/status/2118423800429916381"
-        },
-        {
-          "handle": "@maxescu",
-          "name": "Alex Patrascu",
-          "hits": 6,
-          "days": 4,
-          "views": 58919,
-          "best": 18346,
-          "best_url": "https://x.com/maxescu/status/2123517448968081910"
-        },
-        {
-          "handle": "@MayorKingAI",
-          "name": "MayorkingAI",
-          "hits": 3,
-          "days": 3,
-          "views": 42771,
-          "best": 25455,
-          "best_url": "https://x.com/MayorKingAI/status/2125620576836554877"
-        },
-        {
-          "handle": "@Salmaaboukarr",
-          "name": "Salma",
-          "hits": 2,
-          "days": 2,
-          "views": 28060,
-          "best": 14682,
-          "best_url": "https://x.com/Salmaaboukarr/status/2123572404030931340"
-        }
-      ]
-    }
+ "title": "Daily X narrative digest - 2026-11-26",
+ "date": "2026-11-26",
+ "timezone": "Europe/Paris",
+ "updated": "2026-11-27T09:25:15+01:00",
+ "brand_title": "LudovicCreator X Virality Score",
+ "brand_handle": "@LudovicCreator",
+ "hits": [
+  {
+   "handle": "@techhalla",
+   "name": "TechHalla",
+   "url": "https://x.com/techhalla/status/2125942603698815188",
+   "status_url": "https://x.com/techhalla/status/2125942603698815188",
+   "text": "X-Men but it's 1974\n\nHow to make yours in Magnific 👇 https://t.co/x8mmMlH1j0",
+   "original_en": "X-Men but it's 1974\n\nHow to make yours in Magnific 👇 https://t.co/x8mmMlH1j0",
+   "views": 92048,
+   "likes": 1487,
+   "reposts": 220,
+   "bookmarks": 346,
+   "created_at": "2026-11-26T13:19:49.000Z",
+   "highlight": true,
+   "self_quote": false
   },
-  "board_features": {
-    "count_up": true,
-    "live_pulse": true,
-    "theme_toggle": true,
-    "themes": [
-      "night",
-      "day"
-    ],
-    "grok_ambient": true,
-    "week_month_boards": true,
-    "day_roster_best_total": true,
-    "day_compare_chart": true,
-    "week_strip": true,
-    "no_hits_reasons": true,
-    "marker_class": "xvs-dash-2026",
-    "top10_drafts_v4": true,
-    "trend_keywords": true,
-    "trend_radar": true,
-    "x_keyword_table": true,
-    "experiment": true,
-    "self_quote_badge": true
+  {
+   "handle": "@minchoi",
+   "name": "Min Choi",
+   "url": "https://x.com/minchoi/status/2125728944087589257",
+   "status_url": "https://x.com/minchoi/status/2125728944087589257",
+   "text": "Anthropic just rewrote the API that serves Claude from Python to Rust, using Claude.\n\nClaude wrote the first version of the core in about a week. Then production traffic was checked against both, and teams of Claude agents tracked down and fixed the differences.\n\n~70% less CPU https://t.co/chCZxHW7OK https://t.co/RuBkIQ9Awf",
+   "original_en": "Anthropic just rewrote the API that serves Claude from Python to Rust, using Claude.\n\nClaude wrote the first version of the core in about a week. Then production traffic was checked against both, and teams of Claude agents tracked down and fixed the differences.\n\n~70% less CPU https://t.co/chCZxHW7OK https://t.co/RuBkIQ9Awf",
+   "views": 14674,
+   "likes": 110,
+   "reposts": 12,
+   "bookmarks": 42,
+   "created_at": "2026-11-25T23:10:49.000Z",
+   "highlight": true,
+   "self_quote": false
   },
-  "operator": {
-    "handle": "@LudovicCreator",
-    "name": "Ludovic (Lumen Velar)",
-    "profile_url": "https://x.com/LudovicCreator"
+  {
+   "handle": "@EHuanglu",
+   "name": "el.cine",
+   "url": "https://x.com/EHuanglu/status/2125921162891079983",
+   "status_url": "https://x.com/EHuanglu/status/2125921162891079983",
+   "text": "people still think AI can only make short clips https://t.co/jxNau2UIlT",
+   "original_en": "people still think AI can only make short clips https://t.co/jxNau2UIlT",
+   "views": 13607,
+   "likes": 103,
+   "reposts": 7,
+   "bookmarks": 29,
+   "created_at": "2026-11-26T11:54:37.000Z",
+   "highlight": true,
+   "self_quote": false
   },
-  "ui": {
-    "default_theme": "night"
+  {
+   "handle": "@maxescu",
+   "name": "Alex Patrascu",
+   "url": "https://x.com/maxescu/status/2125963466670260487",
+   "status_url": "https://x.com/maxescu/status/2125963466670260487",
+   "text": "Seedance-level quality, but 7x cheaper.\n\nHere are the top 5 things I learned about MAGI-2 so far:\n\n1. Give each character a video sheet, not a still\n2. Send a structured prompt in Chinese\n3. Time everything to a tenth of a second\n4. Fill every frame and move the camera\n5. Upload https://t.co/PatOCup79K",
+   "original_en": "Seedance-level quality, but 7x cheaper.\n\nHere are the top 5 things I learned about MAGI-2 so far:\n\n1. Give each character a video sheet, not a still\n2. Send a structured prompt in Chinese\n3. Time everything to a tenth of a second\n4. Fill every frame and move the camera\n5. Upload https://t.co/PatOCup79K",
+   "views": 11869,
+   "likes": 231,
+   "reposts": 10,
+   "bookmarks": 258,
+   "created_at": "2026-11-26T14:42:43.000Z",
+   "highlight": true,
+   "self_quote": false
   },
-  "day_roster": [
-    {
-      "handle": "@EHuanglu",
-      "posts": 2,
-      "total_views": 211984,
-      "best_views": 166125
-    },
-    {
-      "handle": "@techhalla",
-      "posts": 5,
-      "total_views": 59370,
-      "best_views": 45267
-    },
-    {
-      "handle": "@minchoi",
-      "posts": 2,
-      "total_views": 45524,
-      "best_views": 32079
-    },
-    {
-      "handle": "@MayorKingAI",
-      "posts": 2,
-      "total_views": 29070,
-      "best_views": 25455
-    },
-    {
-      "handle": "@AIWarper",
-      "posts": 2,
-      "total_views": 19366,
-      "best_views": 15550
-    },
-    {
-      "handle": "@azed_ai",
-      "posts": 6,
-      "total_views": 27112,
-      "best_views": 8468
-    },
-    {
-      "handle": "@maxescu",
-      "posts": 4,
-      "total_views": 6597,
-      "best_views": 2738
-    },
-    {
-      "handle": "@Salmaaboukarr",
-      "posts": 1,
-      "total_views": 1671,
-      "best_views": 1671
-    },
-    {
-      "handle": "@CharaspowerAI",
-      "posts": 4,
-      "total_views": 5532,
-      "best_views": 1571
-    },
-    {
-      "handle": "@ai_artworkgen",
-      "posts": 2,
-      "total_views": 1743,
-      "best_views": 1162
-    },
-    {
-      "handle": "@CoffeeVectors",
-      "posts": 1,
-      "total_views": 886,
-      "best_views": 886
-    }
+  {
+   "handle": "@minchoi",
+   "name": "Min Choi",
+   "url": "https://x.com/minchoi/status/2125985945740525641",
+   "status_url": "https://x.com/minchoi/status/2125985945740525641",
+   "text": "Karpathy just had Claude turn the entire US into a Civilization-style game map.\n\nOpus 5.5 pulled 31 real public datasets (Census, BLS, NOAA, FAA...) onto one 25 km hex grid. 7 hours, 45K lines of code.\n\nGDP is gold. San Jose gets a Campus. Detroit is \"Motor city.\" 🤯 https://t.co/CncM4n5z2x",
+   "original_en": "Karpathy just had Claude turn the entire US into a Civilization-style game map.\n\nOpus 5.5 pulled 31 real public datasets (Census, BLS, NOAA, FAA...) onto one 25 km hex grid. 7 hours, 45K lines of code.\n\nGDP is gold. San Jose gets a Campus. Detroit is \"Motor city.\" 🤯 https://t.co/CncM4n5z2x",
+   "views": 11782,
+   "likes": 64,
+   "reposts": 3,
+   "bookmarks": 28,
+   "created_at": "2026-11-26T16:12:03.000Z",
+   "highlight": true,
+   "self_quote": false
+  },
+  {
+   "handle": "@AIWarper",
+   "name": "A.I.Warper",
+   "url": "https://x.com/AIWarper/status/2126038879702745548",
+   "status_url": "https://x.com/AIWarper/status/2126038879702745548",
+   "text": "In case you’re wondering about MAGI-2’s open source preview weights on Huggingface…\n\nI’ll let you be the judge. \n\nVideo 1: through their inference \n\nVideo 2: running on open weights 🥲 https://t.co/ZO4jdOLXZB",
+   "original_en": "In case you’re wondering about MAGI-2’s open source preview weights on Huggingface…\n\nI’ll let you be the judge. \n\nVideo 1: through their inference \n\nVideo 2: running on open weights 🥲 https://t.co/ZO4jdOLXZB",
+   "views": 11577,
+   "likes": 126,
+   "reposts": 0,
+   "bookmarks": 54,
+   "created_at": "2026-11-26T19:42:23.000Z",
+   "highlight": true,
+   "self_quote": false
+  },
+  {
+   "handle": "@AIWarper",
+   "name": "A.I.Warper",
+   "url": "https://x.com/AIWarper/status/2125813387733147820",
+   "status_url": "https://x.com/AIWarper/status/2125813387733147820",
+   "text": "Alright who’s spinning up MAGI 2 for me to test that isn’t Higgs?",
+   "original_en": "Alright who’s spinning up MAGI 2 for me to test that isn’t Higgs?",
+   "views": 8342,
+   "likes": 56,
+   "reposts": 1,
+   "bookmarks": 13,
+   "created_at": "2026-11-26T04:46:21.000Z",
+   "highlight": false,
+   "self_quote": false
+  },
+  {
+   "handle": "@maxescu",
+   "name": "Alex Patrascu",
+   "url": "https://x.com/maxescu/status/2125859973598965769",
+   "status_url": "https://x.com/maxescu/status/2125859973598965769",
+   "text": "MAGI-2 is the king of animation.\n\nI tested hundreds of styles, and I can say...\nIt's better than Seedance 2.5\n\nA lot better: https://t.co/jiXI1UmMBw",
+   "original_en": "MAGI-2 is the king of animation.\n\nI tested hundreds of styles, and I can say...\nIt's better than Seedance 2.5\n\nA lot better: https://t.co/jiXI1UmMBw",
+   "views": 6045,
+   "likes": 101,
+   "reposts": 2,
+   "bookmarks": 61,
+   "created_at": "2026-11-26T07:51:28.000Z",
+   "highlight": false,
+   "self_quote": false
+  },
+  {
+   "handle": "@AIWarper",
+   "name": "A.I.Warper",
+   "url": "https://x.com/AIWarper/status/2125981679068324079",
+   "status_url": "https://x.com/AIWarper/status/2125981679068324079",
+   "text": "My first experiment with MAGI-2\n\nVideo 1 = MAGI\nVideo 2 = 3 Other models I shared last week\n\nSame prompt (I need to look into prompting for this)\n\nThoughts? https://t.co/aXmagc0B68",
+   "original_en": "My first experiment with MAGI-2\n\nVideo 1 = MAGI\nVideo 2 = 3 Other models I shared last week\n\nSame prompt (I need to look into prompting for this)\n\nThoughts? https://t.co/aXmagc0B68",
+   "views": 5554,
+   "likes": 87,
+   "reposts": 6,
+   "bookmarks": 24,
+   "created_at": "2026-11-26T15:55:05.000Z",
+   "highlight": false,
+   "self_quote": false
+  },
+  {
+   "handle": "@AIWarper",
+   "name": "A.I.Warper",
+   "url": "https://x.com/AIWarper/status/2126012160967160033",
+   "status_url": "https://x.com/AIWarper/status/2126012160967160033",
+   "text": "In order, here is:\n\nMAGI-2\nFLUX 3\nKLING 4.0\nKLING 4.0 FLASH\n\nAlso.... if this stuff is helpful at all please share! A single button push to you helps me immensely 💙 https://t.co/ohO5PuqIqD",
+   "original_en": "In order, here is:\n\nMAGI-2\nFLUX 3\nKLING 4.0\nKLING 4.0 FLASH\n\nAlso.... if this stuff is helpful at all please share! A single button push to you helps me immensely 💙 https://t.co/ohO5PuqIqD",
+   "views": 5470,
+   "likes": 138,
+   "reposts": 16,
+   "bookmarks": 49,
+   "created_at": "2026-11-26T17:56:13.000Z",
+   "highlight": false,
+   "self_quote": false
+  }
+ ],
+ "virals": [],
+ "outsiders": [
+  {
+   "handle": "@ZoraAi_X",
+   "name": "ZORA AI",
+   "url": "https://x.com/ZoraAi_X/status/2125975997376012525",
+   "status_url": "https://x.com/ZoraAi_X/status/2125975997376012525",
+   "text": "That moment when AI video gets a little too real 😳 Seedance 2.5 is turning heads! The cinematic vibes are on another level. Every frame feels like a movie scene. From the lighting to the expressions, wow! This is what creative experimentation looks like. AI filmmaking is getting https://t.co/C4UzXvFEM2",
+   "original_en": "That moment when AI video gets a little too real 😳 Seedance 2.5 is turning heads! The cinematic vibes are on another level. Every frame feels like a movie scene. From the lighting to the expressions, wow! This is what creative experimentation looks like. AI filmmaking is getting https://t.co/C4UzXvFEM2",
+   "views": 584,
+   "likes": 23,
+   "reposts": 17,
+   "bookmarks": 0,
+   "created_at": "2026-11-26T15:32:31.000Z",
+   "highlight": false,
+   "self_quote": false
+  },
+  {
+   "handle": "@CurieuxExplorer",
+   "name": "Dev Khanna",
+   "url": "https://x.com/CurieuxExplorer/status/2125861007704879544",
+   "status_url": "https://x.com/CurieuxExplorer/status/2125861007704879544",
+   "text": "The MACRO World | The Needle’s Journey 🪡\n\nTurning a single stitch into a 15-second cinematic adventure.\n\nExploring AI filmmaking with MAGI-2 through extreme macro cinematography, continuous FPV and intricate textile physics. Technology meets craftsmanship.\n\nCreated with MAGI-2 https://t.co/EwG3Sdw6hQ",
+   "original_en": "The MACRO World | The Needle’s Journey 🪡\n\nTurning a single stitch into a 15-second cinematic adventure.\n\nExploring AI filmmaking with MAGI-2 through extreme macro cinematography, continuous FPV and intricate textile physics. Technology meets craftsmanship.\n\nCreated with MAGI-2 https://t.co/EwG3Sdw6hQ",
+   "views": 610,
+   "likes": 7,
+   "reposts": 3,
+   "bookmarks": 2,
+   "created_at": "2026-11-26T07:55:35.000Z",
+   "highlight": false,
+   "self_quote": false
+  },
+  {
+   "handle": "@CurieuxExplorer",
+   "name": "Dev Khanna",
+   "url": "https://x.com/CurieuxExplorer/status/2125832883508236710",
+   "status_url": "https://x.com/CurieuxExplorer/status/2125832883508236710",
+   "text": "Human emotion is one of the most fascinating challenges in AI filmmaking.\n\nMAGI-2 brings subtle expressions, natural body language and emotional continuity into focus, opening interesting creative possibilities for visual storytelling, UGC and digital advertising.\n\nTechnology https://t.co/Fuwu2eNk02",
+   "original_en": "Human emotion is one of the most fascinating challenges in AI filmmaking.\n\nMAGI-2 brings subtle expressions, natural body language and emotional continuity into focus, opening interesting creative possibilities for visual storytelling, UGC and digital advertising.\n\nTechnology https://t.co/Fuwu2eNk02",
+   "views": 1269,
+   "likes": 8,
+   "reposts": 2,
+   "bookmarks": 2,
+   "created_at": "2026-11-26T06:03:50.000Z",
+   "highlight": false,
+   "self_quote": false
+  },
+  {
+   "handle": "@CurieuxExplorer",
+   "name": "Dev Khanna",
+   "url": "https://x.com/CurieuxExplorer/status/2125826975692706084",
+   "status_url": "https://x.com/CurieuxExplorer/status/2125826975692706084",
+   "text": "The MACRO World has always been my creative sweet spot 🔍\n\nWhat fascinates me about AI filmmaking is the ability to explore perspectives we rarely experience.\n\nMAGI-2 captures the intricate movement of ants, granular soil textures, depth perception and the transition into an https://t.co/KmuqXjePhz",
+   "original_en": "The MACRO World has always been my creative sweet spot 🔍\n\nWhat fascinates me about AI filmmaking is the ability to explore perspectives we rarely experience.\n\nMAGI-2 captures the intricate movement of ants, granular soil textures, depth perception and the transition into an https://t.co/KmuqXjePhz",
+   "views": 531,
+   "likes": 7,
+   "reposts": 1,
+   "bookmarks": 1,
+   "created_at": "2026-11-26T05:40:21.000Z",
+   "highlight": false,
+   "self_quote": false
+  },
+  {
+   "handle": "@Aiminithoughts",
+   "name": "Ai Mini Thoughts Creator",
+   "url": "https://x.com/Aiminithoughts/status/2125843724206837830",
+   "status_url": "https://x.com/Aiminithoughts/status/2125843724206837830",
+   "text": "This AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\n\nPrompt in Comment Section\n👇👇👇 https://t.co/VBQGwAAN5h",
+   "original_en": "This AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\n\nPrompt in Comment Section\n👇👇👇 https://t.co/VBQGwAAN5h",
+   "views": 624,
+   "likes": 38,
+   "reposts": 11,
+   "bookmarks": 3,
+   "created_at": "2026-11-26T06:46:54.000Z",
+   "highlight": false,
+   "self_quote": false
+  },
+  {
+   "handle": "@Aiminithoughts",
+   "name": "Ai Mini Thoughts Creator",
+   "url": "https://x.com/Aiminithoughts/status/2125981162002903491",
+   "status_url": "https://x.com/Aiminithoughts/status/2125981162002903491",
+   "text": "This AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\n\nPrompt in Comment Section\n👇👇👇 https://t.co/HG97XjhKNC",
+   "original_en": "This AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\n\nPrompt in Comment Section\n👇👇👇 https://t.co/HG97XjhKNC",
+   "views": 814,
+   "likes": 33,
+   "reposts": 10,
+   "bookmarks": 5,
+   "created_at": "2026-11-26T15:53:02.000Z",
+   "highlight": false,
+   "self_quote": false
+  },
+  {
+   "handle": "@Aiminithoughts",
+   "name": "Ai Mini Thoughts Creator",
+   "url": "https://x.com/Aiminithoughts/status/2125781184483303647",
+   "status_url": "https://x.com/Aiminithoughts/status/2125781184483303647",
+   "text": "This AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\n\nPrompt in Comment Section\n👇👇👇 https://t.co/vGxAzyTtEv",
+   "original_en": "This AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\n\nPrompt in Comment Section\n👇👇👇 https://t.co/vGxAzyTtEv",
+   "views": 899,
+   "likes": 48,
+   "reposts": 14,
+   "bookmarks": 4,
+   "created_at": "2026-11-26T02:38:24.000Z",
+   "highlight": false,
+   "self_quote": false
+  },
+  {
+   "handle": "@Aiminithoughts",
+   "name": "Ai Mini Thoughts Creator",
+   "url": "https://x.com/Aiminithoughts/status/2126063282272477391",
+   "status_url": "https://x.com/Aiminithoughts/status/2126063282272477391",
+   "text": "This AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\n\nPrompt in Comment Section\n👇👇👇 https://t.co/HCMNlQK6oR",
+   "original_en": "This AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\n\nPrompt in Comment Section\n👇👇👇 https://t.co/HCMNlQK6oR",
+   "views": 552,
+   "likes": 30,
+   "reposts": 7,
+   "bookmarks": 3,
+   "created_at": "2026-11-26T21:19:21.000Z",
+   "highlight": false,
+   "self_quote": false
+  },
+  {
+   "handle": "@Aiminithoughts",
+   "name": "Ai Mini Thoughts Creator",
+   "url": "https://x.com/Aiminithoughts/status/2125801299622900076",
+   "status_url": "https://x.com/Aiminithoughts/status/2125801299622900076",
+   "text": "This AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\n\nPrompt in Comment Section\n👇👇👇 https://t.co/LA0dWk2Nnp",
+   "original_en": "This AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\n\nPrompt in Comment Section\n👇👇👇 https://t.co/LA0dWk2Nnp",
+   "views": 1170,
+   "likes": 47,
+   "reposts": 11,
+   "bookmarks": 6,
+   "created_at": "2026-11-26T03:58:19.000Z",
+   "highlight": false,
+   "self_quote": false
+  },
+  {
+   "handle": "@Aiminithoughts",
+   "name": "Ai Mini Thoughts Creator",
+   "url": "https://x.com/Aiminithoughts/status/2125657974572032399",
+   "status_url": "https://x.com/Aiminithoughts/status/2125657974572032399",
+   "text": "Gm Gn Patriots \nThis AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\nPrompt in Comment Section\n👇👇 https://t.co/Q9ejbDvvWB",
+   "original_en": "Gm Gn Patriots \nThis AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\nPrompt in Comment Section\n👇👇 https://t.co/Q9ejbDvvWB",
+   "views": 629,
+   "likes": 45,
+   "reposts": 15,
+   "bookmarks": 2,
+   "created_at": "2026-11-25T18:28:48.000Z",
+   "highlight": false,
+   "self_quote": false
+  }
+ ],
+ "patterns": [
+  "Decade swap goes huge: techhalla 'X-Men but it's 1974 / How to make yours in Magnific' 92K views / 1.5K likes / 346 bookmarks, after One Piece 1977 at 45K the day before. Big pop IP + era restyle + a 'how to make yours' tutorial hook is the format of the week.",
+  "MAGI-2 is the tool wave for a 2nd day: maxescu 'Seedance-level quality, 7x cheaper, top 5 things I learned' 11.9K with 258 bookmarks (best save ratio of the day) and 'king of animation' 6K; AIWarper posts 4 MAGI-2 tests (open weights vs hosted 11.6K, side-by-side vs FLUX 3 / Kling 4.0 5.5K).",
+  "Learnings listicle + model comparison beat pure demos: numbered tips and same-prompt side-by-sides earn saves, while outsider 'Created with MAGI-2' demos stay under ~1.3K views.",
+  "Long-form AI claim: EHuanglu 'people still think AI can only make short clips' 13.6K. Contrarian one-liner + longer video, a softer echo of his 355K/166K streak.",
+  "minchoi stays on Claude/Anthropic engineering news (Rust rewrite 14.7K, Karpathy hex-map game 11.8K): off-niche for VFX."
+ ],
+ "no_hits": [
+  {
+   "handle": "@azed_ai",
+   "reason": "No original on 2026-11-26 reached 5,000 views; highest observed was 3,252 views.",
+   "max_views": 3252
+  },
+  {
+   "handle": "@CharaspowerAI",
+   "reason": "No original on 2026-11-26 reached 5,000 views; highest observed was 4,470 views.",
+   "max_views": 4470
+  },
+  {
+   "handle": "@MayorKingAI",
+   "reason": "No original on 2026-11-26 reached 5,000 views; highest observed was 3,263 views.",
+   "max_views": 3263
+  },
+  {
+   "handle": "@CoffeeVectors",
+   "reason": "No original posts found on 2026-11-26.",
+   "max_views": 0
+  },
+  {
+   "handle": "@Salmaaboukarr",
+   "reason": "No original posts found on 2026-11-26.",
+   "max_views": 0
+  },
+  {
+   "handle": "@ai_artworkgen",
+   "reason": "No original on 2026-11-26 reached 5,000 views; highest observed was 751 views.",
+   "max_views": 751
+  }
+ ],
+ "virals_narrative": "26.11: 10 hits >=5k (6 stars). techhalla's decade swap explodes (X-Men 1974, 92K); MAGI-2 learnings and comparisons from maxescu and AIWarper fill the mid-tier; EHuanglu pushes long-form AI video (13.6K).",
+ "narrative_synthesis": "26.11: 10 hits >=5k (6 stars). techhalla's decade swap explodes (X-Men 1974, 92K); MAGI-2 learnings and comparisons from maxescu and AIWarper fill the mid-tier; EHuanglu pushes long-form AI video (13.6K).",
+ "virals_window": "last ~48h",
+ "virals_target": 20,
+ "hits_count": 10,
+ "outsiders_count": 10,
+ "previous_day": "2026-11-25",
+ "leaderboards": {
+  "as_of": "2026-11-25",
+  "tracking_start": "2026-09-13",
+  "days_included": [
+   "2026-11-19",
+   "2026-11-20",
+   "2026-11-21",
+   "2026-11-22",
+   "2026-11-23",
+   "2026-11-24",
+   "2026-11-25"
   ],
-  "you_rank": null,
-  "trend_input_only_posts": [],
-  "drafts": [
-    {
-      "draft_en": "AI just killed my 10 years of VFX compositing..",
-      "draft_keywords": [
-        "AI VFX",
-        "AI video",
-        "compositing",
-        "before/after"
-      ],
-      "video_tip": "Ride EHuanglu's two-day streak (355K then 166K): one personal, provocative line, the video does the talking. 15-20s: raw plate, AI comp pass, final shot, hard cuts on beat. Show only a workflow you really use (Firefly + Kling/Runway).",
-      "best": true
-    },
-    {
-      "draft_en": "I drew a 6-panel storyboard on paper.\n\nMAGI-2 turned it into this shot.\n\nSketch vs final, side by side 👇",
-      "draft_keywords": [
-        "MAGI-2",
-        "Higgsfield",
-        "storyboard",
-        "AI filmmaking"
-      ],
-      "video_tip": "Split screen: hand-drawn storyboard panel left, MAGI-2 output right, synced timing. It's the format outsiders are flooding today, so win on VFX polish: add a Topaz upscale pass and a real camera move."
-    },
-    {
-      "draft_en": "House of David but it's 1977 🎞️",
-      "draft_keywords": [
-        "decade swap",
-        "AI video",
-        "AI filmmaking",
-        "70s film look"
-      ],
-      "video_tip": "techhalla's 'One Piece but it's 1977' hit 45.3K: big IP + era restyle. Use your own House of David-style scene, 70s film grain, anamorphic flares, faded Kodachrome palette, 15s trailer cut. Only use footage/IP you have the rights to show."
-    },
-    {
-      "draft_en": "This prompt is literally a $5,000 VFX shot.\n\nFree prompt below 👇",
-      "draft_keywords": [
-        "free prompt",
-        "prompt share",
-        "AI VFX",
-        "Firefly"
-      ],
-      "video_tip": "minchoi's '$150/hr app developer' framing earned 562 bookmarks. Show the finished VFX shot first (3s), then the prompt on screen, then 2 variations. Put the full prompt in the post or reply 1 so it gets saved."
-    },
-    {
-      "draft_en": "I didn't animate this.\nI directed it.\n\nOne world, three camera moves, zero keyframes.",
-      "draft_keywords": [
-        "AI filmmaking",
-        "AI video",
-        "camera control",
-        "Kling"
-      ],
-      "video_tip": "Echo MayorKingAI's CineMap 'directed cameras by talking' (25.5K): one AI-built environment, three cuts (crane, dolly, orbit) from the same world. Label the tools on screen (Kling / Luma / Runway, whichever you used)."
-    }
+  "month_days_included": [
+   "2026-11-01",
+   "2026-11-02",
+   "2026-11-03",
+   "2026-11-04",
+   "2026-11-05",
+   "2026-11-06",
+   "2026-11-07",
+   "2026-11-08",
+   "2026-11-09",
+   "2026-11-10",
+   "2026-11-11",
+   "2026-11-12",
+   "2026-11-14",
+   "2026-11-15",
+   "2026-11-16",
+   "2026-11-18",
+   "2026-11-19",
+   "2026-11-20",
+   "2026-11-24",
+   "2026-11-25"
   ],
-  "excluded_hits": []
+  "week": {
+   "label": "Rolling week · Nov 19–Nov 25",
+   "range": [
+    "2026-11-19",
+    "2026-11-25"
+   ],
+   "entries": [
+    {
+     "handle": "@EHuanglu",
+     "name": "el.cine",
+     "hits": 7,
+     "days": 4,
+     "views": 1856993,
+     "best": 1249265,
+     "best_url": "https://x.com/EHuanglu/status/2123637413771985208"
+    },
+    {
+     "handle": "@minchoi",
+     "name": "Min Choi",
+     "hits": 11,
+     "days": 4,
+     "views": 284289,
+     "best": 102226,
+     "best_url": "https://x.com/minchoi/status/2123630368620220846"
+    },
+    {
+     "handle": "@techhalla",
+     "name": "TechHalla",
+     "hits": 6,
+     "days": 4,
+     "views": 188407,
+     "best": 99309,
+     "best_url": "https://x.com/techhalla/status/2123448539439337531"
+    },
+    {
+     "handle": "@azed_ai",
+     "name": "Amira Zairi",
+     "hits": 7,
+     "days": 3,
+     "views": 74769,
+     "best": 26641,
+     "best_url": "https://x.com/azed_ai/status/2125188847663464903"
+    },
+    {
+     "handle": "@MayorKingAI",
+     "name": "MayorkingAI",
+     "hits": 1,
+     "days": 1,
+     "views": 25455,
+     "best": 25455,
+     "best_url": "https://x.com/MayorKingAI/status/2125620576836554877"
+    },
+    {
+     "handle": "@maxescu",
+     "name": "Alex Patrascu",
+     "hits": 1,
+     "days": 1,
+     "views": 18346,
+     "best": 18346,
+     "best_url": "https://x.com/maxescu/status/2123517448968081910"
+    },
+    {
+     "handle": "@AIWarper",
+     "name": "A.I.Warper",
+     "hits": 1,
+     "days": 1,
+     "views": 15550,
+     "best": 15550,
+     "best_url": "https://x.com/AIWarper/status/2125653198707056794"
+    },
+    {
+     "handle": "@Salmaaboukarr",
+     "name": "Salma",
+     "hits": 1,
+     "days": 1,
+     "views": 14682,
+     "best": 14682,
+     "best_url": "https://x.com/Salmaaboukarr/status/2123572404030931340"
+    }
+   ]
+  },
+  "month": {
+   "label": "November 2026 · from Nov 1",
+   "range": [
+    "2026-11-01",
+    "2026-11-25"
+   ],
+   "entries": [
+    {
+     "handle": "@EHuanglu",
+     "name": "el.cine",
+     "hits": 31,
+     "days": 18,
+     "views": 5194259,
+     "best": 1374003,
+     "best_url": "https://x.com/EHuanglu/status/2119090260894515273"
+    },
+    {
+     "handle": "@minchoi",
+     "name": "Min Choi",
+     "hits": 67,
+     "days": 20,
+     "views": 3145542,
+     "best": 1520323,
+     "best_url": "https://x.com/minchoi/status/2117633564736938471"
+    },
+    {
+     "handle": "@techhalla",
+     "name": "TechHalla",
+     "hits": 31,
+     "days": 18,
+     "views": 1499532,
+     "best": 401489,
+     "best_url": "https://x.com/techhalla/status/2121579235085259242"
+    },
+    {
+     "handle": "@azed_ai",
+     "name": "Amira Zairi",
+     "hits": 36,
+     "days": 17,
+     "views": 391540,
+     "best": 45172,
+     "best_url": "https://x.com/azed_ai/status/2118615382101762484"
+    },
+    {
+     "handle": "@CharaspowerAI",
+     "name": "Pierrick Chevallier | IA",
+     "hits": 3,
+     "days": 3,
+     "views": 284468,
+     "best": 98040,
+     "best_url": "https://x.com/CharaspowerAI/status/2118055783908925927"
+    },
+    {
+     "handle": "@AIWarper",
+     "name": "A.I.Warper",
+     "hits": 13,
+     "days": 10,
+     "views": 147491,
+     "best": 31162,
+     "best_url": "https://x.com/AIWarper/status/2118423800429916381"
+    },
+    {
+     "handle": "@maxescu",
+     "name": "Alex Patrascu",
+     "hits": 6,
+     "days": 4,
+     "views": 58919,
+     "best": 18346,
+     "best_url": "https://x.com/maxescu/status/2123517448968081910"
+    },
+    {
+     "handle": "@MayorKingAI",
+     "name": "MayorkingAI",
+     "hits": 3,
+     "days": 3,
+     "views": 42771,
+     "best": 25455,
+     "best_url": "https://x.com/MayorKingAI/status/2125620576836554877"
+    },
+    {
+     "handle": "@Salmaaboukarr",
+     "name": "Salma",
+     "hits": 2,
+     "days": 2,
+     "views": 28060,
+     "best": 14682,
+     "best_url": "https://x.com/Salmaaboukarr/status/2123572404030931340"
+    }
+   ]
+  }
+ },
+ "board_features": {
+  "count_up": true,
+  "live_pulse": true,
+  "theme_toggle": true,
+  "themes": [
+   "night",
+   "day"
+  ],
+  "grok_ambient": true,
+  "week_month_boards": true,
+  "day_roster_best_total": true,
+  "day_compare_chart": true,
+  "week_strip": true,
+  "no_hits_reasons": true,
+  "marker_class": "xvs-dash-2026",
+  "top10_drafts_v4": true,
+  "trend_keywords": true,
+  "trend_radar": true,
+  "x_keyword_table": true,
+  "experiment": true,
+  "self_quote_badge": true
+ },
+ "operator": {
+  "handle": "@LudovicCreator",
+  "name": "Ludovic (Lumen Velar)",
+  "profile_url": "https://x.com/LudovicCreator"
+ },
+ "ui": {
+  "default_theme": "night"
+ },
+ "day_roster": [
+  {
+   "handle": "@techhalla",
+   "posts": 1,
+   "total_views": 92048,
+   "best_views": 92048
+  },
+  {
+   "handle": "@minchoi",
+   "posts": 2,
+   "total_views": 26456,
+   "best_views": 14674
+  },
+  {
+   "handle": "@EHuanglu",
+   "posts": 1,
+   "total_views": 13607,
+   "best_views": 13607
+  },
+  {
+   "handle": "@maxescu",
+   "posts": 5,
+   "total_views": 21180,
+   "best_views": 11869
+  },
+  {
+   "handle": "@AIWarper",
+   "posts": 7,
+   "total_views": 40550,
+   "best_views": 11577
+  },
+  {
+   "handle": "@CharaspowerAI",
+   "posts": 4,
+   "total_views": 8427,
+   "best_views": 4470
+  },
+  {
+   "handle": "@MayorKingAI",
+   "posts": 1,
+   "total_views": 3263,
+   "best_views": 3263
+  },
+  {
+   "handle": "@azed_ai",
+   "posts": 7,
+   "total_views": 13333,
+   "best_views": 3252
+  },
+  {
+   "handle": "@ai_artworkgen",
+   "posts": 1,
+   "total_views": 751,
+   "best_views": 751
+  }
+ ],
+ "you_rank": null,
+ "trend_input_only_posts": [],
+ "drafts": [
+  {
+   "draft_en": "Gladiator but it's 1974 🎞️\n\nHow I made it with Firefly + Magnific 👇",
+   "draft_keywords": [
+    "decade swap",
+    "Magnific",
+    "Firefly",
+    "AI VFX"
+   ],
+   "video_tip": "techhalla's 'X-Men but it's 1974' hit 92K with a 'how to make yours' hook. 15s trailer cut: 70s film grain, anamorphic flares, faded Kodachrome palette, title card in a period font. Then a thread: 1 base image, 2 Magnific restyle, 3 animate (Kling/Runway). Pick an IP you are comfortable restyling; fan-art reach depends on it.",
+   "best": true
+  },
+  {
+   "draft_en": "I tested MAGI-2 on 50 VFX shots.\n\n5 things I learned 👇",
+   "draft_keywords": [
+    "MAGI-2",
+    "AI video",
+    "AI VFX",
+    "prompt share"
+   ],
+   "video_tip": "maxescu's numbered MAGI-2 learnings got 258 bookmarks on 11.9K views. 20s montage of your best 5 shots with the tip number burned in on each cut. Only list tips you actually verified."
+  },
+  {
+   "draft_en": "Same prompt. 4 models.\n\nMAGI-2 vs Kling 4.0 vs Seedance vs Firefly.\n\nWhich one nails the explosion?",
+   "draft_keywords": [
+    "MAGI-2",
+    "Kling",
+    "Seedance",
+    "Firefly"
+   ],
+   "video_tip": "AIWarper's same-prompt side-by-sides keep landing 5-11K. 2x2 grid, one VFX-heavy prompt (explosion, smoke, debris), labels on each tile, 8-10s loop. Ask followers to vote in replies."
+  },
+  {
+   "draft_en": "People still think AI can only make 5-second clips.\n\nThis is 2 minutes. One continuous story.",
+   "draft_keywords": [
+    "AI filmmaking",
+    "AI video",
+    "long-form",
+    "AI VFX"
+   ],
+   "video_tip": "Echo EHuanglu's 13.6K 'only short clips' line. Post a 60-120s cut of a real project (Saturday Challenge or a client-safe piece) with consistent characters; open with the strongest 3 seconds."
+  },
+  {
+   "draft_en": "Open weights vs hosted.\n\nSame MAGI-2 prompt, two very different shots. Be the judge 👇",
+   "draft_keywords": [
+    "MAGI-2",
+    "open source",
+    "AI video",
+    "Higgsfield"
+   ],
+   "video_tip": "AIWarper's open-weights vs inference test hit 11.6K. Split screen, same seed and prompt, label both sides, add one line on render time/cost. Only post if you really ran both."
+  }
+ ],
+ "excluded_hits": []
 }
